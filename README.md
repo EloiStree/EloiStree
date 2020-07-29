@@ -16,10 +16,49 @@ Have fun, may the code be with you 🍻.
 ## Who Am I  🤔?
 [![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)
 
-## Some links
+## Links
+📝
+|Toolbox | Contact |
+|:---: | :---: |
+| Board |  |
+| [📝]( https://eloistree.page.link/board) | Roadmap |
+| [💻]( https://eloistree.page.link/publicgit) | Public Git |
+| [📦]( https://eloistree.page.link/publicpackage) | Public Package |
+| [☕](https://eloistree.page.link/donation) | Coffee Support|
+| [💲](https://eloistree.page.link/license)| Commercial License |
+| Toolbox |  |
+| [🧰]( https://eloistree.page.link/toolbox) | Unity Toolbox |
+| [📁](https://eloistree.page.link/publicstorage) | Public Drive |Annonces
+| Youtube Video |  |
+| [🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  | Toolbox Intro |
+| [🧪](https://eloistree.page.link/video) | Raw Video |
+| Workshop |  |
+| [📚](https://eloistree.page.link/teaching)  | History |
+| [🕹️](https://eloistree.page.link/unity) |  Unity (fr) |
+| [💥](https://github.com/EloiStree/HelloRemoteFirework/wiki) | Arduino |
+| [🖌️](https://eloistree.page.link/paintingjam)  | Paint VR |
+| [🥽](https://eloistree.page.link/vr)  | VR (fr) |
+| [🥽](http://eloistree.page.link/quest)  | Quest (en) |
+| Store |  |
+| [🎮](https://eloistree.page.link/game) Games | Toolbox |
+| [📱](https://eloistree.page.link/playstore) Play Store  | Store |
+| [🥽](https://eloistree.page.link/sidequest) | Store |
+| Contact |  |
+| [💬](https://eloistree.page.link/discord) | Talk |
+| [https://cdn.iconscout.com/icon/free/png-256/twitch-7-282150.png](https://eloistree.page.link/stream) | Stream |
+| Store | Store |
+| Store | Store |
+| Store | Store |
+| Store | Store |
+| Store | Store |
+
+
+
+
+
 |Toolbox | Contact | Public drive | Game |video| Teaching | Store | Donation |
 |:---: | :---: | :---: | :---: | :---: |-| :---: | :---: |
-|[🧰]( https://eloistree.page.link/toolbox) Toolbox | [💬](https://eloistree.page.link/discord) Talk| [📁](https://eloistree.page.link/publicstorage) Drive| [🎮](https://eloistree.page.link/game) Games |[🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg) Tools <br/> [🧪](https://eloistree.page.link/video)Research|[🕹️](https://eloistree.page.link/unity) Unity <br/>[💥](https://github.com/EloiStree/HelloRemoteFirework/wiki)Arduino <br/>[📚](https://eloistree.page.link/teaching) Teacher<br/> [🥽](https://eloistree.page.link/vr) VR(fr) <br/>[🖌️](https://eloistree.page.link/paintingjam) Paint VR | [🥽](https://eloistree.page.link/sidequest) Side Quest <br/>[📱](https://eloistree.page.link/playstore) Play Store  | [☕&🍻](https://eloistree.page.link/donation) Ko-Fi|
+| Toolbox |  Talk| Drive|  |<br/> Research| <br/> <br/><br/>  <br/> |  Side Quest <br/> | |
 
 ------------
 Test

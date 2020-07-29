@@ -34,12 +34,8 @@ Have fun, may the code be with you 🍻.
 | <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"> 💬</a> | Twitch Chat |[🥽](http://eloistree.page.link/quest)  | Quest (en) |
 |  |  |[📚](https://eloistree.page.link/teaching)  | Archive |
 | **Store** |  | |  |
-| [🎮](https://eloistree.page.link/game) Games | Toolbox | [📱](https://eloistree.page.link/playstore) Play Store  | Store |
-| [🥽](https://eloistree.page.link/sidequest) | Store |I | L |
-
-
-
-📌 📍 📕 📗 📘 📙 📚📒
+| [🎮](https://eloistree.page.link/game)  | Game | [📱](https://eloistree.page.link/playstore)   | Play Store |
+| [🥽](https://eloistree.page.link/sidequest) | Side Quest|  |  |
 
 
 -------------------

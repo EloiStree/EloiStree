@@ -26,8 +26,7 @@ Test
 -------------------
 |Toolbox | Contact |
 |:---: | :---: |
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) |
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) |
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) |
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloistree&show_icons=true&theme=radical)
 
 

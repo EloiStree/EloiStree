@@ -1,16 +1,13 @@
 ### Hi there 👋
-Welcome to you.    
 
-To make it shorts.  
-I am very very messy...
-That resume my daily life and my researches 😅.  
-
+To make it shorts. I am very very messy...  😅  
+ 
 But if you take time to look in this mess...    
-Ouh boy you surely willd do find what you are not looking for 😝.  
+Ouh boy you surely will do find what you are not looking for 😝.  
 _But that is the point of the research and development._
 
 
-I am always availaible 😄 for talk about VR, Unity & new-tech.    
+I am always availaible 😄 to talk about VR, Unity & new-tech.    
 So feel free to ping me to take a ☕ break.    
 
 Have fun, may the code be with you 🍻.

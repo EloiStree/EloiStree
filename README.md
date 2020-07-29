@@ -88,8 +88,8 @@ Tool use to teach and share knowedge during workshop.
 
 
 # 📌 Licensing
-My license is unique for all my productions:
-- donation based for personnal use
-- global 50€ life-time for commercial use
+My license is unique for all my productions:  
 [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=GeneralLicense)](https://github.com/EloiStree/GeneralLicense)
+- donation based for personnal use  
+- global 50€ life-time for commercial use  
 

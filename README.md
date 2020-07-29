@@ -45,27 +45,32 @@ Have fun, may the code be with you 🍻.
 -------------------
 # 📚 Main Repository
 ## 📕 Package Facilitator
+Tools to facilitate the creation of package toolbox in Unity with Git.
 | Git Utility | Package Facilitator  |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2019_07_21_QuickGitUtility)](https://github.com/EloiStree/2019_07_21_QuickGitUtility) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2019_07_21_UnityPackageFacilitator)](https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator) |
 
 ## 📗 Restream Hack Relay
+Allow to play with and filter the chat messages of live streams through Restream chat.  
 |  |   |
 |:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackUnityCore)](https://github.com/EloiStree/2020_07_12_ReHackUnityCore) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackUnityEloiDemo)](https://github.com/EloiStree/2020_07_12_ReHackUnityEloiDemo) |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackRelay)](https://github.com/EloiStree/2020_07_12_ReHackRelay) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_15_ReHackToJOMI)](https://github.com/EloiStree/2020_07_15_ReHackToJOMI) |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackUnityCore)](https://github.com/EloiStree/2020_07_12_ReHackUnityCore) | [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackRelay)|
+|[![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackUnityEloiDemo)](https://github.com/EloiStree/2020_07_12_ReHackUnityEloiDemo) ](https://github.com/EloiStree/2020_07_12_ReHackRelay) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_15_ReHackToJOMI)](https://github.com/EloiStree/2020_07_15_ReHackToJOMI) |
 
 ## 📒 Open Macro Input
+Big open project that aim to let's people trigger macro and actions from a large game of input. Closing the bridge between the mechanical buttons to action(s) on operating systems.
 |  |   |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInputRuntime)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInput)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInput) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=OpenMacroInput)](https://github.com/EloiStree/OpenMacroInput) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=OpenMacroInputCommunityMapping)](https://github.com/EloiStree/OpenMacroInputCommunityMapping) |
 
 ### 📒 Linked Packages
-|  |   |
+Package that allow the construction of the main project OMI.
+| 🚧 |  🚧 |
 |:---: | :---: |
 
 ## 📘 CNC for one Month
+Research about how to use CNC for Arduino projects.
 |  |   |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_01_CNC41Month)](https://github.com/EloiStree/2020_08_01_CNC41Month) | |
@@ -73,14 +78,18 @@ Have fun, may the code be with you 🍻.
 
 
 # 📚 Workshop
+Tool use to teach and share knowedge during workshop.
 | |  |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnity)](https://github.com/EloiStree/HelloUnity) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=CodeAndQuestsEveryDay)](https://github.com/EloiStree/CodeAndQuestsEveryDay) |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2019_01_30_HelloUnityPackageToolbox)](https://github.com/EloiStree/2019_01_30_HelloUnityPackageToolbox) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityPackage)](https://github.com/EloiStree/HelloUnityPackage) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloHololens)](https://github.com/EloiStree/HelloHololens) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2018_02_11_HelloUnityForArtists)](https://github.com/EloiStree/2018_02_11_HelloUnityForArtists) |
 
 
 # 📌 Licensing
+My license is unique for all my productions:
+- donation based for personnal use
+- global 50€ life-time for commercial use
 [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=GeneralLicense)](https://github.com/EloiStree/GeneralLicense)
 

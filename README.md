@@ -43,8 +43,7 @@ Have fun, may the code be with you 🍻.
 
 
 -------------------
-# 📚 Best Repository
-[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=GeneralLicense)](https://github.com/EloiStree/GeneralLicense)
+# 📚 Main Repository
 ## 📕 Package Facilitator
 | Git Utility | Package Facilitator  |
 |:---: | :---: |
@@ -82,4 +81,6 @@ Have fun, may the code be with you 🍻.
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloHololens)](https://github.com/EloiStree/HelloHololens) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2018_02_11_HelloUnityForArtists)](https://github.com/EloiStree/2018_02_11_HelloUnityForArtists) |
 
 
+# 📌 Licensing
+[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=GeneralLicense)](https://github.com/EloiStree/GeneralLicense)
 

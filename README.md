@@ -21,3 +21,19 @@ Have fun, may the code be with you 🍻.
 |:---: | :---: | :---: | :---: | :---: |-| :---: | :---: |
 |[🧰]( https://eloistree.page.link/toolbox) | [🛎💬](https://eloistree.page.link/discord)| [📁](https://eloistree.page.link/publicstorage) | [🎮](https://eloistree.page.link/game) |[🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)[🧪](https://eloistree.page.link/video)|[🕹️](https://eloistree.page.link/unity)[💥](https://github.com/EloiStree/HelloRemoteFirework/wiki)[📚](https://eloistree.page.link/teaching) [🥽](https://eloistree.page.link/vr)[🖌️](https://eloistree.page.link/paintingjam) | [🥽](https://eloistree.page.link/sidequest)[📱](https://eloistree.page.link/playstore)  | [☕&🍻](https://eloistree.page.link/donation)|
 
+------------
+Test
+-------------------
+1
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+2
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+3
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+4
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+5
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+6
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -21,7 +21,7 @@ Have fun, may the code be with you 🍻.
 | Link | Info |
 |:---: | :---: |
 | **Board** |  |
-| [📝]( https://eloistree.page.link/board) | Roadmap |
+| [📅]( https://eloistree.page.link/board) | Roadmap |
 | [💻]( https://eloistree.page.link/publicgit) | Public Git |
 | [📦]( https://eloistree.page.link/publicpackage) | Public Package |
 | [☕](https://eloistree.page.link/donation) | Coffee Support|
@@ -32,6 +32,7 @@ Have fun, may the code be with you 🍻.
 | **Youtube Video** |  |
 | [🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  | Toolbox Intro |
 | [🧪](https://eloistree.page.link/video) | Raw Video |
+| [👀](https://eloistree.page.link/lookingfor) | R&D Playlist|
 | **Teaching** |  |
 | [🕹️](https://eloistree.page.link/unity) |  Unity (fr) |
 | [💥](https://github.com/EloiStree/HelloRemoteFirework/wiki) | Arduino |
@@ -45,21 +46,23 @@ Have fun, may the code be with you 🍻.
 | [🥽](https://eloistree.page.link/sidequest) | Store |
 | **Contact** |  |
 | [💬](https://eloistree.page.link/discord) | Talk |
-| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"></a> | Live |
-| **Store** |  |
-| Store | Store |
-| Store | Store |
-| Store | Store |
-| Store | Store |
+| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px">📹</a> | Live |
+| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px">💬</a> | Live |
 
 
+📌 📍 📕 📗 📘 📙 📚📒
 
 
 Test
 -------------------
 |Toolbox | Contact |
 |:---: | :---: |
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) |
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloistree&show_icons=true&theme=radical)
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) |
 
+|Toolbox | Contact |Toolbox | Contact |
+|:---: | :---: |:---: | :---: |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) |
+
+--------------
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloistree&show_icons=true&theme=radical)
 

@@ -45,7 +45,7 @@ Have fun, may the code be with you 🍻.
 | [🥽](https://eloistree.page.link/sidequest) | Store |
 | **Contact** |  |
 | [💬](https://eloistree.page.link/discord) | Talk |
-| <a href="https://eloistree.page.link/stream"><img href="images/twitch.png" width="14px" height="14px"/></a> | Live |
+| <a href="https://eloistree.page.link/stream"><img href="Images/twitch.png" width="14px" height="14px"></a> | Live |
 | **Store** |  |
 | Store | Store |
 | Store | Store |

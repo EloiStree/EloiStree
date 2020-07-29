@@ -9,6 +9,7 @@ _But that is the point of the research and development._
 
 I am always availaible 😄 to talk about VR, Unity & new-tech.    
 So feel free to ping me to take a ☕ break.    
+https://eloistree.page.link/discord  
 
 Have fun, may the code be with you 🍻.
 

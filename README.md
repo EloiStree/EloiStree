@@ -45,9 +45,9 @@ Have fun, may the code be with you 🍻.
 | [📱](https://eloistree.page.link/playstore) Play Store  | Store |
 | [🥽](https://eloistree.page.link/sidequest) | Store |
 | **Contact** |  |
-| [💬](https://eloistree.page.link/discord) | Talk |
-| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px">📹</a> | Live |
-| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px">💬</a> | Live |
+| [💬](https://eloistree.page.link/discord) | Discord Talk |
+| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px">📹</a> | Twitch Life |
+| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px">💬</a> | Twitch Chat |
 
 
 📌 📍 📕 📗 📘 📙 📚📒

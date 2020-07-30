@@ -13,9 +13,9 @@ https://eloistree.page.link/discord
 
 
 I learned to hate private code and NDA, so all my work are open source.  
-But providing open source block me the possibility work for most clients & projects. 
-I am teaching 1/4 of the year for rent and food.    
+But providing open source block me the possibility work for most clients & projects.   
 
+I am teaching 1/4 of the year for rent and food.    
 For the rest, I count on your donatation and commercial use:  
 - Free for personnal use but donation are encouraged.  
 - 50€ lifetime to use all my tools for commercial use.  

@@ -7,7 +7,7 @@ In hope that I can be useful to you.
 Good continuation.  
 
 ## Who Am I  🤔?
-_"I am move in so many directions in so many experiments that it is really hard to resume._   
+_"I move in so many directions in so many experiments that it is really hard to resume._   
 _I am just a leaf in the wind that enjoy the magic of our time: coding."_  
 
 To give you some idea of what I explored in the past, I invite you to watch the following video:  

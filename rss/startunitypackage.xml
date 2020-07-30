@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Eloi Stree Toolboxes Log</title>
+<link>https://github.com/EloiStree/</link>
+<description>Find here a way to know on what I am or I was working on laterly.</description>
+<item>
+  <title>Article 3</title>
+  <link>exemple.com/3</link>
+  <guid>exemple.com/3</guid>
+  <pubDate>Wed, 27 Nov 2013 13:20:00 GMT</pubDate>
+  <description>Mon dernier article.</description>
+</item>
+<item>
+  <title>Article 2</title>
+  <link>exemple.com/2</link>
+  <guid>exemple.com/2</guid>
+  <pubDate>Tue, 26 Nov 2013 12:15:12 GMT</pubDate>
+  <description>Mon deuxième article.</description>
+</item>
+<item>
+  <title>Article 1</title>
+  <link> exemple.com/1</link>
+  <guid> exemple.com/1</guid>
+  <pubDate>Mon, 25 Nov 2013 15:10:45 GMT</pubDate>
+  <description>Mon premier article.</description>
+</item>
+</channel>
+</rss>

@@ -114,7 +114,7 @@ Tool use to teach and share knowedge during workshop.
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityPackage)](https://github.com/EloiStree/HelloUnityPackage) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloHololens)](https://github.com/EloiStree/HelloHololens) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityForArtists)](https://github.com/EloiStree/HelloUnityForArtists) |
 
-# 📌 Licensing
+# 📌 License
 [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=GeneralLicense)](https://github.com/EloiStree/GeneralLicense)
 
 

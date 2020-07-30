@@ -1,7 +1,7 @@
 Welcome to my RSS flux 👏.   
 
 Feel free to subscribe to the news that concern you:  
-|Section|Subject|Description & Link|Link|
+|Section|Subject|Description |Link|
 |-|-|-|-|
 |Code||||
 ||Start New package|Notification that I started a new package|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/StartNewPackage.xml)|

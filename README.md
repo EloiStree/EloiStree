@@ -19,14 +19,13 @@ I am teaching 1/4 of the year for rent and food.
 For the rest, I count on your donatation and commercial use:  
 - Free for personnal use but donation are encouraged.  
 - 50€ lifetime to use all my tools for commercial use.    
-
-More details here: [Donation](https://eloistree.page.link/donation) - [License](https://eloistree.page.link/license)
-
-
-Have fun, may the code be with you 🍻.    
-In hope that my work suit your need.  
+More details here: [Donation](https://eloistree.page.link/donation) - [License](https://eloistree.page.link/license)  
   
-Éloi Strée.
+  
+Have fun, may the code be with you 🍻.      
+In hope that my work suit your need.    
+  
+Éloi Strée.  
 
 ## Who Am I  🤔?
 [![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)

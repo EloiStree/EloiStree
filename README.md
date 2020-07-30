@@ -46,7 +46,7 @@ To give you some idea of what I explored in the past, I invite you to watch the 
 | [📦]( https://eloistree.page.link/publicpackage) | Public Package |[💬](https://eloistree.page.link/discord) | Discord Talk |
 | [☕](https://eloistree.page.link/donation) | Coffee Support| | |
 | [💲](https://eloistree.page.link/license)| Commercial License ||  |
-| ![RSS](https://www.w3schools.com/xml/pic_rss.gif) | 🚧 |Coming | soon |
+| ![RSS](https://www.w3schools.com/xml/pic_rss.gif) | 🚧 |**_Coming_** | **_soon_** |
 | [🎮](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Game.xml) | Game |[💥𑁒](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/StartNewPackage.xml) | Start New Package |
 | [💻](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Application.xml) | Application |[🔨𑁓](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/MinorUpgrade.xml) | Minor Upgrade  |
 | [📹](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Video.xml) | Video |[📦𑁔](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/MajorUpgrade.xml) | Major Upgrade |

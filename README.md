@@ -47,10 +47,10 @@ To give you some idea of what I explored in the past, I invite you to watch the 
 | [☕](https://eloistree.page.link/donation) | Coffee Support| | |
 | [💲](https://eloistree.page.link/license)| Commercial License ||  |
 | **RSS** |  ||  |
-| [🎮](master/RSS/Release/Game.xml) | Game |[💥𑁒](master/RSS/Code/StartNewPackage.xml) | Start New Package |
-| [💻](master/RSS/Release/Application.xml) | Application |[🔨𑁓](master/RSS/Code/MinorUpgrade.xml) | Minor Upgrade  |
-| [📹](master/RSS/Release/Video.xml) | Video |[📦𑁔](master/RSS/Code/MajorUpgrade.xml) | Major Upgrade |
-| [📦](master/RSS/Release/Code.xml) | Code| [🧰𐏕](master/RSS/Code/StopWorkingOnPackage.xml) | Stop Working On |
+| [🎮](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Game.xml) | Game |[💥𑁒](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/StartNewPackage.xml) | Start New Package |
+| [💻](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Application.xml) | Application |[🔨𑁓](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/MinorUpgrade.xml) | Minor Upgrade  |
+| [📹](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Video.xml) | Video |[📦𑁔](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/MajorUpgrade.xml) | Major Upgrade |
+| [📦](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Code.xml) | Code| [🧰𐏕](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/StopWorkingOnPackage.xml) | Stop Working On |
 | **Youtube Video** |  | **Teaching**|  |
 | [🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  | Toolbox Intro |[🕹️](https://eloistree.page.link/unity) |  Unity (fr) |
 | [🧪](https://eloistree.page.link/video) | R&D Raw Video |[🥽](https://eloistree.page.link/vr)  | VR (fr) |

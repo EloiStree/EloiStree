@@ -52,8 +52,8 @@ To give you some idea of what I explored in the past, I invite you to watch the 
 | [📹](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Video.xml) | Video |[📦𑁔](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/MajorUpgrade.xml) | Major Upgrade |
 | [📦](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Code.xml) | Code| [🧰𐏕](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/StopWorkingOnPackage.xml) | Stop Working On |
 | **Youtube Video** |  | **Teaching**|  |
-| [🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  | Toolbox Intro |[🕹️](https://eloistree.page.link/unity) |  Unity (fr) |
-| [🧪](https://eloistree.page.link/video) | R&D Raw Video |[🥽](https://eloistree.page.link/vr)  | VR (fr) |
+| [🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  | Toolbox Intro |[🕹️](https://eloistree.page.link/unity) 🇫🇷 |  Unity (fr) |
+| [🧪](https://eloistree.page.link/video) | R&D Raw Video |[🥽](https://eloistree.page.link/vr) 🇫🇷 | VR (fr) |
 | [👀](https://eloistree.page.link/lookingfor) | R&D Playlist|[💥](https://github.com/EloiStree/HelloRemoteFirework/wiki) | Arduino |
 | <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"> 📹</a> | Twitch Life |[🖌️](https://eloistree.page.link/paintingjam)  | Paint VR |
 | <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"> 💬</a> | Twitch Chat |[🥽](http://eloistree.page.link/quest)  | Quest (en) |
@@ -94,7 +94,8 @@ Package that allow the construction of the main project OMI.
 Research about how to use CNC for Arduino projects.
 |  |   |
 |:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_01_CNC41Month)](https://github.com/EloiStree/2020_08_01_CNC41Month) | |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_01_CNC41Month)](https://github.com/EloiStree/2020_08_01_CNC41Month) | [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_01_InoFiles)](https://github.com/EloiStree/2020_07_01_InoFiles)|
+
 
 
 

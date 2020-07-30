@@ -1,8 +1,19 @@
 Welcome to my RSS flux 👏.   
 
 Feel free to subscribe to the news that concern you:  
-- Code: Listen to what I am working on : New code, stable code, upgrade...  
-- Release: Listen to what I released recently: Video, Game, Application...  
+|Section|Subject|Description & Link|Link|
+|-|-|-|-|
+|Code|-|-|-|
+|-|Start New package|Notification that I started a new package|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/StartNewPackage.xml)|
+|-|Minor Upgrade|Notification that I did minor change on a code|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/MinorUpgrade.xml)|
+|-|Major Upgrade|Notification that I did major change on a code|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/MajorUpgrade.xml)|
+|-|Stop working on package|Notification that stop working on package for a medium/long periode of time|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Code/StopWorkingOnPackage.xml)|
+|Release|-|-|-|
+|-|Game| Received notification of latest game|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Game.xml)|
+|-|Application|Received notification of latest application|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Application.xml)|
+|-|Video|Received notification of latest video published|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Video.xml)|
+|-|Code|Received notification when a stable code version is publish|[🔗](https://raw.githubusercontent.com/EloiStree/EloiStree/master/RSS/Release/Code.xml)|
+
 
 # What is RSS ?  
 

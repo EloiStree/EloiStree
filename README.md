@@ -44,8 +44,13 @@ To give you some idea of what I explored in the past, I invite you to watch the 
 | [📅]( https://eloistree.page.link/board) | Roadmap |[🧰]( https://eloistree.page.link/toolbox) | Unity Toolbox |
 | [💻]( https://eloistree.page.link/publicgit) | Public Git |[📁](https://eloistree.page.link/publicstorage) | Public Drive  |
 | [📦]( https://eloistree.page.link/publicpackage) | Public Package |[💬](https://eloistree.page.link/discord) | Discord Talk |
-| [☕](https://eloistree.page.link/donation) | Coffee Support|I | L |
-| [💲](https://eloistree.page.link/license)| Commercial License |I | L |
+| [☕](https://eloistree.page.link/donation) | Coffee Support| | |
+| [💲](https://eloistree.page.link/license)| Commercial License ||  |
+| **RSS** |  ||  |
+| [🎮](RSS/Release/Game.xml) | Game |[💥𑁒](RSS/Code/StartNewPackage.xml) | Start New Package |
+| [💻](RSS/Release/Application.xml) | Application |[🔨𑁓](RSS/Code/MinorUpgrade.xml) | Minor Upgrade  |
+| [📹](RSS/Release/Video.xml) | Video |[📦𑁔](RSS/Code/MajorUpgrade.xml) | Major Upgrade |
+| [📦](RSS/Release/Code.xml) | Code| [🧰𐏕](RSS/Code/StopWorkingOnPackage.xml) | Stop Working On |
 | **Youtube Video** |  | **Teaching**|  |
 | [🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  | Toolbox Intro |[🕹️](https://eloistree.page.link/unity) |  Unity (fr) |
 | [🧪](https://eloistree.page.link/video) | R&D Raw Video |[🥽](https://eloistree.page.link/vr)  | VR (fr) |
@@ -102,10 +107,7 @@ Tool use to teach and share knowedge during workshop.
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityPackage)](https://github.com/EloiStree/HelloUnityPackage) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloHololens)](https://github.com/EloiStree/HelloHololens) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityForArtists)](https://github.com/EloiStree/HelloUnityForArtists) |
 
-
 # 📌 Licensing
-My license the same for all my productions:  
 [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=GeneralLicense)](https://github.com/EloiStree/GeneralLicense)
-- donation based for personnal use  
-- global 50€ life-time for commercial use  
+
 

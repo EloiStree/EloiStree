@@ -32,7 +32,7 @@ In hope that my work suit your need.
 _"I am move in so many directions in so many experiments that it is really hard to resume._   
 _I am just a leaf in the wind that enjoy the magic of our time: coding."_  
 
-To give you some idea of what I exlored in the past, I invite you ro watch the following video:  
+To give you some idea of what I explored in the past, I invite you to watch the following video:  
 
 [![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)  
 

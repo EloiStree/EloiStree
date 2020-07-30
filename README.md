@@ -29,7 +29,8 @@ In hope that my work suit your need.
 Éloi Strée.  
 
 ## Who Am I  🤔?
-[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)
+[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)  
+https://www.youtube.com/watch?v=SElpOHKeGSg
 
 ## Links
 | Link | Info | Link | Info |

@@ -1,11 +1,10 @@
-# RSS
+Welcome to my RSS flux 👏.   
 
-Welcome to my RSS flux.   
 Feel free to subscribe to the news that concern you:  
-- Code: Listent to what I am working on : New code, stable code, upgrade...  
+- Code: Listen to what I am working on : New code, stable code, upgrade...  
 - Release: Listen to what I released recently: Video, Game, Application...  
 
-## What is RSS ?  
+# What is RSS ?  
 
 If you don't know what is a RSS, that a file that represent the news/log.  
 Bot and application love to read this file as it is a convention very simple format:   

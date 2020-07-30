@@ -57,7 +57,7 @@ To give you some idea of what I explored in the past, I invite you to watch the 
 | [👀](https://eloistree.page.link/lookingfor) | R&D Playlist|[💥](https://github.com/EloiStree/HelloRemoteFirework/wiki) | Arduino |
 | <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"> 📹</a> | Twitch Life |[🥽🖌️](https://eloistree.page.link/paintingjam)  | Paint VR |
 | <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"> 💬</a> | Twitch Chat |[🥽📱](http://eloistree.page.link/quest)  | Quest (en) |
-|  |  |[💻🖌️](https://github.com/EloiStree/HelloUnityForArtists/wiki)  | Unity in 4 Day |
+|  |  |[💻🖌️🇫🇷](https://github.com/EloiStree/HelloUnityForArtists/wiki)  | Unity in 4 Day |
 |  |  |[📚](https://eloistree.page.link/teaching)  | Archive |
 | **Store** |  | |  |
 | [🎮](https://eloistree.page.link/game)  | Game | [📱](https://eloistree.page.link/playstore)   | Play Store |

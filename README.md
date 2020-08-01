@@ -14,8 +14,6 @@ Good continuation.
 | Git & Facilitator |This tools allows to manipulate packages in Unity more easily  | [👀](https://github.com/EloiStree/EloiStree/blob/master/DragDropInstall/PackageFacilitator/StartToCreatePackage.cs) |[📋](https://raw.githubusercontent.com/EloiStree/EloiStree/master/DragDropInstall/PackageFacilitator/StartToCreatePackage.cs) |
 | Re-Hack Filter |This tools allow to listen to chat of multiple stream in Unity with Restream  | [👀](https://github.com/EloiStree/EloiStree/blob/master/DragDropInstall/ReHackFilter.cs) |[📋](https://raw.githubusercontent.com/EloiStree/EloiStree/master/DragDropInstall/ReHackFilter.cs) |[📹](https://www.youtube.com/watch?v=berFrZ2QzaE)|
 
-https://github.com/EloiStree/EloiStree.git
-
 ## Links
 | Link | Info | Link | Info |
 |:---: | :---: |:---: | :---: |

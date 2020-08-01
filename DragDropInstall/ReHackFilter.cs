@@ -17,6 +17,7 @@ public class RehackFilter : MonoBehaviour
     new PackageValue("be.eloistree.demorehackfilter","https://github.com/EloiStree/2020_07_29_Demo_ReHackFilter.git"),
     new PackageValue("be.eloistree.rehackunityeloidemo","https://github.com/EloiStree/2020_07_12_ReHackUnityEloiDemo.git"),
     new PackageValue("be.eloistree.rehackunitycore","https://github.com/EloiStree/2020_07_12_ReHackUnityCore.git"),
+    new PackageValue("be.eloistree.accesscurrentip","https://gitlab.com/eloistree/2020_07_28_accesscurrentip.git"),
     new PackageValue("be.eloistree.license","https://github.com/EloiStree/GeneralLicense.git")
 
     };

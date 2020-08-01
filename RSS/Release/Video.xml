@@ -4,7 +4,14 @@
 <channel>
 <title>News About Éloi Video Release</title>
 <link>https://github.com/EloiStree</link>
-<description>Ping that I upgrade a stable code of a toolbox.</description>
+<description>Ping when I publish video that is of good-enough quality</description>
+  <item>
+  <title>Demo of Rehack filter</title>
+  <link>https://youtu.be/berFrZ2QzaE</link>
+  <guid>202008012155</guid>
+  <pubDate>Tue, 01 Aug 2020 12:00:00 GMT</pubDate>
+  <description>Video explaining how to use ReHack Filter as user or as developer.</description>
+</item>
 <item>
   <title>Init</title>
   <link>https://github.com/EloiStree/EloiStree</link>

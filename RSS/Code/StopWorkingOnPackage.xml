@@ -5,6 +5,13 @@
 <title>News About Éloi end of upgrading code</title>
 <link>https://github.com/EloiStree</link>
 <description>Ping that I upgrade a stable code of a toolbox.</description>
+   <item>
+  <title>Demo of Rehack filter</title>
+  <link>https://youtu.be/berFrZ2QzaE</link>
+  <guid>2020080121551</guid>
+  <pubDate>Tue, 01 Aug 2020 12:00:00 GMT</pubDate>
+  <description>I stop working for a month on the following ReHack Filter package. So find here a video explaining what is release for the moment in it.</description>
+</item>
 <item>
   <title>Init</title>
   <link>https://github.com/EloiStree/EloiStree</link>

@@ -6,41 +6,6 @@ Find here the start point of most of my works & researches.
 In hope that I can be useful to you.  
 Good continuation.  
 
-## Who Am I  🤔?
-_"I move in so many directions in so many experiments that it is really hard to resume._   
-_I am just a leaf in the wind that enjoy the magic of our time: coding."_  
-
-To give you some idea of what I explored in the past, I invite you to watch the following video:  
-
-[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)  
- 
-To make it shorts. I am very very messy...  😅  
- 
-But if you take time to look in this mess...    
-Ouh boy you surely will do find what you are not looking for 😝.  
-_But that is the point of the research and development._
-
-
-I am always availaible 😄 to talk about VR, Unity & new-tech.    
-So feel free to ping me to take a ☕ break.    
-https://eloistree.page.link/discord  
-
-
-I learned to hate private code and NDA, so all my work are open source.  
-But providing open source block me the possibility work for most clients & projects.   
-
-I am teaching 1/4 of the year for rent and food.    
-For the rest, I count on your donatation and commercial use:  
-- Free for personnal use but donation are encouraged.  
-- 50€ lifetime to use all my tools for commercial use.    
-
-More details here: [Donation](https://eloistree.page.link/donation) - [License](https://eloistree.page.link/license)  
-  
-  
-Have fun, may the code be with you 🍻.      
-In hope that my work suit your need.    
-  
-Éloi Strée.  
 
 ## Unity Drag & Drop Installer
 | What | Doing | Info |  Download |Intro |
@@ -125,5 +90,42 @@ Tool use to teach and share knowedge during workshop.
 
 # 📌 License
 [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=GeneralLicense)](https://github.com/EloiStree/GeneralLicense)
+----------------
+## Who Am I  🤔?
+_"I move in so many directions in so many experiments that it is really hard to resume._   
+_I am just a leaf in the wind that enjoy the magic of our time: coding."_  
+
+To give you some idea of what I explored in the past, I invite you to watch the following video:  
+
+[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)  
+ 
+To make it shorts. I am very very messy...  😅  
+ 
+But if you take time to look in this mess...    
+Ouh boy you surely will do find what you are not looking for 😝.  
+_But that is the point of the research and development._
+
+
+I am always availaible 😄 to talk about VR, Unity & new-tech.    
+So feel free to ping me to take a ☕ break.    
+https://eloistree.page.link/discord  
+
+
+I learned to hate private code and NDA, so all my work are open source.  
+But providing open source block me the possibility work for most clients & projects.   
+
+I am teaching 1/4 of the year for rent and food.    
+For the rest, I count on your donatation and commercial use:  
+- Free for personnal use but donation are encouraged.  
+- 50€ lifetime to use all my tools for commercial use.    
+
+More details here: [Donation](https://eloistree.page.link/donation) - [License](https://eloistree.page.link/license)  
+  
+  
+Have fun, may the code be with you 🍻.      
+In hope that my work suit your need.    
+  
+Éloi Strée.  
+
 
 

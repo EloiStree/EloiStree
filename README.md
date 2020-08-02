@@ -7,6 +7,21 @@ In hope that I can be useful to you.
 Good continuation.  
 
 
+## Currently working on
+
+
+## 📘 CNC for one Month
+Research about how to use CNC for Arduino projects.
+|  |   |
+|:---: | :---: |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_01_CNC41Month)](https://github.com/EloiStree/2020_08_01_CNC41Month) | [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_01_InoFiles)](https://github.com/EloiStree/2020_07_01_InoFiles)|
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=OpenMacroInput)](https://github.com/EloiStree/OpenMacroInput) | |
+|[Read Serial Port](https://gitlab.com/eloistree/2020_02_13_ReadSerialPort)| [Compress Analog and Digital](https://gitlab.com/eloistree/2020_04_06_compressdigitalandanalog) |
+|[Demo SerialPort 2 JOMI](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_02_DemoSerialPort2JOMI)|  |
+|[Boolean History](https://gitlab.com/eloistree/2020_05_05_BooleanStateMachines)| [Boolean State Machine](https://gitlab.com/eloistree/2020_05_05_BooleanStateMachines) |
+
+
+
 ## Unity Drag & Drop Installer
 | What | Doing | Info |  Download |Intro |
 |:---: | :---: |:---: |:---: |:---: |
@@ -67,13 +82,6 @@ Big open project that aim to let's people trigger macro and actions from a large
 Package that allow the construction of the main project OMI.
 | 🚧 |  🚧 |
 |:---: | :---: |
-
-## 📘 CNC for one Month
-Research about how to use CNC for Arduino projects.
-|  |   |
-|:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_01_CNC41Month)](https://github.com/EloiStree/2020_08_01_CNC41Month) | [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_01_InoFiles)](https://github.com/EloiStree/2020_07_01_InoFiles)|
-
 
 
 

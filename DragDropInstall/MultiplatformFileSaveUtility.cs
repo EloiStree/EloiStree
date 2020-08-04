@@ -1,8 +1,4 @@
 // Just drag this file in the Assets directory of your Unity project to install 
-// It will add the group of package to the package manager to be ready to use
-// Go to RE Hack Filter in the package manager to import the demo.
-// To work you need Re-Hack Runtime and Restream outside of Unity.
-//https://eloistree.itch.io/rehack
 #if UNITY_EDITOR
 using System.Collections;
 using System.Collections.Generic;

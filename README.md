@@ -6,13 +6,47 @@ Find here the start point of most of my works & researches.
 In hope that I can be useful to you.  
 Good continuation.  
 
+
+-------------------------------
+## Who Am I  🤔?
+_"I move in so many directions in so many experiments that it is really hard to resume._   
+_I am just a leaf in the wind that enjoy the magic of our time: coding."_  
+
+To give you some idea of what I explored in the past, I invite you to watch the following video:  
+
+[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)  
+ 
+To make it shorts. I am very very messy...  😅  
+
+
+I am always availaible 😄 to talk about VR, Unity & new-tech.    
+So feel free to ping me to take a ☕ break.    
+https://eloistree.page.link/discord  
+
+
+I learned to hate private code and NDA, so all my work are open source.  
+But providing open source block me the possibility work for most clients & projects.   
+
+I am working & teaching  only 1/4 of the year for rent and food.   
+So any [Donation](https://eloistree.page.link/donation) are always welcome.  
+  
+  
+Have fun, may the code be with you 🍻.      
+In hope that my work suit your need.    
+  
+Éloi Strée.  
+
+-------------------------------------
+
+
+
 You can find me here:  
 - [LinkedIn: 2-7 Days respond](https://www.linkedin.com/in/eloistree/)
 - [Discord: < 24H respond](http://eloistree.page.link/discord)
 
 _No need to contact me by phone or by mail. Too much spams now a day._
 
-
+---------------------------
 
 # Current project
 
@@ -59,7 +93,7 @@ Tool use to teach and share knowedge during workshop.
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnity)](https://github.com/EloiStree/HelloUnity) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=CodeAndQuestsEveryDay)](https://github.com/EloiStree/CodeAndQuestsEveryDay) |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityPackage)](https://github.com/EloiStree/HelloUnityPackage) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityPackage)](https://github.com/EloiStree/HelloUnityPackage) | |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloHololens)](https://github.com/EloiStree/HelloHololens) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityForArtists)](https://github.com/EloiStree/HelloUnityForArtists) |
 
 
@@ -89,38 +123,6 @@ Tool use to teach and share knowedge during workshop.
 | **Store** |  | |  |
 | [🎮](https://eloistree.page.link/game)  | Game | [📱](https://eloistree.page.link/playstore)   | Play Store |
 | [🥽](https://eloistree.page.link/sidequest) | Side Quest|  |  |
-
-
-
-----------------
-## Who Am I  🤔?
-_"I move in so many directions in so many experiments that it is really hard to resume._   
-_I am just a leaf in the wind that enjoy the magic of our time: coding."_  
-
-To give you some idea of what I explored in the past, I invite you to watch the following video:  
-
-[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)  
- 
-To make it shorts. I am very very messy...  😅  
-
-
-I am always availaible 😄 to talk about VR, Unity & new-tech.    
-So feel free to ping me to take a ☕ break.    
-https://eloistree.page.link/discord  
-
-
-I learned to hate private code and NDA, so all my work are open source.  
-But providing open source block me the possibility work for most clients & projects.   
-
-I am working & teaching  only 1/4 of the year for rent and food.   
-So any [Donation](https://eloistree.page.link/donation) are always welcome.  
-  
-  
-Have fun, may the code be with you 🍻.      
-In hope that my work suit your need.    
-  
-Éloi Strée.  
-
 
 
 

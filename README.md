@@ -14,7 +14,8 @@ _I am just a leaf in the wind that enjoy the magic of our time: coding."_
 
 To give you some idea of what I explored in the past, I invite you to watch the following video:  
 
-[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg)  
+[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg) 
+Video: https://www.youtube.com/watch?v=SElpOHKeGSg 
  
 To make it shorts. I am very very messy...  😅  
 

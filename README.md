@@ -43,7 +43,7 @@ In hope that my work help your need.
 
 ETH: 0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039  
 ZIL: 0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD  
-[Send me a Ko-FI](https://ko-fi.com/eloistree/ || [Paypal.Me](https://www.paypal.com/paypalme/eloistree)  
+[Send me a Ko-FI](https://ko-fi.com/eloistree/) || [Paypal.Me](https://www.paypal.com/paypalme/eloistree)  
 [Watch publicity while playing](WatchPublicityToHelpMe)  
 [Mine in a pool for me](CryptoMiningToHelpMe) > [My Ezil Pool](https://ezil.me/personal_stats?wallet=0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039.zil1hk56lsyf3sevka356c9r0eyglf592nldc83zas&coin=eth)
 

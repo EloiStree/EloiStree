@@ -33,13 +33,14 @@ So any [Donation](https://eloistree.page.link/donation) are always welcome.
   
   
 Have fun, may the code be with you 🍻.      
-In hope that my work suit your need.    
+In hope that my work help your need.    
   
 Éloi Strée.  
 
 -------------------------------------
 
 ## Donation or indirect help
+
 ETH: 0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039  
 ZIL: 0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD  
 [Send me a Ko-FI](https://ko-fi.com/eloistree/ || [Paypal.Me](https://www.paypal.com/paypalme/eloistree)  

@@ -6,7 +6,13 @@ Find here the start point of most of my works & researches.
 In hope that I can be useful to you.  
 Good continuation.  
 
-
+-------------------------------
+## Donation or indirect help
+ETH: 0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039
+ZIL: 0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD
+[Send me a Ko-FI](https://ko-fi.com/eloistree/ || [Paypal.Me](https://www.paypal.com/paypalme/eloistree)
+[Watch publicity while playing](WatchPublicityToHelpMe)
+[Mine in a pool for me](CryptoMiningToHelpMe)
 -------------------------------
 ## Who Am I  🤔?
 _"I move in so many directions in so many experiments that it is really hard to resume._   

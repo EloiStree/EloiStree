@@ -35,3 +35,8 @@ When you mine on my pool, use a worker name that represent you:
 twitch_eloistree, youtube_eloistree, any_eloistree  
   
 Based on that collected data, you will have special threatement in my live stream, credit , application and game.
+
+
+--------------------
+Incoming tutorial
+Under-construction

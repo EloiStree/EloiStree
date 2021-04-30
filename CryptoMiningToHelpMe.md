@@ -18,20 +18,20 @@ Contributor | Month | Year
 10 |  20€ | 240€
 100 |  200€ | 2400€
 400 |  800€ | 9600€
+ 
+It bring me just enough to pay the rent and/or the food of a year.  
 
-It bring me just enough to pay the rent and/or the food of a year.
+I am not counting electricity cost here because the aim is donation without using payement system. That all.  
+You spend 60-80% of electricity cost to give me 100% of the donation you target and you indirectly help the crypto community to hash.  
 
-I am not counting electricity cost here because the aim is donation without using payement system. That all.
-You spend 60-80% of electricity cost to give me 100% of the donation you target and you indirectly help the crypto community to hash.
+So what for you. If you just want to help nothing except my appreciation.  
 
-So what for you. If you just want to help nothing except my appreciation.
+My appreciation is not enough ?  
 
-My appreciation is not enough ?
+Every worker working in a pool is track in the API.  
+And every donatoin in crypto is registered.  
 
-Every worker working in a pool is track in the API.
-And every donatoin in crypto is registered.
-
-When you mine on my pool, use a worker name that represent you:
-twitch_eloistree, youtube_eloistree, any_eloistree
-
+When you mine on my pool, use a worker name that represent you:  
+twitch_eloistree, youtube_eloistree, any_eloistree  
+  
 Based on that collected data, you will have special threatement in my live stream, credit , application and game.

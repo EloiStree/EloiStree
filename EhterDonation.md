@@ -2,13 +2,16 @@
 If you want to help, feel free to donate some ether.
 
 The address for donation: [0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039](https://etherscan.io/address/0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039)
-Wallet QR Code for Ehterium:
+
+## Ehterium:
 [![Donation](https://github.com/EloiStree/EloiStree/blob/master/Images/DonationWalletEtherium.png?raw=true)](https://etherscan.io/address/0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039)
+https://chart.googleapis.com/chart?chs=512x512&cht=qr&choe=UTF-8&chl=0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039
+Address: 0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039
 
+## Zilliqa
+[![image](https://github.com/EloiStree/EloiStree/blob/master/Images/DonationWalletZilliqa.png?raw=true)](https://viewblock.io/zilliqa/address/0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD)
 https://chart.googleapis.com/chart?chs=512x512&cht=qr&choe=UTF-8&chl=0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD
-[![image](https://github.com/EloiStree/EloiStree/blob/master/Images/DonationWalletZilliqa.png?raw=true)](https://etherscan.io/address/0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD)
-
-
+Address: 0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD
 -------------------------
 Share this page to contact that you thing want to support my code, work and reseach:  
 https://chart.googleapis.com/chart?chs=512x512&cht=qr&choe=UTF-8&chl=https://github.com/EloiStree/EloiStree/blob/master/EhterDonation.md  

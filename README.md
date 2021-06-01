@@ -1,66 +1,70 @@
-### Hi there 👋
+### Hello there 👋
+[![293A8845](https://user-images.githubusercontent.com/20149493/120350593-6c0a5e80-c2ff-11eb-9b16-bcc72ba2907a.jpg)](#)
 
-Wecome to you.  
+To make it shorts:   
+> I am just a developer that love so much coding that I decided to dedicate my entire life to it in a literal manner.  
 
-Find here the start point of most of my works & researches.    
-In hope that I can be useful to you.  
-Good continuation.  
+You just need to know three things before going further:
 
--------------------------------
+### #1
 
-## Who Am I  🤔?
-_"I move in so many directions in so many experiments that it is really hard to resume._   
-_I am just a leaf in the wind that enjoy the magic of our time: coding."_  
+I have a big mental illness:   
+*"Life is too short to spend time selling and protecting my codes"*  
+- I hate selling my code
+- I hate protecting my code 
+- I hate working for a boss because it means having private code
+_(Yes... I am super poor)_
 
-To give you some idea of what I explored in the past, I invite you to watch the following video:  
+### #2
 
-[![Youtube Video](http://img.youtube.com/vi/SElpOHKeGSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SElpOHKeGSg) 
-Video: https://www.youtube.com/watch?v=SElpOHKeGSg 
- 
-To make it shorts. I am very very messy...  😅  
+I never code because I want to publish it:
+- I code because I want to know if it is possible.
+- I code because I want a fast way to make something work.
 
+Meaning:
+- My code can change all the time at any moment
+- My code is dirty like shit most of the time 
+- My code are not to be used but to be underdstood then copy and modify.
+- I am working by toolboxes calling toolboxes
+  - It allows me to use one toolbox in several projects and other sub-toolboxes.   
 
-I am always availaible 😄 to talk about VR, Unity & new-tech.    
-So feel free to ping me to take a ☕ break.    
-https://eloistree.page.link/discord  
+### #3
 
+I realized after years of failing that I am big fat noob in communication... 
+I tried twitter, reddit, youtube... soo bad at it.
 
-I learned to hate private code and NDA, so all my work are open source.  
-But providing open source block me the possibility work for most clients & projects.   
-
-I am working & teaching  only 1/4 of the year for rent and food.   
-So any [Donation](https://eloistree.page.link/donation) are always welcome.  
-  
-  
-Have fun, may the code be with you 🍻.      
-In hope that my work help your need.    
-  
-Éloi Strée.  
-
--------------------------------------
-
-## Donation or indirect help
-
-ETH: 0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039  
-ZIL: 0xBdA9AfC0898C32CB7634D60A37E488fa68554FeD  
-[Send me a Ko-FI](https://ko-fi.com/eloistree/) || [Paypal.Me](https://www.paypal.com/paypalme/eloistree)  
-[Watch publicity while playing](WatchPublicityToHelpMe)  
-[Mine in a pool for me](CryptoMiningToHelpMe) > [My Ezil Pool](https://ezil.me/personal_stats?wallet=0x60F6A0Dc848eD1D0a27dE73630eFdF46A6a11039.zil1hk56lsyf3sevka356c9r0eyglf592nldc83zas&coin=eth)
-
--------------------------------
+So I decided to delete them all and to focus on three communications:
+- This landing page on [GitHub / EloiStree](https://github.com/EloiStree/) 
+- My [Discord](https://eloistree.page.link/discord) where you can ping me to talk.
+- Answering commentary on my videos
+  - [LBRY: Unity Code & Package](https://odysee.com/@EloiStree:1?r=935dHK4ctscNqFDM1isRCUfPmG4Y6bfy)
+    - My code: introducation, documentation, demonstration, tutorial... 
+  - [LBRY: Open Macro Input](https://odysee.com/@openmacroinput:1?r=935dHK4ctscNqFDM1isRCUfPmG4Y6bfy)
+    - MY lifetime project that I am working on the side since 2020 
+  - [Youtube: Eloi Raw](https://www.youtube.com/channel/UComxuwj8ulaREOdtNwwhI-w) 
+    - Random shit I want to post online to be able to share the video in workshop and during conversations. 
 
 
-You can find me here:  
-- [LinkedIn: 2-7 Days respond](https://www.linkedin.com/in/eloistree/)
-- [Discord: < 24H respond](http://eloistree.page.link/discord)
 
-_No need to contact me by phone or by mail. Too much spams now a day._
 
----------------------------
+## Conclusion
 
-# Current project
+You are more then welcome to use my code under "Beerware License".
+Help me, help you by interacting with me.
 
-## Open Macro Input 
+Because like Iroh said:  
+![image](https://user-images.githubusercontent.com/20149493/120360275-dc69ad80-c308-11eb-8a17-d7be81d87f44.png)
+
+
+
+Feel free to pay a 🍻 when my code suit your needs, you can do it here:  
+https://ko-fi.com/eloistree/ - Ethereum: [0x5bdF2ec43F76A296D063Ad85efA8112B07C0597B](https://etherscan.io/address/0x5bdF2ec43F76A296D063Ad85efA8112B07C0597B)
+
+
+May the code be with you,
+Kind regards,
+Eloi S.
+
 
 ---------------------------
 Big open project that aim to let's people trigger macro and actions from a large game of input. Closing the bridge between the mechanical buttons to action(s) on operating systems.

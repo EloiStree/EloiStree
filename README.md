@@ -74,12 +74,12 @@ Meaning:
 - My code can change all the time at any moment
 - My code are not to be used but to be underdstood then copy and modify.
 - I am working by toolboxes calling toolboxes
-  - It sit to allows me to use one toolbox in several projects and other sub-toolboxes.   
+  - It allows me to use one toolbox in several projects and other sub-toolboxes.   
 
 ### #3
 
 I realized after years of failing that I am big fat noob in communication...   
-I tried twitter, reddit, youtube... I ams soo bad at it.  
+I tried twitter, reddit, youtube... I am Sooo bad at it.  
 
 So I decided to delete them all and to focus on two communications:  
 - This landing page on [GitHub / EloiStree](https://github.com/EloiStree/) 

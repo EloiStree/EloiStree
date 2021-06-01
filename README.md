@@ -23,17 +23,17 @@ I never code because I want to publish it:
 
 Meaning:
 - My code can change all the time at any moment
-- My code is dirty like shit most of the time 
+- I am a big fan of clean code but my code is dirty like shit most of the time 
 - My code are not to be used but to be underdstood then copy and modify.
 - I am working by toolboxes calling toolboxes
-  - It allows me to use one toolbox in several projects and other sub-toolboxes.   
+  - It sit to allows me to use one toolbox in several projects and other sub-toolboxes.   
 
 ### #3
 
-I realized after years of failing that I am big fat noob in communication... 
-I tried twitter, reddit, youtube... soo bad at it.
+I realized after years of failing that I am big fat noob in communication...   
+I tried twitter, reddit, youtube... soo bad at it.  
 
-So I decided to delete them all and to focus on three communications:
+So I decided to delete them all and to focus on three communications:  
 - This landing page on [GitHub / EloiStree](https://github.com/EloiStree/) 
 - My [Discord](https://eloistree.page.link/discord) where you can ping me to talk.
 - Answering commentary on my videos
@@ -42,28 +42,26 @@ So I decided to delete them all and to focus on three communications:
   - [LBRY: Open Macro Input](https://odysee.com/@openmacroinput:1?r=935dHK4ctscNqFDM1isRCUfPmG4Y6bfy)
     - MY lifetime project that I am working on the side since 2020 
   - [Youtube: Eloi Raw](https://www.youtube.com/channel/UComxuwj8ulaREOdtNwwhI-w) 
-    - Random shit I want to post online to be able to share the video in workshop and during conversations. 
+    - Random video content I want to post online to be able to share the video in workshop and during conversations. 
 
 
 
 
 ## Conclusion
 
-You are more then welcome to use my code under "Beerware License".
-Help me, help you by interacting with me.
+You are more then welcome to use my code under "Beerware License".  
 
-Because like Iroh said:  
+Ping me when you need, because like Iroh said:    
 ![image](https://user-images.githubusercontent.com/20149493/120360275-dc69ad80-c308-11eb-8a17-d7be81d87f44.png)
 
 
-
-Feel free to pay a 🍻 when my code suit your needs, you can do it here:  
+Feel free to send me a 🍻 when my code suit your needs, you can do it here:    
 https://ko-fi.com/eloistree/ - Ethereum: [0x5bdF2ec43F76A296D063Ad85efA8112B07C0597B](https://etherscan.io/address/0x5bdF2ec43F76A296D063Ad85efA8112B07C0597B)
 
 
-May the code be with you,
-Kind regards,
-Eloi S.
+May the code be with you,   
+Kind regards,  
+Eloi S.  
 
 
 ---------------------------

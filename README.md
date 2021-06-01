@@ -1,14 +1,12 @@
 
 
 
----------------------------
-Big open project that aim to let's people trigger macro and actions from a large game of input. Closing the bridge between the mechanical buttons to action(s) on operating systems.
+# Current projects
+
 |  |   |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInputRuntime)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInput)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInput) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=OpenMacroInput)](https://github.com/EloiStree/OpenMacroInput) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=OpenMacroInputCommunityMapping)](https://github.com/EloiStree/OpenMacroInputCommunityMapping) |
-
- [Download Android](https://play.google.com/store/apps/details?id=be.eloistree.jomi) - [Download the Jar](https://eloistree.itch.io/omi/) 
 
 ----------------
 
@@ -46,10 +44,11 @@ Tool use to teach and share knowedge during workshop.
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloHololens)](https://github.com/EloiStree/HelloHololens) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityForArtists)](https://github.com/EloiStree/HelloUnityForArtists) |
 
 
+-----------------------
 
 # Hello there 👋
 
-[![293A8845](https://user-images.githubusercontent.com/20149493/120350593-6c0a5e80-c2ff-11eb-9b16-bcc72ba2907a.jpg)](#)
+![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)
 
 To make it shorts:   
 > I am just a developer that love so much coding that I decided to dedicate my entire life to it in a literal manner.  

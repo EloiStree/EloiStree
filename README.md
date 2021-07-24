@@ -3,7 +3,7 @@
 # Project List
 WIP: [Google Sheet](https://docs.google.com/spreadsheets/d/1aaDFfykORIbXtT5AGA-2zQrTidquaF22csD9U3pFaUc/edit?usp=sharing)
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'E1E21QCY5');kofiwidget2.draw();</script> 
+
 
 # Current projects
 

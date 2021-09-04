@@ -31,6 +31,19 @@ Short URL: http://u3d.as/
   - **Linked package code**  
   -  ...
 
+## Package copy/past
+
+### Current Asset Store Version
+
+"be.eloistree.jimmyscreamfps":"https://gitlab.com/accountname/reponame.git#7aa476b1d54a9bb200985dee5848fe6a37f96efb",
+
+### Current Git version
+
+"be.eloistree.jimmyscreamfps":"https://gitlab.com/accountname/reponame.git",
+
+
+
+-----------------------------------
 
 ## To copy Past:
 
@@ -64,8 +77,21 @@ Short URL: http://u3d.as/
   - **Linked package code**  
   -  ...
 
+## Package copy/past
+
+### Current Asset Store Version
+
+"be.eloistree.jimmyscreamfps":"https://gitlab.com/accountname/reponame.git#7aa476b1d54a9bb200985dee5848fe6a37f96efb",
+
+### Current Git version
+
+"be.eloistree.jimmyscreamfps":"https://gitlab.com/accountname/reponame.git",
+
 
 ```
+
+--------------------------------
+
 
 ## Guide Line Scan Reminder
 

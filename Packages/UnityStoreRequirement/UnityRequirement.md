@@ -1,3 +1,5 @@
+## Info required 
+
 - Version : 1.0  
 - Version Name: First Release  
 - Caterogry: close list  
@@ -13,6 +15,7 @@
 - Screenshots(min. width 1200)  
 
 
+## Image required 
 
 - BlankIconImage_160x160.png
 - ![BlankIconImage_160x160.png](BlankIconImage_160x160.png)
@@ -24,7 +27,7 @@
 - ![BlankSocialMediaImage_1200x630.jpg](BlankSocialMediaImage_1200x630.jpg)
 - BlankScreenshots_width1200.png
 - ![BlankScreenshots_width1200.png](BlankScreenshots_width1200.png)
-# Guide Line Scan
+## Guide Line Scan
 
 Guide Line Link: https://assetstore.unity.com/publishing/submission-guidelines  
 License Apply when Publishing: [

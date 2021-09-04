@@ -1,33 +1,49 @@
 ## Info required 
 
-- Version : 1.0  
-- Version Name: First Release  
-- Caterogry: close list  
-- Price 5€ min  
-- Title: Asset title  
-- Description: Asset Description  
-- Keyword:  
-- Icon Image(160 x 160) //This image is visible while users are browsing the Asset Store.  
-- Card Image(420 x 280) //This is the main thumbnail visible while browsing the Asset Store  
-- Cover Image(1950 x 1300) //The Cover Image is used on the main product page for your asset.  
-- Social Media Image (1200 x 630, max. 8 MB) //This image is used by our community team on social media posts  
-- Audio/VideoUpload a video file (max. 500 MB) OR a video link  
-- Screenshots(min. width 1200)  
+Label | Data
+-|-
+ Version | 1.0  
+ Version Name |  First Release  
+ Caterogry |  Script/
+ Price |  € || free
+ Title |  
+ Description |  
+ Keyword |   
+ Audio/VideoUploa |  
 
 
 ## Image required 
 
-- BlankIconImage_160x160.png
-- ![BlankIconImage_160x160.png](BlankIconImage_160x160.png)
-- BlankCardImage_420x280.png
-- ![BlankCardImage_420x280.png](BlankCardImage_420x280.png)
-- BlankCoverImage_1950x1300.jpg
-- ![BlankCoverImage_1950x1300.jpg](BlankCoverImage_1950x1300.jpg)
-- BlankSocialMediaImage_1200x630.jpg
-- ![BlankSocialMediaImage_1200x630.jpg](BlankSocialMediaImage_1200x630.jpg)
-- BlankScreenshots_width1200.png
-- ![BlankScreenshots_width1200.png](BlankScreenshots_width1200.png)
-## Guide Line Scan
+BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1300.jpg | BlankSocialMediaImage_1200x630.jpg | BlankScreenshots_width1200.png
+-|-|-|-|-  
+![BlankIconImage_160x160.png](BlankIconImage_160x160.png) | ![BlankCardImage_420x280.png](BlankCardImage_420x280.png) | ![BlankCoverImage_1950x1300.jpg](BlankCoverImage_1950x1300.jpg) | ![BlankSocialMediaImage_1200x630.jpg](BlankSocialMediaImage_1200x630.jpg) | ![BlankScreenshots_width1200.png](BlankScreenshots_width1200.png)  
+
+
+## Info required 
+To copy Past:
+
+```
+Label | Data
+-|-
+ Version | 1.0  
+ Version Name |  First Release  
+ Caterogry |  Script/
+ Price |  € || free
+ Title |  
+ Description |  
+ Keyword |   
+ Audio/VideoUploa |  
+
+
+## Image required 
+
+BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1300.jpg | BlankSocialMediaImage_1200x630.jpg | BlankScreenshots_width1200.png
+-|-|-|-|-  
+![BlankIconImage_160x160.png](BlankIconImage_160x160.png) | ![BlankCardImage_420x280.png](BlankCardImage_420x280.png) | ![BlankCoverImage_1950x1300.jpg](BlankCoverImage_1950x1300.jpg) | ![BlankSocialMediaImage_1200x630.jpg](BlankSocialMediaImage_1200x630.jpg) | ![BlankScreenshots_width1200.png](BlankScreenshots_width1200.png) 
+
+```
+
+## Guide Line Scan Reminder
 
 Guide Line Link: https://assetstore.unity.com/publishing/submission-guidelines  
 License Apply when Publishing: [

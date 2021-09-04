@@ -110,7 +110,7 @@ Eloi S.
 
 --------------------------------
 
-# Links
+# Other Links
 | Link | Info | Link | Info |
 |:---: | :---: |:---: | :---: |
 | **Board** |  | **Toolbox**|  |

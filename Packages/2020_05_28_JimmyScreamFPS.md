@@ -15,7 +15,7 @@ Jimmy screamer is a FPS debug tool that uses audio sound to remind you that you 
 Don't forget to remove it from your release build. To avoid weird moment with your users... ;)  
 
 
-## Image required 
+## Preview Images
 
 BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1300.jpg | BlankSocialMediaImage_1200x630.jpg | BlankScreenshots_width1200.png
 -|-|-|-|-  

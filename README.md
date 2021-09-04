@@ -8,6 +8,22 @@
 
 # Current projects
 
+## Current Game
+
+### Bullet Hell
+|  |   |
+|:---: | :---: |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_08_19_FTLBullets)](https://github.com/EloiStree/2021_08_19_FTLBullets) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_08_17_PlanetCoordPlacementUtility)](https://github.com/EloiStree/2021_08_17_PlanetCoordPlacementUtility) |
+
+### Petcha Kucha
+|  |   |
+|:---: | :---: |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_28_PechaKucha)](https://github.com/EloiStree/2021_07_28_PechaKucha) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_29_UnityImageUtilityDownloader)](https://github.com/EloiStree/2021_07_29_UnityImageUtilityDownloader) |
+|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_29_JarClipboardImageRecoveringJava)](https://github.com/EloiStree/2021_07_29_JarClipboardImageRecoveringJava) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_29_JarClipboardImageRecovering)](https://github.com/EloiStree/2021_07_29_JarClipboardImageRecovering) |
+
+
+## Current App
+
 |  |   |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInputRuntime)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInput)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInput) |

@@ -5,14 +5,16 @@ Label | Data
  Version | 1.0  
  Version Name |  First Release  
  Caterogry |  Script/
- Price |  € || free
+ Price |  5€ || free
  Title |  
- Description |  
  Keyword |   
  Audio/VideoUploa |  
+ 
+## Description
 
+No description yet
 
-## Image required 
+## Preview Images
 
 BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1300.jpg | BlankSocialMediaImage_1200x630.jpg | BlankScreenshots_width1200.png
 -|-|-|-|-  
@@ -28,14 +30,16 @@ Label | Data
  Version | 1.0  
  Version Name |  First Release  
  Caterogry |  Script/
- Price |  € || free
+ Price |  5€ || free
  Title |  
- Description |  
  Keyword |   
  Audio/VideoUploa |  
 
+## Description
 
-## Image required 
+No description yet
+
+## Preview Images
 
 BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1300.jpg | BlankSocialMediaImage_1200x630.jpg | BlankScreenshots_width1200.png
 -|-|-|-|-  

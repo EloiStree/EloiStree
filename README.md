@@ -1,13 +1,9 @@
 
 ## Kind of CV
-- All my public project on GitLab  
-https://gitlab.com/users/eloistree/projects
-
-- All my public project on GitHub  
-https://github.com/EloiStree?tab=repositories
-
-- All the gamejam and hackathon I participated too  
-https://github.com/users/EloiStree/projects/3
+- [All project](https://docs.google.com/spreadsheets/d/1dplNEu-eivfIi6hjyfjjHxato-qBbwVPIGtZ37-q5MY/edit?usp=sharing) 
+  - All my public project on GitLab  https://gitlab.com/users/eloistree/projects
+  - All my public project on GitHub  https://github.com/EloiStree?tab=repositories
+- All the gamejam and hackathon I participated too  https://github.com/users/EloiStree/projects/3
 
 
 # Current projects

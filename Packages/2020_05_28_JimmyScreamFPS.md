@@ -19,6 +19,6 @@ Don't forget to remove it from your release build. To avoid weird moment with yo
 
 BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1300.jpg | BlankSocialMediaImage_1200x630.jpg | BlankScreenshots_width1200.png
 -|-|-|-|-  
-![BlankIconImage_160x160.png](BlankIconImage_160x160.png) | ![BlankCardImage_420x280.png](BlankCardImage_420x280.png) | ![BlankCoverImage_1950x1300.jpg](BlankCoverImage_1950x1300.jpg) | ![BlankSocialMediaImage_1200x630.jpg](BlankSocialMediaImage_1200x630.jpg) | ![BlankScreenshots_width1200.png](BlankScreenshots_width1200.png) 
+![image](https://user-images.githubusercontent.com/20149493/132104077-d0558396-df74-4d55-a3d4-66eaa6ab6de2.png)| ![image](https://user-images.githubusercontent.com/20149493/132104069-02fc65cb-a913-4cb1-a6be-eb86ccd5f637.png) | ![image](https://user-images.githubusercontent.com/20149493/132104073-cb628292-013e-467b-8858-d3e8ff807595.png) |![image](https://user-images.githubusercontent.com/20149493/132104088-a7b52c53-81c5-43cd-b672-bd677f27dff1.png)| ![image](https://user-images.githubusercontent.com/20149493/132104080-5b8c92ad-3f32-4d74-bfa3-8c017bc4cf07.png) 
 
 - https://gitlab.com/eloistree/2020_05_28_JimmyScreamFPS

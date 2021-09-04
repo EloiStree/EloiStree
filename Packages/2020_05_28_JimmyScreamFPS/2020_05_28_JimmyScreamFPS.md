@@ -30,3 +30,18 @@ Short URL: http://u3d.as/2FfF
 - Package source: https://gitlab.com/eloistree/2020_05_28_JimmyScreamFPS
   - **Linked package code**  
   -  None
+
+## Package copy/past
+
+### Current Asset Store Version
+```
+
+"be.eloistree.jimmyscreamfps":"https://gitlab.com/eloistree/2020_05_28_JimmyScreamFPS.git#7aa476b1d54a9bb200985dee5848fe6a37f96efb",
+
+```
+### Current Git version
+```
+
+"be.eloistree.jimmyscreamfps":"https://gitlab.com/eloistree/2020_05_28_JimmyScreamFPS.git",
+
+```

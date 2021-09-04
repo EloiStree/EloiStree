@@ -20,9 +20,19 @@ BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1
 -|-|-|-|-  
 ![BlankIconImage_160x160.png](BlankIconImage_160x160.png) | ![BlankCardImage_420x280.png](BlankCardImage_420x280.png) | ![BlankCoverImage_1950x1300.jpg](BlankCoverImage_1950x1300.jpg) | ![BlankSocialMediaImage_1200x630.jpg](BlankSocialMediaImage_1200x630.jpg) | ![BlankScreenshots_width1200.png](BlankScreenshots_width1200.png)  
 
+## Asset store link
 
-## Info required 
-To copy Past:
+URL: https://assetstore.unity.com/packages/slug/  
+Short URL: http://u3d.as/  
+
+## Git Source
+
+- Package source: ...  
+  - **Linked package code**  
+  -  ...
+
+
+## To copy Past:
 
 ```
 Label | Data
@@ -44,6 +54,16 @@ No description yet
 BlankIconImage_160x160.png | BlankCardImage_420x280.png | BlankCoverImage_1950x1300.jpg | BlankSocialMediaImage_1200x630.jpg | BlankScreenshots_width1200.png
 -|-|-|-|-  
 ![BlankIconImage_160x160.png](BlankIconImage_160x160.png) | ![BlankCardImage_420x280.png](BlankCardImage_420x280.png) | ![BlankCoverImage_1950x1300.jpg](BlankCoverImage_1950x1300.jpg) | ![BlankSocialMediaImage_1200x630.jpg](BlankSocialMediaImage_1200x630.jpg) | ![BlankScreenshots_width1200.png](BlankScreenshots_width1200.png) 
+
+URL: https://assetstore.unity.com/packages/slug/  
+Short URL: http://u3d.as/  
+
+## Git Source
+
+- Package source: ...  
+  - **Linked package code**  
+  -  ...
+
 
 ```
 

@@ -79,13 +79,13 @@ You just need to know three things before going further:
 
 I have a big mental illness:   
 *"Life is too short to spend time selling and protecting my codes"*  
-- I hate selling my code 
-  - 1H code = 1H code + 1-3H of fitting the store + 1H cleaning + 2h demo and suport + 2-6H user support by chat + ...
+- I am quicky bored of trying to sell my code 
+  - 1H code = 1H code + 1-3H of fitting the asset to the store + 1H cleaning & refactoring + 2h demo and manual + 2-6H user support by chat + ...
 - I hate protecting my code 
   - It means spending hours managing access to your code when someone can just copy past it online in 30 seconds 
   - It means that you have a code that can be useful to thousands of people but decide to keep by "greed"
-- I hate/dislike working with NDA on my code (non disclosure agreement)   
-  - Samre reason of "protecting my code"
+- I dislike working with NDA on my code (non disclosure agreement)   
+  - As soon as you have NDA, it means that you can in the future be sued for sharing or using ... -__-
 _(Yes... I am super poor)_
 
 ### #2
@@ -97,7 +97,7 @@ I never code because I want to publish it:
 Meaning:
 - My code can change all the time at any moment
 - My code are not to be used but to be underdstood then copy and modify.
-- I am working by createing small toolboxes that depend of other toolboxes.   
+- I am working by creating small toolboxes that depend of other toolboxes.   
 
 ### #3
 

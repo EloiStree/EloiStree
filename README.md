@@ -6,6 +6,13 @@
 - All the gamejam and hackathon I participated too  https://github.com/users/EloiStree/projects/3
 
 
+## Dish & Train
+
+Following link is just a board with stuffs to watch when I am donig task and so don't have keyboard near me:  
+- [What is next on my watch list ? >](https://github.com/users/EloiStree/projects/7)
+
+
+
 # Current projects
 
 ## Current Game

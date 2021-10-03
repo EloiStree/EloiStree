@@ -8,5 +8,7 @@ So hello to you :)
 
 Feel free to go there for more information on me  
 - https://github.com/EloiStree  
+
+
 Or to ping me on Discord  
 - https://eloistree.page.link/discord  

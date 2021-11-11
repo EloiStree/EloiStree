@@ -6,6 +6,22 @@
 - All the gamejam and hackathon I participated too  https://github.com/users/EloiStree/projects/3
 
 
+In any project I am working on you will have those package in the manifest   
+```
+"be.eloistree.quickgitutility":"https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+"be.eloistree.license":"https://github.com/EloiStree/GeneralLicense.git",
+"be.eloistree.unitypackagefacilitator":"https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+"be.eloistree.generaltoolbox":"https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+
+```
+- Git Utility is a tool to manage git on the computer with command line on Window
+- Unity Package Facilitator help me to import export and create package fast in my project
+- Eloi General Toolbox is the toolbox of code that I am tired to recode and are most of the time in all my project.
+- General License is just a package to remind that I was participating to the project at some point.
+
+This four line are copy here because it is the one I use the most.  
+
+
 ## Dish & Train
 
 Following link is just a board with stuffs to watch when I am doing task and so don't have keyboard near me:  

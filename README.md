@@ -1,3 +1,7 @@
+# Hello there 👋
+
+![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)
+
 ## If I have to pitch myself
 
 > Just a guy that enjoy exploring new-tech for the fun of observing what we can do with this magic we call "Code".
@@ -111,7 +115,7 @@ Tool use to teach and share knowedge during workshop.
 
 # My Rules 
 
-## #1 My code is never "finished"
+## 1: My code is never "finished"
 
 I never code because I want to publish it:
 - I code because I want to know if it is possible.
@@ -122,13 +126,13 @@ Meaning:
 - My code are not to be used but to be underdstood then copy and modify.
 - I am working by creating small toolboxes that depend of other toolboxes.   
 
-### #2 I won't publish on store
+### 2: I won't publish on store
 
 *"Life is too short to spend time selling and protecting my codes"*  
 I spend so many hours trying to put games and codes on the store and beeing refused at the end.
 Don't expect my production to be on stores.
 
-### #3 F**k social media
+### 3: F**k social media
 
 I realized after years of failing that I am big fat noob in communication...   
 I tried twitter, reddit, youtube... I am Sooo bad at it.  

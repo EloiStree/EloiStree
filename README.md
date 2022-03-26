@@ -1,5 +1,28 @@
+## If I have to pitch myself
 
-## Install toolbox
+> Just a guy that enjoy exploring new-tech for the fun of observing what we can do with this magic we call "Code".
+
+I suffert from a big illness, I am an open source guy:
+> "If you do a tool that can be use by 10 000 developers and so 10 000 to 10 000 000 users... and because you put your tool at 3€-50€ on a store you reduce it to 100 developers and so 100 - 100 000 paying users. You are indirectly reducing progress of 9 900 developer and the fun of  9 900 000 users... 
+Does 300€-5000€ * 50% state * Time lost protecting your code worst of money is justify this ?"  ==> And that why I am poor  ¨\ (o_O) /¨
+
+Feel free to enjoy my tools.
+
+( If you know a way to let's me pay bills without commercial sponsor and without losing the open source part.
+Feel free to ping me ;) )
+
+------------------------
+
+# What is the projet OMI (Open Macro Input)
+
+In 2019, I through about a tool I wanted to code that would take so many time that I decided it would become my lifetime projet.
+Open Macro Input is a group of tools that aim to facilitate the use of Macro from any kind of input with open ways to hook on it.
+More about the toolboxes here: http://openmacroinput.com/
+
+------------------------
+
+
+## Install my main toolbox
 
 In any project I am working on you will have those package in the manifest   
 ```

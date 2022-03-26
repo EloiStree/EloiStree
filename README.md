@@ -109,16 +109,9 @@ Tool use to teach and share knowedge during workshop.
 
 -----------------------
 
-# Hello there 👋
+# My Rules 
 
-![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)
-
-To make it shorts:   
-> I am just a developer that love so much coding that I decided to dedicate my entire life to it in a literal manner.  
-
-You just need to know three things before going further:
-
-### #1
+## #1 My code is never "finished"
 
 I never code because I want to publish it:
 - I code because I want to know if it is possible.
@@ -129,20 +122,13 @@ Meaning:
 - My code are not to be used but to be underdstood then copy and modify.
 - I am working by creating small toolboxes that depend of other toolboxes.   
 
-### #2
+### #2 I won't publish on store
 
-I have a big mental illness:   
 *"Life is too short to spend time selling and protecting my codes"*  
-- I am quicky bored of trying to sell my code 
-  - 1H code = 1H code + 1-3H of fitting the asset to the store + 1H cleaning & refactoring + 2h demo and manual + 2-6H user support by chat + ...
-- I hate protecting my code 
-  - It means spending hours managing access to your code when someone can just copy past it online in 30 seconds 
-  - It means that you have a code that can be useful to thousands of people but decide to keep it private by "greed"
-- I dislike working with NDA on my code (non disclosure agreement)   
-  - As soon as you have NDA, it means that you can in the future be sued for sharing or using ... -__-
-_(Yes... I am super poor)_
+I spend so many hours trying to put games and codes on the store and beeing refused at the end.
+Don't expect my production to be on stores.
 
-### #3
+### #3 F**k social media
 
 I realized after years of failing that I am big fat noob in communication...   
 I tried twitter, reddit, youtube... I am Sooo bad at it.  

@@ -15,6 +15,7 @@ Feel free to enjoy my tools.
 ( If you know a way to let's me pay bills without commercial sponsor and without losing the open source part.
 Feel free to ping me ;) )
 
+Send me a ☕ and 🍺: https://ko-fi.com/eloistree
 ------------------------
 
 # What is the projet OMI (Open Macro Input)

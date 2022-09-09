@@ -53,6 +53,8 @@ This four line are copy here because it is the one I use the most.
   - All my public project on GitHub  https://github.com/EloiStree?tab=repositories
 - All the gamejam and hackathon I participated too  https://github.com/users/EloiStree/projects/3
 
+List of pacakges:
+- https://github.com/EloiStree/UnityToolbox/discussions
 
 
 # Life Time project

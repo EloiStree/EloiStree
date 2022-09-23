@@ -16,11 +16,11 @@ Feel free to enjoy my tools.
 Feel free to ping me ;) )
 
 
-Support my works:
-https://en.tipeee.com/eloistree/
-Support my lifetime project OMI:
-https://en.tipeee.com/omi/
-
+Support my works 💰🪙:   
+https://en.tipeee.com/eloistree/   
+Support my lifetime project OMI 💰🪙:   
+https://en.tipeee.com/omi/   
+  
 
 ------------------------
 

@@ -16,12 +16,10 @@ Feel free to enjoy my tools.
 Feel free to ping me ;) )
 
 
-Support my works :
-- [Make monthly donation to me and my works 💰🪙](https://www.patreon.com/eloistree)
-  - [Send me a beer 🍺](https://www.buymeacoffee.com/eloistree)
-  - [Send me a coffee ☕](https://ko-fi.com/eloistree)
-- [Make monthly donation to the project Open Macro Input 📅](https://en.tipeee.com/omi/)
-
+Support my works:
+https://en.tipeee.com/eloistree/
+Support my lifetime project OMI:
+https://en.tipeee.com/omi/
 
 
 ------------------------

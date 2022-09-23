@@ -15,7 +15,13 @@ Feel free to enjoy my tools.
 ( If you know a way to let's me pay bills without commercial sponsor and without losing the open source part.
 Feel free to ping me ;) )
 
-Send me a ☕ and 🍺: https://ko-fi.com/eloistree
+
+Support my works :
+- [Make monthly donation to me 💰🪙](https://www.patreon.com/eloistree)
+  - [Send me a beer 🍺](https://www.buymeacoffee.com/eloistree)
+  - [Send me a coffee ☕](https://ko-fi.com/eloistree)
+- Make monthly donation to the project [Open Macro Input](https://github.com/openMacroInput)
+  - https://en.tipeee.com/omi/
 
 
 ------------------------

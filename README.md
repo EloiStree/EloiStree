@@ -23,8 +23,6 @@ https://en.tipeee.com/omi/
   
 -------------
 
-# ꬲ🧰 Toolboxes and license
-
 If you see this sign ´ꬲ🧰´, it means that one of my toolbox(es) is around.   
 
 Unity Example:  

@@ -24,12 +24,12 @@ https://en.tipeee.com/omi/
 -------------
 
 If you see this sign ´ꬲ🧰´, it means that one of my toolbox(es) is around.    
-Follow it to find info, documentation and functionnality.     
+Follow it to find info, documentation and functionnality.  
+Unity Example:      
+![image](https://user-images.githubusercontent.com/20149493/195954109-c2282114-ef6f-4084-a8a1-777e1fae11ed.png)         
+  
 It also mean that the community license apply:     
 [´Free and opensource but under kind of beerware license´](LICENSE.md)  
-
-Unity Example:    
-![image](https://user-images.githubusercontent.com/20149493/195954109-c2282114-ef6f-4084-a8a1-777e1fae11ed.png)  
 Community License: [Read Me](LICENSE.md)  
   
 

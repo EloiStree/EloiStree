@@ -5,11 +5,12 @@ If you are here, it means that you are wondering about the license on one of my 
 
 The license is a **community salary** license:  
 
-> I only desire my salary to be based on community donation in aim to avoid NDA, private code.
-> Having a community salary allows me to spend all my time on exploring new-tech, refactoring my code and maintaining the toolboxes.
-> If you are using my tool, works or if I am beeing useful to you, I invite you to make monthly donation to help me live of what I provide freely.  
-> You can use all my work commercialy, just return the elevator if you are able to.    
-> Take in consideration that I need a minimum to live and additional income allows me to hire people on topic I am not good at.
+> I only desire a salary to be based on community donation in aim to avoid NDA, private code, ads and bad sponsor(s).     
+> Having a community salary allows me to spend all my time on exploring new-tech, refactoring my code and maintaining the toolboxes.  
+> If you are using my tool, works or if I am beeing useful to you, I invite you to make monthly donation to help me live.  
+>        
+> You can use all my work commercialy, just return the elevator if you are able to.     
+> Take in consideration that I need a minimum to live and additional income allows me to hire people on topic I am not good at. 
 
 Support my works 💰:   
 https://en.tipeee.com/eloistree/   

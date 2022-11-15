@@ -17,3 +17,5 @@ https://en.tipeee.com/eloistree/
 Support my lifetime project OMI 💰:   
 https://en.tipeee.com/omi/   
   
+This license is based on the Beer Ware License philosophy:  
+![image](https://user-images.githubusercontent.com/20149493/201918551-04c3b696-2abb-4dc2-9ed3-8f03a92663ae.png)

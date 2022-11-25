@@ -64,11 +64,12 @@ This four line are copy here because it is the one I use the most.
 ---------------------------------
 ## Go Go Jam
 
+A new concept I am trying.
 The idea is to work in a 30 days jam on code with a specific topic in mind.
 I release what code I created and the app with it at the end.
 
 History:
-- Nov 2022: Wow Volume Fishing:  https://www.indiegogo.com/projects/omi-world-of-warcraft-fishing-automation--2/x/30772798#/
+- Nov 2022: Wow Volume Fishing: https://www.indiegogo.com/projects/omi-world-of-warcraft-fishing-automation--2/x/30772798#/
 
 
 

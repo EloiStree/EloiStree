@@ -51,7 +51,7 @@ Video: [Story 54:27](https://youtu.be/I845O57ZSy4?t=3265) - [Quote 01:52:41](htt
 
 Until I can pay a 2To:
 - All my games and applications I design or collaborated on   
-  - (no client NDA app are present in this disk)  
+  - (no client app or under NDA content are present in this disk)  
 - All my 3D (Ender, CNC), laser assets and Unity 3D element I created myself.  
 - Some of the code I took the time to put on the backup harddrive to fit in the 15Go.  
 

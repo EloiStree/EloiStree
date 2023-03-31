@@ -24,14 +24,6 @@ Community License: [Read Me](LICENSE.md)
 
 ------------------------
 
-# What is the projet OMI (Open Macro Input)
-
-In 2019, I through about a tool I wanted to code that would take so many time that I decided it would become my lifetime projet.
-Open Macro Input is a group of tools that aim to facilitate the use of Macro from any kind of input with open ways to hook on it.
-More about the toolboxes here: http://openmacroinput.com/
-
-------------------------
-
 
 ## Install my main toolbox
 

@@ -18,8 +18,6 @@ Feel free to ping me ;) )
 
 Support my works 💰🪙:   
 https://en.tipeee.com/eloistree/   
-Support my lifetime project OMI 💰🪙:   
-https://en.tipeee.com/omi/   
   
 -------------
 

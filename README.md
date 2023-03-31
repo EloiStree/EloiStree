@@ -6,8 +6,6 @@
 
 > Just a guy that enjoy exploring new-tech for the fun of observing what we can do with this magic we call "Code".
 
-( If you know a way to let's me pay bills without commercial sponsor and without losing the open source part.
-Feel free to ping me ;) )
 
 Support my works 💰🪙:   
 https://en.tipeee.com/eloistree/   

@@ -6,15 +6,8 @@
 
 > Just a guy that enjoy exploring new-tech for the fun of observing what we can do with this magic we call "Code".
 
-I suffert from a big illness, I am an open source guy:
-> "If you do a tool that can be use by 10 000 developers and so 10 000 to 10 000 000 users... and because you put your tool at 3€-50€ on a store you reduce it to 100 developers and so 100 - 100 000 paying users. You are indirectly reducing progress of 9 900 developer and the fun of  9 900 000 users... 
-Does 300€-5000€ * 50% state * Time lost protecting your code worst of money is justify this ?"  ==> And that why I am poor  ¨\ (o_O) /¨
-
-Feel free to enjoy my tools.
-
 ( If you know a way to let's me pay bills without commercial sponsor and without losing the open source part.
 Feel free to ping me ;) )
-
 
 Support my works 💰🪙:   
 https://en.tipeee.com/eloistree/   
@@ -58,17 +51,6 @@ In any project I am working on you will have those package in the manifest
 - General License is just a package to remind that I was participating to the project at some point.
 
 This four line are copy here because it is the one I use the most.  
-
----------------------------------
-## Go Go Jam
-
-A new concept I am trying.
-The idea is to work in a 30 days jam on code with a specific topic in mind.
-I release what code I created and the app with it at the end.
-
-History:
-- Nov 2022: Wow Volume Fishing: https://www.indiegogo.com/projects/omi-world-of-warcraft-fishing-automation--2/x/30772798#/
-
 
 
 ---------------------------
@@ -187,30 +169,4 @@ Kind regards,
 Eloi S.  
 
 --------------------------------
-
-# Other Links
-| Link | Info | Link | Info |
-|:---: | :---: |:---: | :---: |
-| **Board** |  | **Toolbox**|  |
-| |  |[🧰]( https://eloistree.page.link/toolbox) | Unity Toolbox |
-| [💻]( https://eloistree.page.link/publicgit) | Public Git |[📁](https://eloistree.page.link/publicstorage) | Public Drive  |
-| [📦]( https://eloistree.page.link/publicpackage) | Public Package |[💬](https://eloistree.page.link/discord) | Discord Talk |
-| [☕](https://eloistree.page.link/donation) | Coffee Support| | |
-|  ||  |
-| **Youtube Video** |  | **Teaching**|  |
-| [🔨](https://www.youtube.com/channel/UCNF9z7L6bfkodhNWvnY5lsg)  | Toolbox Intro |[🕹️](https://eloistree.page.link/unity) 🇫🇷 |  Unity (fr) |
-| [🧪](https://eloistree.page.link/video) | R&D Raw Video |[🥽💻](https://eloistree.page.link/vr) 🇫🇷 | VR (fr) |
-| [👀](https://eloistree.page.link/lookingfor) | R&D Playlist|[💥](https://github.com/EloiStree/HelloRemoteFirework/wiki) | Arduino |
-| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"> 📹</a> | Twitch Life |[🥽🖌️](https://eloistree.page.link/paintingjam)  | Paint VR |
-| <a href="https://eloistree.page.link/stream"> <img alt="" src="Images/twitch.png" width="14px" height="14px"> 💬</a> | Twitch Chat |[🥽📱](http://eloistree.page.link/quest)  | Quest (en) |
-|  |  |[💻🖌️](https://github.com/EloiStree/HelloUnityForArtists/wiki) 🇫🇷 | Unity in 4 Day |
-|  |  | |  |
-| **Store** |  | |  |
-| [🎮](https://eloistree.page.link/game)  | Game | [📱](https://eloistree.page.link/playstore)   | Play Store |
-| [🥽](https://eloistree.page.link/sidequest) | Side Quest|  |  |
-
-
-
-
-------
 🧰 📦 📹 💻 💥 🎮 𑁒 🔨 🍻 ☕ 

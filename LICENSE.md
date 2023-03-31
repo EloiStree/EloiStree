@@ -14,8 +14,6 @@ The license is a **community salary** license:
 
 Support my works 💰:   
 https://en.tipeee.com/eloistree/   
-Support my lifetime project OMI 💰:   
-https://en.tipeee.com/omi/   
   
 I am a very big fan of the beerware license philosophy: 
 ![image](https://user-images.githubusercontent.com/20149493/201918551-04c3b696-2abb-4dc2-9ed3-8f03a92663ae.png)

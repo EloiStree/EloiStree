@@ -54,6 +54,8 @@ Link | What in there ?
 --- | ---
 https://eloi.page.link/sidequest | Buy my game on SideQuest
 https://eloi.page.link/itchio | Buy my game on Itchio
+https://cults3d.com/en/users/EloiStree3D/creations | Buy my 3D assets on Cults3D
+https://sketchfab.com/eloistree3D | See my 3D assets on SketchFab
 
 
 

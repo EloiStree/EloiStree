@@ -61,3 +61,10 @@ https://eloi.page.link/itchio | Buy my game on Itchio
 _"F**k the Rules ! VR & AR, Unity 3D, New-tech, R&D. We want to know if it is possible. Grab some ☕ and 🍺 and let's try to code it."_
 
 
+
+Link | What in there ?
+--- | ---
+https://twitter.com/EloiStree3D | Twitter EloiStree3D
+https://twitter.com/EloiStree | Twitter EloiStree (Banned)
+https://www.instagram.com/eloistree/ | Instagram EloiStree
+https://www.instagram.com/eloistree3D/ | Instagram EloiStree3D

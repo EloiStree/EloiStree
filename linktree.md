@@ -1,8 +1,11 @@
 Find on this page, the main links to know about if you want to find me on the web.
 
 
-Official short LinkTree:   
-https://linktr.ee/eloistree
+Official short LinkTree:  
+https://linktr.ee/eloistree  
+  
+This linkthree:   
+eloi.page.link/linktree  
 
 
 ### Youtube Channel
@@ -51,3 +54,10 @@ Link | What in there ?
 --- | ---
 https://eloi.page.link/sidequest | Buy my game on SideQuest
 https://eloi.page.link/itchio | Buy my game on Itchio
+
+
+
+
+_"F**k the Rules ! VR & AR, Unity 3D, New-tech, R&D. We want to know if it is possible. Grab some ☕ and 🍺 and let's try to code it."_
+
+

@@ -1,4 +1,4 @@
-# Download
+# Download & Access
 
 Instruction of how to access my work as a bundle.  
 1. Go to Tipeee or Patreon and create an account  

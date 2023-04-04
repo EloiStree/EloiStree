@@ -18,7 +18,7 @@ On Patreon (USA) https://eloi.page.link/patreon
 
 Welcome you.
 
-My name is Éloi Strée, I am a crazy developer that would like to keep a maximum of my prototypes and researches free and opensource.  
+My name is Éloi Strée, I am a developer that would like to keep a maximum of my prototypes and researches free and opensource.  
   
 It did not work for me as today, March 2023, I am starving with no money on my account to eat.  
 
@@ -31,14 +31,10 @@ And at 5€ per month if you want to have a full access to my backup harddrive t
 You can pay one month, download everything you need and stop your account.  
 Totally fine with me.  
 
-☠ _Piracy ?_  
-My only aim in life with this project is to have universal salary to be able to code all day.     
-If piracy of my harddrive or, illegale reselling, become a think. I will simply create the torrent myself on pirate bay.    
-(Not time for now to do it and I currently miss the technical knowledge)    
+☠ _Piracy ?_    
 The Patreon and Tipeee philosophy is about supporting your creator as soon as the pirate insite/catalyze that I am good.    
 
 
-  
 🏁 My only aim by doing that is to invite the community to invest on me and my works to finance my curiosity of new technology.    
 I don't want to be rich and if I became rich, it is the J. Carmack rich definition:  
 [![image](https://user-images.githubusercontent.com/20149493/228866374-f8f626ed-8906-4519-a12d-32fa2cd1d920.png)](https://youtu.be/I845O57ZSy4?t=3265)   

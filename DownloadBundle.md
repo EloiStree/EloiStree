@@ -12,6 +12,9 @@ _(Note: Links change every N days/weeks)_
 On Tipeee (EU) https://eloi.page.link/tipeee    
 On Patreon (USA) https://eloi.page.link/patreon  
 
+Redirection to all my works:
+https://eloi.page.link/linktree
+
 -----------------------
 
 # For the story

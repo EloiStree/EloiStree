@@ -1,5 +1,9 @@
 # Download & Access
 
+[![image](https://user-images.githubusercontent.com/20149493/232546761-326d9f11-f5c1-4d7c-9df8-02805efe0f78.png)](https://youtu.be/C2vj6MxFN9k)
+
+Video: https://youtu.be/C2vj6MxFN9k
+
 Instruction of how to access my work as a bundle.  
 1. Go to Tipeee or Patreon and create an account  
 2. Subscribe to the donation page tier  

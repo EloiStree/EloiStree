@@ -48,7 +48,7 @@ https://eloi.page.link/beer | Send me a beer
 https://eloi.page.link/coffee | Send me a coffee
 
 
-### Buy in one of my work
+### Buy my work
 
 Link | What in there ?
 --- | ---

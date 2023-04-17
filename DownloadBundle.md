@@ -19,6 +19,10 @@ On Patreon (USA) https://eloi.page.link/patreon
 Redirection to all my works:
 https://eloi.page.link/linktree
 
+List of all most Project ID:
+https://youtu.be/C2vj6MxFN9k
+[![image](https://user-images.githubusercontent.com/20149493/232548105-c5ee7265-bbd5-461e-8406-80c59c3f9277.png)](https://youtu.be/C2vj6MxFN9k)
+
 -----------------------
 
 # For the story

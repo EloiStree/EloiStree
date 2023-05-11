@@ -44,9 +44,10 @@ This four line are copy here because it is the one I use the most.
 
 
 ---------------------------
-## My impossible rules
+## My impossible rules / Modo
 
-Once in my life, I sit and wrote that down. That became my modo but also my impossible rules I have never succeed to follow.
+Once in my life, I toke the time to wrote that lines down. That became my modo but also my impossible rules I have never succeed to follow.  
+I like those because it kind of define well what I seek in life.     
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/37940658-7786-4eb2-b8bb-636f33880c66)
 
 

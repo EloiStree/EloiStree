@@ -44,6 +44,11 @@ This four line are copy here because it is the one I use the most.
 
 
 ---------------------------
+## My impossible rules
+
+Once in my life, I sit and wrote that down. That became my modo but also my impossible rules I have never succeed to follow.
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/37940658-7786-4eb2-b8bb-636f33880c66)
+
 
 ## History
 - [All project](https://docs.google.com/spreadsheets/d/1dplNEu-eivfIi6hjyfjjHxato-qBbwVPIGtZ37-q5MY/edit?usp=sharing) 

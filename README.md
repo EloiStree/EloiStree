@@ -10,9 +10,10 @@
 Support my works 💰🪙:   
 https://en.tipeee.com/eloistree/   
 
-Support me by buying stuffs on amazon:
+Support me by improving your inventory:  
 - [Look at what I bough in the past](https://github.com/EloiStree/AmazonAssociateLinks/blob/main/BoughtHistory.md)
 - [What I tip to buy depending on projects](https://github.com/EloiStree/AmazonAssociateLinks/)
+- 
 -------------
 
 If you see this sign ´ꬲ🧰´, it means that one of my toolbox(es) is around.    

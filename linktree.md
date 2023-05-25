@@ -47,6 +47,7 @@ https://eloi.page.link/tipeee | Subscribe to my researches from EU (Tipeee)
 https://eloi.page.link/beer | Send me a beer
 https://eloi.page.link/coffee | Send me a coffee
 https://eloi.page.link/paypal | PayPal Me
+https://eloi.page.link/amazon | Buy gear from Amazon
 
  
 ### Buy my work

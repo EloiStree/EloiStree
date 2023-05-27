@@ -43,11 +43,13 @@ You can pay one month, download everything you need and stop your account.
 Totally fine with me.  
 
 ☠ _Piracy ?_    
-The Patreon and Tipeee philosophy is about supporting your creator as soon as the pirate insite/catalyze that I am good.    
+The Patreon and Tipeee philosophy is about supporting your creator. 
+As soon as the pirate help me on any level: I am good.    
 
 
 🏁 My only aim by doing that is to invite the community to invest on me and my works to finance my curiosity of new technology.    
 I don't want to be rich and if I became rich, it is the J. Carmack rich definition:  
+
 [![image](https://user-images.githubusercontent.com/20149493/228866374-f8f626ed-8906-4519-a12d-32fa2cd1d920.png)](https://youtu.be/I845O57ZSy4?t=3265)   
 Idea: "Being rich is to be able to order pizza for you and the team in aim to continue to code all day."  
 Quote: "... your definition of wealth is being able to have pizza whenever you want ..." Lex F. resuming John Carmack.  
@@ -66,9 +68,9 @@ When I will be able to pay the 2To:
 - Everything I created that is not created for a client or affected by NDA  
 - Every projects code (less the bought assets inside it if the project is too recent)  
 
-## How many project are there ?
+## I see a project on you channel but not on the harddrive?
 
-I can't say for the code, but if you see a project that you like and is not there.   
+Every project has a start id YYYY_MM_DD_ProjectName, so just share me the id and I will comeback to you.
 Ping me on Discord: https://eloi.page.link/discord  
 
 Find some brief information on project I did in the past:  

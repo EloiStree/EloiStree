@@ -73,10 +73,8 @@ May the code be with you.
 
 Short|Classique
 -|-
-![image](https://github.com/EloiStree/EloiStree/assets/20149493/db46286e-7951-4129-aa3a-6563a2a6ca6e)
- | ![image](https://github.com/EloiStree/EloiStree/assets/20149493/58c2410b-662b-406f-80a6-4d7ed4fbd0ec)
-
-![image](https://github.com/EloiStree/EloiStree/assets/20149493/46c13395-515d-474b-a1f9-c37516a2bd26)
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/174ca097-9c3a-4e58-bb6d-96603b2fb3b1)
+ | ![image](https://github.com/EloiStree/EloiStree/assets/20149493/2ff5f1c8-8e18-4eed-8b69-7955ad746a3a)
 
 
 Salutations,

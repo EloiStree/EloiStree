@@ -10,9 +10,14 @@
 Support my works 💰🪙:   
 https://en.tipeee.com/eloistree/   
 
-Support me by improving your inventory 📦:  
-- [Look at what I bough in the past](https://github.com/EloiStree/AmazonAssociateLinks/blob/main/BoughtHistory.md)
-- [What I tip to buy depending on projects](https://github.com/EloiStree/AmazonAssociateLinks/)
+Amazon affiliated link 📦 if you want to support me by improving your inventory:  
+https://github.com/EloiStree/AmazonAssociateLinks/
+
+Looking to download Open Macro Input or my XR games/ apps ?    
+[![image](https://github.com/EloiStree/EloiStree/assets/20149493/8d527120-a70c-4ade-a010-f3a8e49804d9)](https://eloi.page.link/bundle)  
+You can find it in my bundle with all the rest of my assets:   
+https://eloi.page.link/bundle   
+
 
 -------------
 
@@ -65,55 +70,22 @@ List of pacakges:
 - https://github.com/EloiStree/UnityToolbox/discussions
 
 
+
+# I need your help.
+
+
+| In my word | In Chat GPT words 😅   |
+|:---: | :---: |
+|![image](https://github.com/EloiStree/EloiStree/assets/20149493/72e79269-c75f-4151-8eea-3abb1273eb5e) | ![image](https://github.com/EloiStree/EloiStree/assets/20149493/4d70d646-2e9e-4dcc-aade-ac51b4e2a498)|
+
+
+
+
 # Life Time project
 |  |   |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInputRuntime)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInput)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInput) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=OpenMacroInput)](https://github.com/EloiStree/OpenMacroInput) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=OpenMacroInputCommunityMapping)](https://github.com/EloiStree/OpenMacroInputCommunityMapping) |
-
-
-# Current projects
-
-## Current Game
-
-### Bullet Hell
-|  |   |
-|:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_08_19_FTLBullets)](https://github.com/EloiStree/2021_08_19_FTLBullets) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_08_17_PlanetCoordPlacementUtility)](https://github.com/EloiStree/2021_08_17_PlanetCoordPlacementUtility) |
-
-### Petcha Kucha
-|  |   |
-|:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_28_PechaKucha)](https://github.com/EloiStree/2021_07_28_PechaKucha) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_29_UnityImageUtilityDownloader)](https://github.com/EloiStree/2021_07_29_UnityImageUtilityDownloader) |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_29_JarClipboardImageRecoveringJava)](https://github.com/EloiStree/2021_07_29_JarClipboardImageRecoveringJava) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2021_07_29_JarClipboardImageRecovering)](https://github.com/EloiStree/2021_07_29_JarClipboardImageRecovering) |
-
-
-----------------
-
-# Previous projects
-
-
-## 2022
-### 📘 CNC for one Month
-Research about how to use CNC for Arduino projects.
-|  |   |
-|:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_01_CNC41Month)](https://github.com/EloiStree/2020_08_01_CNC41Month) |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_08_19_CNC3018ProGCode)](https://github.com/EloiStree/2020_08_19_CNC3018ProGCode)|
-
-
-
-###📕 Package Facilitator
-Tools to facilitate the creation of package toolbox in Unity with Git.
-| Git Utility | Package Facilitator  |
-|:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2019_07_21_QuickGitUtility)](https://github.com/EloiStree/2019_07_21_QuickGitUtility) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2019_07_21_UnityPackageFacilitator)](https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator) |
-
-### 📗 Restream Hack Relay
-Allow to play with and filter the chat messages of live streams through Restream chat.  
-|  |   |
-|:---: | :---: |
-|[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackUnityCore)](https://github.com/EloiStree/2020_07_12_ReHackUnityCore) | [![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackRelay)](https://github.com/EloiStree/2020_07_12_ReHackRelay)|
-|[![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_12_ReHackUnityEloiDemo)](https://github.com/EloiStree/2020_07_12_ReHackUnityEloiDemo) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_07_15_ReHackToJOMI)](https://github.com/EloiStree/2020_07_15_ReHackToJOMI) |
 
 
 # 📚 Teaching Workshop
@@ -128,36 +100,29 @@ Tool use to teach and share knowedge during workshop.
 
 -----------------------
 
-# My Rules 
+# Notes 
 
-## 1: My code is never "finished"
-
-I never code because I want to publish it:
-- I code because I want to know if it is possible.
-- I code because I want a fast way to make something work.
-
-Meaning:
-- My code can change all the time at any moment
-- My code are not to be used but to be underdstood then copy and modify.
-- I am working by creating small toolboxes that depend of other toolboxes.   
-
-### 2: I won't publish on store
+### I don't publish on store
 
 *"Life is too short to spend time selling and protecting my codes"*  
 I spend so many hours trying to put games and codes on the store and beeing refused at the end.
 Don't expect my production to be on stores.
 
-### 3: F**k social media
+Find all my works on a online drive:
+[https://eloi.page.link/bundle](https://eloi.page.link/bundle)
+
+### Social media
 
 I realized after years of failing that I am big fat noob in communication...   
 I tried twitter, reddit, youtube... I am Sooo bad at it.  
 
-So I decided to delete them all and to focus on two communications:  
+So I decided to delete them all and to focus on three communications:  
 - This landing page on [GitHub / EloiStree](https://github.com/EloiStree/) 
 - My [Discord](https://eloistree.page.link/discord) where you can ping me to talk.
+- Some video on Youtube: [https://eloi.page.link/links](https://eloi.page.link/links)
 
 
-## In Conclusion
+# In Conclusion
 
 You are at the right place.  
 Ping me when you need 😀:      

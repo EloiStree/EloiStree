@@ -1,3 +1,7 @@
+[![image](https://github.com/EloiStree/EloiStree/assets/20149493/475b55a0-5717-4197-9004-c0d9b6b050e7)](GreetingPitch.md)
+
+----------------------
+
 # Download & Access
 
 [![image](https://user-images.githubusercontent.com/20149493/232546761-326d9f11-f5c1-4d7c-9df8-02805efe0f78.png)](https://youtu.be/C2vj6MxFN9k)
@@ -19,9 +23,9 @@ On Patreon (USA) https://eloi.page.link/patreon
 Redirection to all my works:
 https://eloi.page.link/linktree
 
-List of all most Project ID:
-https://youtu.be/C2vj6MxFN9k
-[![image](https://user-images.githubusercontent.com/20149493/232548105-c5ee7265-bbd5-461e-8406-80c59c3f9277.png)](https://github.com/EloiStree/ProjectsID)
+List of all most Project ID:  
+[![image](https://user-images.githubusercontent.com/20149493/232548105-c5ee7265-bbd5-461e-8406-80c59c3f9277.png)](https://github.com/EloiStree/ProjectsID)  
+https://github.com/EloiStree/ProjectsID  
 
 -----------------------
 

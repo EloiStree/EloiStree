@@ -1,5 +1,4 @@
 
-My modo:  
 ```Fuck the Rules ! VR & AR, Unity 3D, New-tech, R&D. We want to know if it is possible. Grab some ☕ and 🍺 and let's try to code it.```  
 
 

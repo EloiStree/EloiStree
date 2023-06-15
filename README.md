@@ -74,9 +74,10 @@ List of pacakges:
 # I need your help.
 
 
-| In my word | In Chat GPT words 😅   |
-|:---: | :---: |
-|![image](https://github.com/EloiStree/EloiStree/assets/20149493/72e79269-c75f-4151-8eea-3abb1273eb5e) | ![image](https://github.com/EloiStree/EloiStree/assets/20149493/4d70d646-2e9e-4dcc-aade-ac51b4e2a498)|
+| In my word | In Chat GPT words 😅   | French version
+|:---: | :---: |:---: |
+|![image](https://github.com/EloiStree/EloiStree/assets/20149493/72e79269-c75f-4151-8eea-3abb1273eb5e) | ![image](https://github.com/EloiStree/EloiStree/assets/20149493/4d70d646-2e9e-4dcc-aade-ac51b4e2a498)| ![image](https://github.com/EloiStree/EloiStree/assets/20149493/73b75ca5-9526-457f-b85d-6a05f2317ef3)
+
 
 
 

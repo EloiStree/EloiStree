@@ -1,4 +1,4 @@
-[![image](https://github.com/EloiStree/EloiStree/assets/20149493/475b55a0-5717-4197-9004-c0d9b6b050e7)](GreetingPitch.md)
+[![image](https://github.com/EloiStree/EloiStree/assets/20149493/475b55a0-5717-4197-9004-c0d9b6b050e7)]([GreetingPitch.md](https://github.com/EloiStree/EloiStree/blob/master/GreetingPitch.md))
 
 ----------------------
 

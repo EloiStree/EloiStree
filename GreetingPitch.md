@@ -1,9 +1,8 @@
 
+My modo:
+´Fuck the Rules ! VR & AR, Unity 3D, New-tech, R&D. We want to know if it is possible. Grab some ☕ and 🍺 and let's try to code it.´
 
-
-
-
-
+--------------------
 
 Short|Classic
 -|-
@@ -64,4 +63,44 @@ If you think you can be one of them, feel free to contact me and to crowdfunding
 
 
 May the code be with you.
+
+
+
+------------------------------------
+
+# French version / Version Française
+
+
+Short|Classique
+-|-
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/db46286e-7951-4129-aa3a-6563a2a6ca6e)
+ | ![image](https://github.com/EloiStree/EloiStree/assets/20149493/58c2410b-662b-406f-80a6-4d7ed4fbd0ec)
+
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/46c13395-515d-474b-a1f9-c37516a2bd26)
+
+
+Salutations,
+
+Permettez-moi de me présenter, je suis Éloi Strée. Je vous contacte afin de solliciter votre aide pour soutenir mes projets artistiques.
+
+En tant qu'individu passionné, je suis profondément inspiré par la magie de la programmation. Mon aspiration est de devenir un développeur ancré dans l'engagement communautaire et la collaboration. Je suis motivé par une curiosité insatiable pour explorer les possibilités infinies qui émergent de la programmation et des technologies émergentes dans cette ère extraordinaire de l'existence humaine. Toutes les autres poursuites pâlissent en comparaison de cette force motrice.
+
+Mon plan de vie est de me plonger dans le monde captivant de la Réalité Étendue (XR) par le biais de la recherche et du développement. Plus précisément, je suis dévoué à la création d'un logiciel remarquable appelé OMI, une boîte à outils de macros open-source conçue pour améliorer la communication entre les humains, les logiciels, les jeux et les machines.
+
+Je suis sincèrement ouvert à toute forme d'aide qui pourrait me permettre de poursuivre cette vision. Si vous pensez avoir les capacités pour accélérer mes objectifs ou améliorer mon travail, je vous encourage à me contacter.
+
+En ce qui concerne mon "modèle d'affaires", je propose de regrouper l'ensemble de mon travail dans un package complet, facilement accessible aux donateurs via un espace sécurisé. Dans le même temps, je m'engage à maintenir mes projets en open-source et accessibles sur le web pour ceux qui souhaitent les explorer.
+
+Pour subvenir à mes besoins tout au long de ce voyage créatif, mon objectif est d'obtenir le soutien de 1 000 donateurs qui croient en mon potentiel, ce qui me permettrait de générer un revenu modeste pour assurer ma subsistance.
+
+Pour votre commodité, le package peut être consulté via le lien suivant : https://eloi.page.link/bundle. Si vous vous sentez appelé à participer à cette entreprise, n'hésitez pas à me contacter ou à contribuer à ma page de financement participatif.
+
+Que l'esprit du code guide votre chemin.
+
+Cordialement,
+Éloi Strée
+
+
+
+
 

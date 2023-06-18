@@ -81,6 +81,54 @@ List of pacakges:
 
 
 
+# Currently on
+
+## XOMI
+As Diablo 4 is playable with Xbox Controller, it was a good occasion to rework this code.  
+This tool allows you to simulate one xbox controller from UDP message sent to it.  
+It allows to make testing accross several account on several computers.  
+XOMI: https://github.com/EloiStree/2022_01_24_XOMI/releases/tag/V0.0
+
+## ChatGPT, Whisper and Undertone.
+
+I plan to work on EEG project in the coming years for OMI.
+And the nearest topic that is close to EEG in behaviour is vocal control.
+So I working a vocal to actions tool. The project is half open because it use a bought plug-in.
+
+## OMI
+
+Open Macro Input is a concept of a toolbox of toolboxes.    
+But the main engine it is design for is Unity to be multiplaform and work on XR as the projet originated from my will to create a keybaord for VR.    
+The other main reason of using Unity here is to use the Job system and comptupe shader when required to.   
+Unity OMI: https://github.com/EloiStree/2020_03_11_UnityOMI  
+
+
+# In coming in my wanted list
+
+## Audio Spectrogram to action
+
+That high on my tier list. Learn to master spectrogram in aim to make it easy to glue some action to pattern in it.  
+Basically I want to be able to "beat box" some sound to make action in my app and game instead of using vocal.  
+
+## Mirror ( & Others ) 
+
+To be able to make my computer communicate with each other, I use Hamachi and UDP.   
+But I would like to enjoy a Unity Mirror Relay code that can be use in Unity and other apps by using Unity Relay per platform.  
+What is the point ? The idea here would be to have a boolean and command driven network easy to deploy and to hook at.  
+ 
+## AOMI
+
+I don't have time for that now. But that something that was my priority list if I had to work more time with Molengeek.    
+A tool that allows with ADB to make some actions on phone and VR headset with the same design of JOMI and XOMI.   
+ 
+It would be a good addition to the toolbox to help game testers and botters on phone.    
+
+
+
+
+
+
+
 
 # Life Time project
 |  |   |

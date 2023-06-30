@@ -8,10 +8,15 @@
 
 
 Support my works 💰🪙:   
-https://en.tipeee.com/eloistree/   
+- Access my harddrive
+  - https://en.tipeee.com/eloistree/   
+- Amazon affiliated link 📦 if you want to support me by improving your inventory:  
+  - [https://github.com/EloiStree/AmazonAssociateLinks/
+](https://github.com/EloiStree/AmazonAssociateLinks/blob/main/BoughtHistory.md)
+- Contact me to work on small 1-2 weeks projet(s)
+- Hire me to teach topic I started to explored in my past
 
-Amazon affiliated link 📦 if you want to support me by improving your inventory:  
-https://github.com/EloiStree/AmazonAssociateLinks/
+
 
 Looking to download Open Macro Input or my XR games/ apps ?    
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/8d527120-a70c-4ade-a010-f3a8e49804d9)](https://eloi.page.link/bundle)  

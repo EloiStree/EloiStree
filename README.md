@@ -21,7 +21,7 @@ Support my works 💰🪙:
 Looking to download Open Macro Input or my XR games/ apps ?    
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/8d527120-a70c-4ade-a010-f3a8e49804d9)](https://eloi.page.link/bundle)  
 You can find it in my bundle with all the rest of my assets:   
-https://eloi.page.link/bundle   
+https://eloi.page.link/bundle   /  https://eloi.page.link/download
 
 
 -------------

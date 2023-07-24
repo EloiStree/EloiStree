@@ -32,10 +32,10 @@ The link you will receive give you access to my public hard drive backup.
 I have a small community.  
 Feel free to ping me on Discord for any question / difficulty you would have.  
 I will answer as soon as I have some time to help.  
-http://eloi.page.link/discord   
+http://eloi.page.link/discord    
   
-If you want to contact me for buisness reason, I invite you to do it by LinkedIn. 
-http://eloi.page.link/linkedin  
+If you want to contact me for buisness reason, I invite you to do it by LinkedIn.   
+http://eloi.page.link/linkedin    
 
 -----------------------
 

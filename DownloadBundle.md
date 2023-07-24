@@ -37,6 +37,8 @@ http://eloi.page.link/discord
 If you want to contact me for buisness reason, I invite you to do it by LinkedIn.  
 http://eloi.page.link/linkedin  
 
+( I am on the Belgium time zone )  
+
 -----------------------
 
 # Hello you

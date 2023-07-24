@@ -25,6 +25,15 @@ https://github.com/EloiStree/ProjectsID
 
 The link you will receive give you access to my public hard drive backup.
 
+-----------------------
+
+# Support
+  
+I have a small community. Feel free to ping me on Discord for any question / difficulty you would have.  
+http://eloi.page.link/discord  
+  
+If you want to contact me for buisness reason, I invite you to do it by LinkedIn. 
+http://eloi.page.link/linkedin  
 
 -----------------------
 

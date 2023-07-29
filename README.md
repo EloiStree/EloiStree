@@ -47,7 +47,7 @@ In any project I am working on you will have those package in the manifest
 "be.eloistree.license":"https://github.com/EloiStree/GeneralLicense.git",
 "be.eloistree.unitypackagefacilitator":"https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
 "be.eloistree.generaltoolbox":"https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
-"be.eloistree.zhulistaticsingleton","https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton",
+"be.eloistree.zhulistaticsingleton","https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
 
 ```
 - Git Utility is a tool to manage git on the computer with command line on Window

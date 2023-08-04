@@ -5,7 +5,7 @@ Official short LinkTree:
 https://linktr.ee/eloistree  
   
 This linkthree:   
-eloi.page.link/linktree  
+https://eloi.page.link/linktree  
 
 
 ### Youtube Channel

@@ -1,324 +1,604 @@
 # All public Git Lab & GitHub list
-Updated the 2020 July 18  
-
-- [x] https://gitlab.com/eloistree/2020_07_13_my9gagcollection.git
-- [x] https://gitlab.com/eloistree/2020_07_02_WaterDrop.git
-- [x] https://gitlab.com/eloistree/2020_07_01_ChallengeTron.git
-- [x] https://gitlab.com/eloistree/2020_06_25_ThereminVR.git
-- [x] https://gitlab.com/eloistree/2020_06_23_AttendanceChecker.git
-- [x] https://gitlab.com/eloistree/2020_06_17_VirtualRealityTags.git
-- [x] https://gitlab.com/eloistree/2020_06_13_InGameCredit.git
-- [x] https://gitlab.com/eloistree/2020_06_10_LookingEyesForVR.git
-- [x] https://gitlab.com/eloistree/2020_06_09_ShaderFromTheWeb.git
-- [x] https://gitlab.com/eloistree/2020_06_09_DebugCharacterVR.git
-- [x] https://gitlab.com/eloistree/2020_06_08_ReadyToUseAndroidAssetDisplayer.git
-- [x] https://gitlab.com/eloistree/2020_06_06_RangeOfRotations.git
-- [x] https://gitlab.com/eloistree/2020_06_06_GizmoTools.git
-- [x] https://gitlab.com/eloistree/2020_06_06_CalibrationTools.git
-- [x] https://gitlab.com/eloistree/2020_06_06_BasicTextureReadyToUse.git
-- [x] https://gitlab.com/eloistree/2020_06_06_360MeshReadyToUse.git
-- [x] https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git
-- [x] https://gitlab.com/eloistree/2020_06_06_StereoViewer.git
-- [x] https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git
-- [x] https://gitlab.com/eloistree/2020_06_05_AndroidTurnAroundAccelero.git
-- [x] https://gitlab.com/eloistree/2020_06_04_InsideHelmetLerp.git
-- [x] https://gitlab.com/eloistree/2020_06_02_magicroomsgroupexperiment.git
-- [x] https://gitlab.com/eloistree/2020_05_31_utensilsdemo.git
-- [x] https://gitlab.com/eloistree/2020_05_31_kitchendemo.git
-- [x] https://gitlab.com/eloistree/2020_05_28_JimmyScreamFPS.git
-- [x] https://gitlab.com/eloistree/2020_05_28_IsInView.git
-- [x] https://gitlab.com/eloistree/2020_05_28_MagicDoorsCore.git
-- [x] https://gitlab.com/eloistree/2020_05_25_KoFiCount.git
-- [x] https://gitlab.com/eloistree/2020_05_25_NeedToBeRecycleLater.git
-- [x] https://gitlab.com/eloistree/2020_05_23_UnicodeInUnity.git
-- [x] https://gitlab.com/eloistree/2020_05_10_VrBooleanStateMachines.git
-- [x] https://gitlab.com/eloistree/2020_05_05_BooleanHistory.git
-- [x] https://gitlab.com/eloistree/2020_05_05_BooleanStateMachines.git
-- [x] https://gitlab.com/eloistree/2020_05_04_CheckConnectionDropSave.git
-- [x] https://gitlab.com/eloistree/2020_05_03_CheckConnection.git
-- [x] https://gitlab.com/eloistree/2020_04_29_DeltraSquareVector.git
-- [x] https://gitlab.com/eloistree/2020_04_28_UnityDirectoryStorageUtility.git
-- [x] https://gitlab.com/eloistree/2020_04_21_DemoTap2JavaOMI.git
-- [x] https://gitlab.com/eloistree/2020_04_20_TapUtilityOnAndroid.git
-- [x] https://gitlab.com/eloistree/2020_04_17_CopyPastUtility.git
-- [x] https://gitlab.com/eloistree/2020_04_08_TextMacroIntent.git
-- [x] https://gitlab.com/eloistree/2020_04_09_WinApplicationContext.git
-- [x] https://gitlab.com/eloistree/2019_12_11_KeystrokeUtility.git
-- [x] https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git
-- [x] https://gitlab.com/eloistree/2020_04_06_compressdigitalandanalog.git
-- [x] https://gitlab.com/eloistree/2020_02_13_FootKeyboardsAPI.git
-- [x] https://gitlab.com/eloistree/2020_02_13_ReadSerialPort.git
-- [x] https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git
-- [x] https://gitlab.com/eloistree/2020_01_31_QuestGlobalJamHandsInteraction.git
-- [x] https://gitlab.com/eloistree/2020_01_10_QuestRemoteDemo.git
-- [x] https://gitlab.com/eloistree/2020_01_10_QuestHandsRecognition.git
-- [x] https://gitlab.com/eloistree/2019_12_28_questhandapitotransform.git
-- [x] https://gitlab.com/eloistree/2019_12_27_questhandfacilitator.git
-- [x] https://gitlab.com/eloistree/2019_12_11_MorseDetector.git
-- [x] https://gitlab.com/eloistree/2019_11_11_BipOnTune.git
-- [x] https://gitlab.com/eloistree/2019_11_01_OculusInputCompressedFromApi.git
-- [x] https://gitlab.com/eloistree/2019_10_15_PackagesToWikiAndWebsites.git
-- [x] https://gitlab.com/eloistree/2019_09_19_MathCompressionOfImage.git
-- [x] https://gitlab.com/eloistree/2019_09_19_QuickRandomMovingObjects.git
-- [x] https://gitlab.com/eloistree/2019_09_24_RemoveSomeDirectories.git
-- [x] https://gitlab.com/eloistree/2019_09_22_RemoteRequestListener.git
-- [x] https://gitlab.com/eloistree/2019_09_21_ArcadeStarScore.git
-- [x] https://gitlab.com/eloistree/2019_09_15_magicpoi.git
-- [x] https://gitlab.com/eloistree/2019_09_09_WingManAttack2.git
-- [x] https://gitlab.com/eloistree/2019_09_06_UnicodeBasedId.git
-- [x] https://gitlab.com/eloistree/2019_09_05_FilesAndFoldersExplorer.git
-- [x] https://gitlab.com/eloistree/2019_09_01_TagScriptsAndMirror.git
-- [x] https://gitlab.com/eloistree/2019_09_01_TriggerAndCollisionEvent.git
-- [x] https://gitlab.com/eloistree/2019_09_01_Selectors.git
-- [x] https://gitlab.com/eloistree/2019_08_30_TextMeshPool.git
-- [x] https://gitlab.com/eloistree/2019_08_30_PostIt.git
-- [x] https://gitlab.com/eloistree/2019_08_26_linecolliders.git
-- [x] https://gitlab.com/eloistree/2019_08_15_ForestPlatformForQuest.git
-- [x] https://gitlab.com/eloistree/2019_08_15_BananaSpawner.git
-- [x] https://gitlab.com/eloistree/2019_08_15_PerfectSphereColor.git
-- [x] https://gitlab.com/eloistree/2019_08_10_helloarduinoaskeyboardhack.git
-- [x] https://gitlab.com/eloistree/2019_08_03_FirstGuardianPointPosition.git
-- [x] https://gitlab.com/eloistree/2019_08_02_MetaTouchInformation.git
-- [x] https://gitlab.com/eloistree/2019_08_02_mushroomtimeline.git
-- [x] https://gitlab.com/eloistree/2019_07_30_Texturetodigits.git
-- [x] https://gitlab.com/eloistree/2019_07_29_MirrorGoBehaviour.git
-- [x] https://gitlab.com/eloistree/2019_07_29_LegacyFontUsed.git
-- [x] https://gitlab.com/eloistree/2019_07_29_LegacyMeshes.git
-- [x] https://gitlab.com/eloistree/2019_07_29_LegacyTextureAndSprite.git
-- [x] https://gitlab.com/eloistree/2019_07_28_ArduinoToQuestHC06.git
-- [x] https://gitlab.com/eloistree/2019_07_27_oculusquestpackagetoolbox.git
-- [x] https://gitlab.com/eloistree/2019_07_23_OculusQuestLight.git
-- [x] https://gitlab.com/eloistree/2019_07_26_OVRInputEvent.git
-- [x] https://gitlab.com/eloistree/2019_07_23_MoveObjectsWithTouch.git
-- [x] https://gitlab.com/eloistree/2019_07_22_oculusguardianidentity.git
-- [x] https://gitlab.com/eloistree/2019_07_22_grenadescripts.git
-- [x] https://gitlab.com/eloistree/2019_07_17_questteleportdetector.git
-- [x] https://gitlab.com/eloistree/2019_07_15_guardiancalibrationtools.git
-- [x] https://gitlab.com/eloistree/2019_07_03_measuretools.git
-- [x] https://gitlab.com/eloistree/2019_06_30_overrideandroidvolume.git
-- [x] https://gitlab.com/eloistree/2019_06_30_counterlagprediction.git
-- [x] https://gitlab.com/eloistree/2019_06_30_VirtualRealityDebugHands.git
-- [x] https://gitlab.com/eloistree/2019_06_30_WorldRecalibration.git
-- [x] https://gitlab.com/eloistree/2019_06_20_hellomqtt.git
-- [x] https://gitlab.com/eloistree/2019_06_10_unityprefsthemall.git
-- [x] https://gitlab.com/eloistree/2019_06_03_adbutility.git
-- [x] https://gitlab.com/eloistree/2019_05_23_EloiExperimentsSideQuest.git
-- [x] https://gitlab.com/eloistree/2019_05_27_unkownradiovr.git
-- [x] https://gitlab.com/eloistree/2019_05_03_justrubikcube.git
-- [x] https://gitlab.com/eloistree/2019_02_28_moveyourass_asteroids.git
-- [x] https://gitlab.com/eloistree/2019_04_08_frontalcameradisplay.git
-- [x] https://gitlab.com/eloistree/2019_04_04_holohandstracking.git
-- [x] https://gitlab.com/eloistree/2019_03_23_linearconditiontrigger.git
-- [x] https://gitlab.com/eloistree/2019_03_22_macrotrigger.git
-- [x] https://gitlab.com/eloistree/2019_03_17_VoilaCeQuiVaSePasser.git
-- [x] https://gitlab.com/eloistree/2019_03_04_IsInHololensFieldOfView.git
-- [x] https://gitlab.com/eloistree/2019_02_13_imagesdownloader.git
-- [x] https://gitlab.com/eloistree/2019_02_19_hololensfieldofview.git
-- [x] https://gitlab.com/eloistree/2019_02_06_MoveYourAss_GoldenDickbutt.git
-- [x] https://gitlab.com/eloistree/2019_01_30_arduinoscripts.git
-- [x] https://gitlab.com/eloistree/2019_01_23_justlasers.git
-- [x] https://gitlab.com/eloistree/2019_01_15_randomtool.git
-- [x] https://gitlab.com/eloistree/2019_01_19_MoveYourAss_LasersVersion.git
-- [x] https://gitlab.com/eloistree/2018_01_11_jamscountdown.git
-- [x] https://gitlab.com/eloistree/2018_12_21_hellohc06.git
-- [x] https://gitlab.com/eloistree/2018_12_08_macropersistance.git
-- [x] https://gitlab.com/eloistree/2017_10_25_voicewarmup.git
-- [x] https://gitlab.com/eloistree/2018_11_25_OpenBoardCastToolbox.git
-- [x] https://gitlab.com/eloistree/2018_11_16_patreonpattern.git
-- [x] https://gitlab.com/eloistree/2018_10_19_speechless.git
-- [x] https://gitlab.com/eloistree/2018_10_18_TapWithUsAPI.git
-- [x] https://gitlab.com/eloistree/2018_10_16_vrtk_targetcontest.git
-- [x] https://gitlab.com/eloistree/2018_10_15_morsedetector.git
-- [x] https://gitlab.com/eloistree/2018_06_06_computeshaderforvoxeltry.git
-- [x] https://gitlab.com/eloistree/2018_10_08_bokingquaternion.git
-- [x] https://gitlab.com/eloistree/2018_08_22_TypingGod.git
-- [x] https://gitlab.com/eloistree/2018_09_18_Module_MouseUtility.git
-- [x] https://gitlab.com/eloistree/2018_09_06_Module_NetworkAutoLaunch.git
-- [x] https://gitlab.com/eloistree/2018_09_06_PatreonSlashAndWatermark.git
-- [x] https://gitlab.com/eloistree/2018_08_11_Thamaganos.git
-- [x] https://gitlab.com/eloistree/2018_08_30_Module_FingersBoard.git
-- [x] https://gitlab.com/eloistree/2018_08_04_Module_MacroUtility.git
-- [x] https://gitlab.com/eloistree/2016_03_11_BrutalWheelChairSimulator.git
-- [x] https://gitlab.com/eloistree/2015_08_04_FlicToUnity.git
-- [x] https://gitlab.com/eloistree/2015_07_09_SurfingDrone.git
-- [x] https://gitlab.com/eloistree/2015_04_24_JediSimulator.git
-- [x] https://gitlab.com/eloistree/2015_04_20_JugglerMaster.git
-- [x] https://gitlab.com/eloistree/2015_03_16_BeerHelp.git
-- [x] https://gitlab.com/eloistree/2015_03_04_AccessibilityGreenLight.git
-- [x] https://gitlab.com/eloistree/2015_01_23_Demonicide.git
-- [x] https://gitlab.com/eloistree/2014_11_07_UnkownRadio.git
-- [x] https://gitlab.com/eloistree/2014_11_08_MrMrsFlash.git
-- [x] https://gitlab.com/eloistree/2014_10_21_QwertyWars.git
-- [x] https://gitlab.com/eloistree/2014_08_30_JCVD.git
-- [x] https://gitlab.com/eloistree/2014_08_14_Replicator.git
-- [x] https://gitlab.com/eloistree/2014_07_25_Shhh.git
-- [x] https://gitlab.com/eloistree/2014_07_07_WolfensteinVR.git
-- [x] https://gitlab.com/eloistree/2014_05_17_Minesweeper0H.git
-- [x] https://gitlab.com/eloistree/2014_02_27_RainReader.git
-- [x] https://gitlab.com/eloistree/2013_05_12_TimeRifter.git
-- [x] https://gitlab.com/eloistree/2013_10_24_DoudouRumble.git
-- [x] https://gitlab.com/eloistree/2013_05_12_FederationBattle.git
-- [x] https://gitlab.com/eloistree/2013_01_01_BlackMantis.git
-- [x] https://gitlab.com/eloistree/2012_02_12_Nuage.git
-- [x] https://gitlab.com/eloistree/2018_07_13_WoodScanning.git
-- [x] https://gitlab.com/eloistree/2017_08_26_YinYang.git
-- [x] https://gitlab.com/eloistree/2018_02_28_WebcamViewer.git
-- [x] https://gitlab.com/eloistree/2015_09_11_PechaKuchaTraining.git
-- [x] https://gitlab.com/eloistree/2018_07_06_HackathonFitMarketTools.git
-- [x] https://gitlab.com/eloistree/2018_03_18_PlanetaryCook.git
-- [x] https://gitlab.com/eloistree/2017_04_22_HashTagInTheBottle.git
-- [x] https://gitlab.com/eloistree/2016_09_26_SimWheels.git
-- [x] https://gitlab.com/eloistree/2018_01_01_GameGuideFortnite.git
-- [x] https://gitlab.com/eloistree/2017_04_01_WhaleRider.git
-- [x] https://gitlab.com/eloistree/CommunityAssets.git
-- [x] https://gitlab.com/eloistree/2018_03_14_Meuh.git
-- [x] https://gitlab.com/eloistree/2017_12_29_DeckAR.git
-- [x] https://gitlab.com/eloistree/2017_12_16_EditorExploration.git
-- [x] https://gitlab.com/eloistree/2017_12_12_WoufWouf.git
-- [x] https://gitlab.com/eloistree/2017_12_06_ReignsLikeInterface.git
-- [x] https://gitlab.com/eloistree/2017_06_28_HelloNFC.git
-- [x] https://gitlab.com/eloistree/2012_12_03_DraftTrash.git
-- [x] https://gitlab.com/eloistree/2016_11_20_DesignAnalyticsVR.git
-- [x] https://gitlab.com/eloistree/2018_01_19_StudentsFork_MolesKingdom.git
-- [x] https://gitlab.com/eloistree/2017_08_16_I3_FunWithVR.git
-- [x] https://gitlab.com/eloistree/2017_08_06_StereoExperiment.git
-- [x] https://gitlab.com/eloistree/2017_07_29_LudumDare39.git
-- [x] https://gitlab.com/eloistree/2018_05_13_PatreonUnityAPI.git
-- [x] https://gitlab.com/eloistree/2017_07_11_S8_OneMesh.git
-- [x] https://gitlab.com/eloistree/2017_06_16_TangoResearches.git
-- [x] https://gitlab.com/eloistree/2017_04_28_Upway.git
-- [x] https://gitlab.com/eloistree/2017_03_24_UnityStreamTools.git
-- [x] https://gitlab.com/eloistree/2017_03_11_Notify.io.git
-- [x] https://gitlab.com/eloistree/2017_02_25_GhostInTheShell.git
-- [x] https://gitlab.com/eloistree/2017_01_23_ArteryVR.git
-- [x] https://gitlab.com/eloistree/2017_01_11_UnityOptimisation.git
-- [x] https://gitlab.com/eloistree/2016_10_16_UCLL.git
-- [x] https://gitlab.com/eloistree/2016_09_20_HelloVR.git
-- [x] https://gitlab.com/eloistree/2016_08_28_TwitchPlays_Risk.git
-- [x] https://gitlab.com/eloistree/2016_07_28_MatrixSlowMo.git
-- [x] https://gitlab.com/eloistree/2016_06_27_JaimeOfThrone.git
-- [x] https://gitlab.com/eloistree/2014_11_08_PlatinumRift2.git
-- [x] https://gitlab.com/eloistree/2014_11_05_BlourakDestiny.git
-- [x] https://gitlab.com/eloistree/2014_10_22_DeathElevator.git
-- [x] https://gitlab.com/eloistree/2014_08_31_VanDamBaam.git
-- [x] https://gitlab.com/eloistree/2013_08_23_ChogathFanGame.git
-- [x] https://gitlab.com/eloistree/2016_11_05_BIFFF35.git
-- [x] https://gitlab.com/eloistree/2018_06_28_NetworkCmdThroughPlayer.git
-- [x] https://gitlab.com/eloistree/2018_06_21_DebugDraw.git
-- [x] https://gitlab.com/eloistree/2018_06_20_Module_UnityRandom.git
-- [x] https://gitlab.com/eloistree/2018_06_20_TransformReplay.git
-- [x] https://gitlab.com/eloistree/2018_06_02_ColorHotspotVideoTrigger.git
-- [x] https://gitlab.com/eloistree/2018_06_01_MeshToVoxel.git
-- [x] https://gitlab.com/eloistree/2018_05_25_HelloZedMini.git
-- [x] https://gitlab.com/eloistree/2018_05_21_StereoShopExperiment.git
-- [x] https://gitlab.com/eloistree/2018_05_21_BrainBlastVR.git
-- [x] https://gitlab.com/eloistree/2018_05_16_BipOnTune.git
-- [x] https://gitlab.com/eloistree/2018_05_13_RubikWorld.git
-- [x] https://gitlab.com/eloistree/2018_04_16_Dubai2018.git
-- [x] https://gitlab.com/eloistree/2017_07_13_PatreonAPI.git
-- [x] https://gitlab.com/eloistree/2018_01_23_ArteryBattleVR.git
-- [x] https://gitlab.com/eloistree/2018_04_07_MergeCubeVRWithVuforia.git
-- [x] https://gitlab.com/eloistree/2018_03_31_FortniteSnipe.git
-- [x] https://github.com/EloiStree/2012_04_29_DesignPatternInUnity.git
-- [x] https://github.com/EloiStree/2014_11_08_PlatinumRift2.git
-- [x] https://github.com/EloiStree/2017_04_09_MondayReview.git
-- [x] https://github.com/EloiStree/2017_04_11_HowToUse360Camera.git
-- [x] https://github.com/EloiStree/2017_07_13_Wiki_PatreonUnityAPI.git
-- [x] https://github.com/EloiStree/2017_08_06_StereoExperiment.git
-- [x] https://github.com/EloiStree/2017_09_19_Boostcamp.git
-- [x] https://github.com/EloiStree/2017_10_06_KissYourTeacher.git
-- [x] https://github.com/EloiStree/2017_11_18_MoscowMetro.git
-- [x] https://github.com/EloiStree/2017_11_22_TechnoBel.git
-- [x] https://github.com/EloiStree/2017_12_29_DeckAR.git
-- [x] https://github.com/EloiStree/2018_01_28_GameDeveloperTechnifutur.git
-- [x] https://github.com/EloiStree/2018_02_11_HelloUnityForArtists.git
-- [x] https://github.com/EloiStree/2018_02_26_WikiDesignVR.git
-- [x] https://github.com/EloiStree/2018_03_04_LearnByPlaying.git
-- [x] https://github.com/EloiStree/2018_10_08_HelloTapWithUs.git
-- [x] https://github.com/EloiStree/2018_10_09_GroupDesignVR.git
-- [x] https://github.com/EloiStree/2018_10_14_GitMarkdownClone.git
-- [x] https://github.com/EloiStree/2018_10_18_OpenAndTapToolbox.git
-- [x] https://github.com/EloiStree/2018_10_19_Speechless.git
-- [x] https://github.com/EloiStree/2018_10_21_SpeechlessVoiceAPI.git
-- [x] https://github.com/EloiStree/2018_10_28_SpeechlessVoiceUniversal.git
-- [x] https://github.com/EloiStree/2018_11_12_GearInfo.git
-- [x] https://github.com/EloiStree/2018_11_16_2AM.git
-- [x] https://github.com/EloiStree/2018_12_08_HelloNetworkUnderUnity.git
-- [x] https://github.com/EloiStree/2018_12_17_WikiGitUtility.git
-- [x] https://github.com/EloiStree/2019_01_25_Trunacoins.git
-- [x] https://github.com/EloiStree/2019_01_30_HelloUnityPackageToolbox.git
-- [x] https://github.com/EloiStree/2019_02_09_HowToPublishStuffs.git
-- [x] https://github.com/EloiStree/2019_02_15_VRBook.git
-- [x] https://github.com/EloiStree/2019_02_16_TrajectoryRobot.git
-- [x] https://github.com/EloiStree/2019_03_22_MacroTriggering.git
-- [x] https://github.com/EloiStree/2019_04_04_XR2RewiredSpaceshipExercise.git
-- [x] https://github.com/EloiStree/2019_04_04_XR2RewiredSpaceshipExercise_OculusGoAndQuest.git
-- [x] https://github.com/EloiStree/2019_04_22_HelloDeadByDaylight.git
-- [x] https://github.com/EloiStree/2019_05_03_HelloRubikCube.git
-- [x] https://github.com/EloiStree/2019_06_07_HelloTennisTableVR.git
-- [x] https://github.com/EloiStree/2019_06_10_FreeWebVRForQuest.git
-- [x] https://github.com/EloiStree/2019_06_23_EmptyStart_MQTT_VR.git
-- [x] https://github.com/EloiStree/2019_07_21_QuickGitUtility.git
-- [x] https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git
-- [x] https://github.com/EloiStree/2019_08_06_InClassCodeHelloTechnifutur.git
-- [x] https://github.com/EloiStree/2019_08_10_helloarduinoaskeyboardhack.git
-- [x] https://github.com/EloiStree/2019_08_15_TheDoorsProject.git
-- [x] https://github.com/EloiStree/2019_08_19_HelloVRTK.git
-- [x] https://github.com/EloiStree/2019_08_29_SpacializedAsset.git
-- [x] https://github.com/EloiStree/2019_09_18_MagicPoi.git
-- [x] https://github.com/EloiStree/2019_09_19_MathCompressionOfImage.git
-- [x] https://github.com/EloiStree/2019_10_04_KissYourPuppets.git
-- [x] https://github.com/EloiStree/2019_11_28_HelloRestreamChat.git
-- [x] https://github.com/EloiStree/2020_03_26_HowToUltraNightmareDoom.git
-- [x] https://github.com/EloiStree/2020_04_10_JavaOpenMacroInput.git
-- [x] https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime.git
-- [x] https://github.com/EloiStree/2020_04_25_TapUnityPluginAsPackage.git
-- [x] https://github.com/EloiStree/2020_05_20_PackSubModule_Contact.git
-- [x] https://github.com/EloiStree/2020_05_20_submodulesupporttry.git
-- [x] https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git
-- [x] https://github.com/EloiStree/2020_05_28_TheMagicDoors.git
-- [x] https://github.com/EloiStree/2020_05_30_GitUnicodeStories.git
-- [x] https://github.com/EloiStree/2020_06_15_DevHelloGit.git
-- [x] https://github.com/EloiStree/2020_06_15_EloiMagicDoorJustLasersDemo.git
-- [x] https://github.com/EloiStree/2020_06_15_EnnioToolboxDemo.git
-- [x] https://github.com/EloiStree/2020_06_15_FadeCameraViewOnCollision.git
-- [x] https://github.com/EloiStree/2020_06_15_JulienToolbox.git
-- [x] https://github.com/EloiStree/2020_06_15_RomainCreditSystem.git
-- [x] https://github.com/EloiStree/2020_06_15_TeleportVirtualRealityUser.git
-- [x] https://github.com/EloiStree/2020_06_16_RadioComments.git
-- [x] https://github.com/EloiStree/2020_06_16_RadioCommentsRoomDemo.git
-- [x] https://github.com/EloiStree/2020_06_20_MultiObjectsGrabber.git
-- [x] https://github.com/EloiStree/2020_06_21_SelimChains.git
-- [x] https://github.com/EloiStree/2020_06_23_GroupAttendanceChecker.git
-- [x] https://github.com/EloiStree/2020_06_28_MyAutoHotKey.git
-- [x] https://github.com/EloiStree/2020_07_01_BatchFiles.git
-- [x] https://github.com/EloiStree/2020_07_01_CouldBeUsefulMeme.git
-- [x] https://github.com/EloiStree/2020_07_01_InoFiles.git
-- [x] https://github.com/EloiStree/2020_07_01_JamSharedCodeWorkshop.git
-- [x] https://github.com/EloiStree/2020_07_05_MarketingSpamBackfire.git
-- [x] https://github.com/EloiStree/2020_07_09_OkTimeToProunouceCorrectly.git
-- [x] https://github.com/EloiStree/2020_07_12_ReHackRelay.git
-- [x] https://github.com/EloiStree/2020_07_12_ReHackUnityCore.git
-- [x] https://github.com/EloiStree/2020_07_12_ReHackUnityEloiDemo.git
-- [x] https://github.com/EloiStree/2020_07_13_JustMyLinksLibrary.git
-- [x] https://github.com/EloiStree/2020_07_13_PublicScan.git
-- [x] https://github.com/EloiStree/2020_07_15_ReHackToJOMI.git
-- [x] https://github.com/EloiStree/2020_08_01_CNC41Month.git
-- [x] https://github.com/EloiStree/2020_08_06_WorkshopTechnociteQA.git
-- [x] https://github.com/EloiStree/2020_23_06_ClappingFromYohan.git
-- [x] https://github.com/EloiStree/CodeAndQuestsEveryDay.git
-- [x] https://github.com/EloiStree/GeneralLicense.git
-- [x] https://github.com/EloiStree/HelloHololens.git
-- [x] https://github.com/EloiStree/HelloPaintingJam.git
-- [x] https://github.com/EloiStree/HelloRemoteFirework.git
-- [x] https://github.com/EloiStree/HelloUnity.git
-- [x] https://github.com/EloiStree/HelloVirtualReality.git
-- [x] https://github.com/EloiStree/InfoTermsAndPolicy.git
-- [x] https://github.com/EloiStree/KinectOnOBS.git
-- [x] https://github.com/EloiStree/NevenAxelToolBoxTechnocity.git
-- [x] https://github.com/EloiStree/OpenMacroInput.git
-- [x] https://github.com/EloiStree/OpenMacroInputCommunityMapping.git
-- [x] https://github.com/EloiStree/PublicPortfolio.git
-- [x] https://github.com/EloiStree/Teaching.git
-- [x] https://github.com/EloiStree/UnityToolbox.git
-- [x] https://github.com/EloiStree/Videos.git
+Updated the 2023 August 05  
+- [ ] https://gitlab.com/eloistree/2021_07_26_public_eloistreecv.git
+- [ ] https://gitlab.com/eloistree/2021_08_15_tempeloiprojectimages.git
+- [ ] https://gitlab.com/eloistree/2021_05_07_PixelWars.git
+- [ ] https://gitlab.com/eloistree/2021_04_18_ExecuteAtExactly.git
+- [ ] https://gitlab.com/eloistree/2021_04_10_Demo_HowToUseStringChangeListener.git
+- [ ] https://gitlab.com/eloistree/2021_04_08_SecureTokenAccess.git
+- [ ] https://gitlab.com/eloistree/2021_04_08_UseUnityAsSoftware.git
+- [ ] https://gitlab.com/eloistree/2021_04_06_StringChangeListener.git
+- [ ] https://gitlab.com/eloistree/2020_11_29_UDPThreadSender.git
+- [ ] https://gitlab.com/eloistree/2021_01_08_WindowOverlayer.git
+- [ ] https://gitlab.com/eloistree/2020_12_14_EloiTiredToCodeIt.git
+- [ ] https://gitlab.com/eloistree/2020_11_26_XInputToBoolean.git
+- [ ] https://gitlab.com/eloistree/2020_11_14_TimeThread.git
+- [ ] https://gitlab.com/eloistree/2020_09_29_BooleanStateMachineToJomi.git
+- [ ] https://gitlab.com/eloistree/2020_09_23_SerialPortToBooleanStateMachines.git
+- [ ] https://gitlab.com/eloistree/2020_07_28_accesscurrentip.git
+- [ ] https://gitlab.com/eloistree/2020_07_25_Namable.git
+- [ ] https://gitlab.com/eloistree/2020_07_17_ScreenLocker.git
+- [ ] https://gitlab.com/eloistree/2020_07_17_MouseScreenInformation.git
+- [ ] https://gitlab.com/eloistree/2020_07_13_my9gagcollection.git
+- [ ] https://gitlab.com/eloistree/2020_07_02_WaterDrop.git
+- [ ] https://gitlab.com/eloistree/2020_07_01_ChallengeTron.git
+- [ ] https://gitlab.com/eloistree/2020_06_25_ThereminVR.git
+- [ ] https://gitlab.com/eloistree/2020_06_23_AttendanceChecker.git
+- [ ] https://gitlab.com/eloistree/2020_06_21_TargetDebuggingUtility.git
+- [ ] https://gitlab.com/eloistree/2020_06_17_VirtualRealityTags.git
+- [ ] https://gitlab.com/eloistree/2020_06_13_InGameCredit.git
+- [ ] https://gitlab.com/eloistree/2020_06_10_LookingEyesForVR.git
+- [ ] https://gitlab.com/eloistree/2020_06_09_ShaderFromTheWeb.git
+- [ ] https://gitlab.com/eloistree/2020_06_09_DebugCharacterVR.git
+- [ ] https://gitlab.com/eloistree/2020_06_08_ReadyToUseAndroidAssetDisplayer.git
+- [ ] https://gitlab.com/eloistree/2020_06_06_RangeOfRotations.git
+- [ ] https://gitlab.com/eloistree/2020_06_06_GizmoTools.git
+- [ ] https://gitlab.com/eloistree/2020_06_06_CalibrationTools.git
+- [ ] https://gitlab.com/eloistree/2020_06_06_BasicTextureReadyToUse.git
+- [ ] https://gitlab.com/eloistree/2020_06_06_360MeshReadyToUse.git
+- [ ] https://gitlab.com/eloistree/2020_06_07_FFmpegInUnity.git
+- [ ] https://gitlab.com/eloistree/2020_06_06_StereoViewer.git
+- [ ] https://gitlab.com/eloistree/2020_06_06_StereoRecorder.git
+- [ ] https://gitlab.com/eloistree/2020_06_05_AndroidTurnAroundAccelero.git
+- [ ] https://gitlab.com/eloistree/2020_06_04_InsideHelmetLerp.git
+- [ ] https://gitlab.com/eloistree/2020_06_02_magicroomsgroupexperiment.git
+- [ ] https://gitlab.com/eloistree/2020_05_31_utensilsdemo.git
+- [ ] https://gitlab.com/eloistree/2020_05_31_kitchendemo.git
+- [ ] https://gitlab.com/eloistree/2020_05_28_JimmyScreamFPS.git
+- [ ] https://gitlab.com/eloistree/2020_05_28_IsInView.git
+- [ ] https://gitlab.com/eloistree/2020_05_28_MagicDoorsCore.git
+- [ ] https://gitlab.com/eloistree/2020_05_25_KoFiCount.git
+- [ ] https://gitlab.com/eloistree/2020_05_25_NeedToBeRecycleLater.git
+- [ ] https://gitlab.com/eloistree/2020_05_23_UnicodeInUnity.git
+- [ ] https://gitlab.com/eloistree/2020_05_10_VrBooleanStateMachines.git
+- [ ] https://gitlab.com/eloistree/2020_05_05_BooleanHistory.git
+- [ ] https://gitlab.com/eloistree/2020_05_05_BooleanStateMachines.git
+- [ ] https://gitlab.com/eloistree/2020_05_04_CheckConnectionDropSave.git
+- [ ] https://gitlab.com/eloistree/2020_05_03_CheckConnection.git
+- [ ] https://gitlab.com/eloistree/2020_04_29_DeltraSquareVector.git
+- [ ] https://gitlab.com/eloistree/2020_04_28_UnityDirectoryStorageUtility.git
+- [ ] https://gitlab.com/eloistree/2020_04_21_DemoTap2JavaOMI.git
+- [ ] https://gitlab.com/eloistree/2020_04_20_TapUtilityOnAndroid.git
+- [ ] https://gitlab.com/eloistree/2020_04_17_CopyPastUtility.git
+- [ ] https://gitlab.com/eloistree/2020_04_08_TextMacroIntent.git
+- [ ] https://gitlab.com/eloistree/2020_04_09_WinApplicationContext.git
+- [ ] https://gitlab.com/eloistree/2019_12_11_KeystrokeUtility.git
+- [ ] https://gitlab.com/eloistree/2020_03_22_LaunchBatAndAhk.git
+- [ ] https://gitlab.com/eloistree/2020_04_06_compressdigitalandanalog.git
+- [ ] https://gitlab.com/eloistree/2020_02_13_FootKeyboardsAPI.git
+- [ ] https://gitlab.com/eloistree/2020_02_13_ReadSerialPort.git
+- [ ] https://gitlab.com/eloistree/2020_02_01_MagnetSnapping.git
+- [ ] https://gitlab.com/eloistree/2020_01_31_QuestGlobalJamHandsInteraction.git
+- [ ] https://gitlab.com/eloistree/2020_01_10_QuestRemoteDemo.git
+- [ ] https://gitlab.com/eloistree/2020_01_10_QuestHandsRecognition.git
+- [ ] https://gitlab.com/eloistree/2019_12_28_questhandapitotransform.git
+- [ ] https://gitlab.com/eloistree/2019_12_27_questhandfacilitator.git
+- [ ] https://gitlab.com/eloistree/2019_12_11_MorseDetector.git
+- [ ] https://gitlab.com/eloistree/2019_11_11_BipOnTune.git
+- [ ] https://gitlab.com/eloistree/2019_11_01_OculusInputCompressedFromApi.git
+- [ ] https://gitlab.com/eloistree/2019_10_15_PackagesToWikiAndWebsites.git
+- [ ] https://gitlab.com/eloistree/2019_09_19_MathCompressionOfImage.git
+- [ ] https://gitlab.com/eloistree/2019_09_19_QuickRandomMovingObjects.git
+- [ ] https://gitlab.com/eloistree/2019_09_24_RemoveSomeDirectories.git
+- [ ] https://gitlab.com/eloistree/2019_09_22_RemoteRequestListener.git
+- [ ] https://gitlab.com/eloistree/2019_09_21_ArcadeStarScore.git
+- [ ] https://gitlab.com/eloistree/2019_09_15_magicpoi.git
+- [ ] https://gitlab.com/eloistree/2019_09_09_WingManAttack2.git
+- [ ] https://gitlab.com/eloistree/2019_09_06_UnicodeBasedId.git
+- [ ] https://gitlab.com/eloistree/2019_09_05_FilesAndFoldersExplorer.git
+- [ ] https://gitlab.com/eloistree/2019_09_01_TagScriptsAndMirror.git
+- [ ] https://gitlab.com/eloistree/2019_09_01_TriggerAndCollisionEvent.git
+- [ ] https://gitlab.com/eloistree/2019_09_01_Selectors.git
+- [ ] https://gitlab.com/eloistree/2019_08_30_TextMeshPool.git
+- [ ] https://gitlab.com/eloistree/2019_08_15_ForestPlatformForQuest.git
+- [ ] https://gitlab.com/eloistree/2019_08_15_BananaSpawner.git
+- [ ] https://gitlab.com/eloistree/2019_08_15_PerfectSphereColor.git
+- [ ] https://gitlab.com/eloistree/2019_08_10_helloarduinoaskeyboardhack.git
+- [ ] https://gitlab.com/eloistree/2019_08_03_FirstGuardianPointPosition.git
+- [ ] https://gitlab.com/eloistree/2019_08_02_MetaTouchInformation.git
+- [ ] https://gitlab.com/eloistree/2019_08_02_mushroomtimeline.git
+- [ ] https://gitlab.com/eloistree/2019_07_30_Texturetodigits.git
+- [ ] https://gitlab.com/eloistree/2019_07_29_MirrorGoBehaviour.git
+- [ ] https://gitlab.com/eloistree/2019_07_29_LegacyFontUsed.git
+- [ ] https://gitlab.com/eloistree/2019_07_29_LegacyMeshes.git
+- [ ] https://gitlab.com/eloistree/2019_07_29_LegacyTextureAndSprite.git
+- [ ] https://gitlab.com/eloistree/2019_07_28_ArduinoToQuestHC06.git
+- [ ] https://gitlab.com/eloistree/2019_07_27_oculusquestpackagetoolbox.git
+- [ ] https://gitlab.com/eloistree/2019_07_23_OculusQuestLight.git
+- [ ] https://gitlab.com/eloistree/2019_07_26_OVRInputEvent.git
+- [ ] https://gitlab.com/eloistree/2019_07_23_MoveObjectsWithTouch.git
+- [ ] https://gitlab.com/eloistree/2019_07_22_oculusguardianidentity.git
+- [ ] https://gitlab.com/eloistree/2019_07_22_grenadescripts.git
+- [ ] https://gitlab.com/eloistree/2019_07_17_questteleportdetector.git
+- [ ] https://gitlab.com/eloistree/2019_07_15_guardiancalibrationtools.git
+- [ ] https://gitlab.com/eloistree/2019_07_03_measuretools.git
+- [ ] https://gitlab.com/eloistree/2019_06_30_overrideandroidvolume.git
+- [ ] https://gitlab.com/eloistree/2019_06_30_counterlagprediction.git
+- [ ] https://gitlab.com/eloistree/2019_06_30_VirtualRealityDebugHands.git
+- [ ] https://gitlab.com/eloistree/2019_06_30_WorldRecalibration.git
+- [ ] https://gitlab.com/eloistree/2019_06_20_hellomqtt.git
+- [ ] https://gitlab.com/eloistree/2019_06_10_unityprefsthemall.git
+- [ ] https://gitlab.com/eloistree/2019_06_03_adbutility.git
+- [ ] https://gitlab.com/eloistree/2019_05_23_EloiExperimentsSideQuest.git
+- [ ] https://gitlab.com/eloistree/2019_05_27_unkownradiovr.git
+- [ ] https://gitlab.com/eloistree/2019_05_03_justrubikcube.git
+- [ ] https://gitlab.com/eloistree/2019_02_28_moveyourass_asteroids.git
+- [ ] https://gitlab.com/eloistree/2019_04_08_frontalcameradisplay.git
+- [ ] https://gitlab.com/eloistree/2019_04_04_holohandstracking.git
+- [ ] https://gitlab.com/eloistree/2019_03_23_linearconditiontrigger.git
+- [ ] https://gitlab.com/eloistree/2019_03_22_macrotrigger.git
+- [ ] https://gitlab.com/eloistree/2019_03_17_VoilaCeQuiVaSePasser.git
+- [ ] https://gitlab.com/eloistree/2019_03_04_IsInHololensFieldOfView.git
+- [ ] https://gitlab.com/eloistree/2019_02_13_imagesdownloader.git
+- [ ] https://gitlab.com/eloistree/2019_02_19_hololensfieldofview.git
+- [ ] https://gitlab.com/eloistree/2019_02_06_MoveYourAss_GoldenDickbutt.git
+- [ ] https://gitlab.com/eloistree/2019_01_30_arduinoscripts.git
+- [ ] https://gitlab.com/eloistree/2019_01_23_justlasers.git
+- [ ] https://gitlab.com/eloistree/2019_01_15_randomtool.git
+- [ ] https://gitlab.com/eloistree/2019_01_19_MoveYourAss_LasersVersion.git
+- [ ] https://gitlab.com/eloistree/2018_01_11_jamscountdown.git
+- [ ] https://gitlab.com/eloistree/2018_12_21_hellohc06.git
+- [ ] https://gitlab.com/eloistree/2018_12_08_macropersistance.git
+- [ ] https://gitlab.com/eloistree/2017_10_25_voicewarmup.git
+- [ ] https://gitlab.com/eloistree/2018_11_25_OpenBoardCastToolbox.git
+- [ ] https://gitlab.com/eloistree/2018_11_16_patreonpattern.git
+- [ ] https://gitlab.com/eloistree/2018_10_19_speechless.git
+- [ ] https://gitlab.com/eloistree/2018_10_18_TapWithUsAPI.git
+- [ ] https://gitlab.com/eloistree/2018_10_16_vrtk_targetcontest.git
+- [ ] https://gitlab.com/eloistree/2018_10_15_morsedetector.git
+- [ ] https://gitlab.com/eloistree/2018_06_06_computeshaderforvoxeltry.git
+- [ ] https://gitlab.com/eloistree/2018_10_08_bokingquaternion.git
+- [ ] https://gitlab.com/eloistree/2018_08_22_TypingGod.git
+- [ ] https://gitlab.com/eloistree/2018_09_18_Module_MouseUtility.git
+- [ ] https://gitlab.com/eloistree/2018_09_06_Module_NetworkAutoLaunch.git
+- [ ] https://gitlab.com/eloistree/2018_09_06_PatreonSlashAndWatermark.git
+- [ ] https://gitlab.com/eloistree/2018_08_11_Thamaganos.git
+- [ ] https://gitlab.com/eloistree/2018_08_30_Module_FingersBoard.git
+- [ ] https://gitlab.com/eloistree/2018_08_04_Module_MacroUtility.git
+- [ ] https://gitlab.com/eloistree/2016_03_11_BrutalWheelChairSimulator.git
+- [ ] https://gitlab.com/eloistree/2015_08_04_FlicToUnity.git
+- [ ] https://gitlab.com/eloistree/2015_07_09_SurfingDrone.git
+- [ ] https://gitlab.com/eloistree/2015_04_24_JediSimulator.git
+- [ ] https://gitlab.com/eloistree/2015_04_20_JugglerMaster.git
+- [ ] https://gitlab.com/eloistree/2015_03_16_BeerHelp.git
+- [ ] https://gitlab.com/eloistree/2015_03_04_AccessibilityGreenLight.git
+- [ ] https://gitlab.com/eloistree/2015_01_23_Demonicide.git
+- [ ] https://gitlab.com/eloistree/2014_11_07_UnkownRadio.git
+- [ ] https://gitlab.com/eloistree/2014_11_08_MrMrsFlash.git
+- [ ] https://gitlab.com/eloistree/2014_10_21_QwertyWars.git
+- [ ] https://gitlab.com/eloistree/2014_08_30_JCVD.git
+- [ ] https://gitlab.com/eloistree/2014_08_14_Replicator.git
+- [ ] https://gitlab.com/eloistree/2014_07_25_Shhh.git
+- [ ] https://gitlab.com/eloistree/2014_07_07_WolfensteinVR.git
+- [ ] https://gitlab.com/eloistree/2014_05_17_Minesweeper0H.git
+- [ ] https://gitlab.com/eloistree/2014_02_27_RainReader.git
+- [ ] https://gitlab.com/eloistree/2013_05_12_TimeRifter.git
+- [ ] https://gitlab.com/eloistree/2013_10_24_DoudouRumble.git
+- [ ] https://gitlab.com/eloistree/2013_05_12_FederationBattle.git
+- [ ] https://gitlab.com/eloistree/2013_01_01_BlackMantis.git
+- [ ] https://gitlab.com/eloistree/2012_02_12_Nuage.git
+- [ ] https://gitlab.com/eloistree/2018_07_13_WoodScanning.git
+- [ ] https://gitlab.com/eloistree/2017_08_26_YinYang.git
+- [ ] https://gitlab.com/eloistree/2018_02_28_WebcamViewer.git
+- [ ] https://gitlab.com/eloistree/2015_09_11_PechaKuchaTraining.git
+- [ ] https://gitlab.com/eloistree/2018_07_06_HackathonFitMarketTools.git
+- [ ] https://gitlab.com/eloistree/2018_03_18_PlanetaryCook.git
+- [ ] https://gitlab.com/eloistree/2017_04_22_HashTagInTheBottle.git
+- [ ] https://gitlab.com/eloistree/2016_09_26_SimWheels.git
+- [ ] https://gitlab.com/eloistree/2018_01_01_GameGuideFortnite.git
+- [ ] https://gitlab.com/eloistree/2017_04_01_WhaleRider.git
+- [ ] https://gitlab.com/eloistree/CommunityAssets.git
+- [ ] https://gitlab.com/eloistree/2018_03_14_Meuh.git
+- [ ] https://gitlab.com/eloistree/2017_12_29_DeckAR.git
+- [ ] https://gitlab.com/eloistree/2017_12_16_EditorExploration.git
+- [ ] https://gitlab.com/eloistree/2017_12_12_WoufWouf.git
+- [ ] https://gitlab.com/eloistree/2017_12_06_ReignsLikeInterface.git
+- [ ] https://gitlab.com/eloistree/2017_06_28_HelloNFC.git
+- [ ] https://gitlab.com/eloistree/2012_12_03_DraftTrash.git
+- [ ] https://gitlab.com/eloistree/2016_11_20_DesignAnalyticsVR.git
+- [ ] https://gitlab.com/eloistree/2018_01_19_StudentsFork_MolesKingdom.git
+- [ ] https://gitlab.com/eloistree/2017_08_16_I3_FunWithVR.git
+- [ ] https://gitlab.com/eloistree/2017_08_06_StereoExperiment.git
+- [ ] https://gitlab.com/eloistree/2017_07_29_LudumDare39.git
+- [ ] https://gitlab.com/eloistree/2018_05_13_PatreonUnityAPI.git
+- [ ] https://gitlab.com/eloistree/2017_07_11_S8_OneMesh.git
+- [ ] https://gitlab.com/eloistree/2017_06_16_TangoResearches.git
+- [ ] https://gitlab.com/eloistree/2017_04_28_Upway.git
+- [ ] https://gitlab.com/eloistree/2017_03_24_UnityStreamTools.git
+- [ ] https://gitlab.com/eloistree/2017_03_11_Notify.io.git
+- [ ] https://gitlab.com/eloistree/2017_02_25_GhostInTheShell.git
+- [ ] https://gitlab.com/eloistree/2017_01_23_ArteryVR.git
+- [ ] https://gitlab.com/eloistree/2017_01_11_UnityOptimisation.git
+- [ ] https://gitlab.com/eloistree/2016_10_16_UCLL.git
+- [ ] https://gitlab.com/eloistree/2016_09_20_HelloVR.git
+- [ ] https://gitlab.com/eloistree/2016_08_28_TwitchPlays_Risk.git
+- [ ] https://gitlab.com/eloistree/2016_07_28_MatrixSlowMo.git
+- [ ] https://gitlab.com/eloistree/2016_06_27_JaimeOfThrone.git
+- [ ] https://gitlab.com/eloistree/2014_11_08_PlatinumRift2.git
+- [ ] https://gitlab.com/eloistree/2014_11_05_BlourakDestiny.git
+- [ ] https://gitlab.com/eloistree/2014_10_22_DeathElevator.git
+- [ ] https://gitlab.com/eloistree/2014_08_31_VanDamBaam.git
+- [ ] https://gitlab.com/eloistree/2013_08_23_ChogathFanGame.git
+- [ ] https://gitlab.com/eloistree/2016_11_05_BIFFF35.git
+- [ ] https://gitlab.com/eloistree/2018_04_09_StudentsFork_ProjetAutopompe.git
+- [ ] https://gitlab.com/eloistree/2018_06_28_NetworkCmdThroughPlayer.git
+- [ ] https://gitlab.com/eloistree/2018_06_21_DebugDraw.git
+- [ ] https://gitlab.com/eloistree/2018_06_20_Module_UnityRandom.git
+- [ ] https://gitlab.com/eloistree/2018_06_20_TransformReplay.git
+- [ ] https://gitlab.com/eloistree/2018_06_02_ColorHotspotVideoTrigger.git
+- [ ] https://gitlab.com/eloistree/2018_06_01_MeshToVoxel.git
+- [ ] https://gitlab.com/eloistree/2018_05_25_HelloZedMini.git
+- [ ] https://gitlab.com/eloistree/2018_05_21_StereoShopExperiment.git
+- [ ] https://gitlab.com/eloistree/2018_05_21_BrainBlastVR.git
+- [ ] https://gitlab.com/eloistree/2018_05_16_BipOnTune.git
+- [ ] https://gitlab.com/eloistree/2018_05_13_RubikWorld.git
+- [ ] https://gitlab.com/eloistree/2018_04_16_Dubai2018.git
+- [ ] https://gitlab.com/eloistree/2017_07_13_PatreonAPI.git
+- [ ] https://gitlab.com/eloistree/2018_01_23_ArteryBattleVR.git
+- [ ] https://gitlab.com/eloistree/2018_04_07_MergeCubeVRWithVuforia.git
+- [ ] https://gitlab.com/eloistree/2018_03_31_FortniteSnipe.git
+- [ ] https://github.com/EloiStree/-Fork_vXboxInterfaceWrap.git
+- [ ] https://github.com/EloiStree/2012_04_29_DesignPatternInUnity.git
+- [ ] https://github.com/EloiStree/2014_11_08_PlatinumRift2.git
+- [ ] https://github.com/EloiStree/2017_04_11_HowToUse360Camera.git
+- [ ] https://github.com/EloiStree/2017_07_13_Wiki_PatreonUnityAPI.git
+- [ ] https://github.com/EloiStree/2017_08_06_StereoExperiment.git
+- [ ] https://github.com/EloiStree/2017_09_19_Boostcamp.git
+- [ ] https://github.com/EloiStree/2017_10_06_KissYourTeacher.git
+- [ ] https://github.com/EloiStree/2017_11_18_MoscowMetro.git
+- [ ] https://github.com/EloiStree/2017_11_22_TechnoBel.git
+- [ ] https://github.com/EloiStree/2017_12_29_DeckAR.git
+- [ ] https://github.com/EloiStree/2018_01_28_GameDeveloperTechnifutur.git
+- [ ] https://github.com/EloiStree/2018_02_26_WikiDesignVR.git
+- [ ] https://github.com/EloiStree/2018_03_04_LearnByPlaying.git
+- [ ] https://github.com/EloiStree/2018_10_08_HelloTapWithUs.git
+- [ ] https://github.com/EloiStree/2018_10_09_GroupDesignVR.git
+- [ ] https://github.com/EloiStree/2018_10_14_GitMarkdownClone.git
+- [ ] https://github.com/EloiStree/2018_10_18_OpenAndTapToolbox.git
+- [ ] https://github.com/EloiStree/2018_10_19_Speechless.git
+- [ ] https://github.com/EloiStree/2018_10_21_SpeechlessVoiceAPI.git
+- [ ] https://github.com/EloiStree/2018_10_28_SpeechlessVoiceUniversal.git
+- [ ] https://github.com/EloiStree/2018_11_12_GearInfo.git
+- [ ] https://github.com/EloiStree/2018_11_16_2AM.git
+- [ ] https://github.com/EloiStree/2018_12_08_HelloNetworkUnderUnity.git
+- [ ] https://github.com/EloiStree/2018_12_17_WikiGitUtility.git
+- [ ] https://github.com/EloiStree/2019_01_25_Trunacoins.git
+- [ ] https://github.com/EloiStree/2019_02_09_HowToPublishStuffs.git
+- [ ] https://github.com/EloiStree/2019_02_15_VRBook.git
+- [ ] https://github.com/EloiStree/2019_02_16_TrajectoryRobot.git
+- [ ] https://github.com/EloiStree/2019_03_22_MacroTriggering.git
+- [ ] https://github.com/EloiStree/2019_04_04_XR2RewiredSpaceshipExercise.git
+- [ ] https://github.com/EloiStree/2019_04_04_XR2RewiredSpaceshipExercise_Hololens.git
+- [ ] https://github.com/EloiStree/2019_04_04_XR2RewiredSpaceshipExercise_OculusGoAndQuest.git
+- [ ] https://github.com/EloiStree/2019_05_03_HelloRubikCube.git
+- [ ] https://github.com/EloiStree/2019_06_07_HelloTennisTableVR.git
+- [ ] https://github.com/EloiStree/2019_06_10_FreeWebVRForQuest.git
+- [ ] https://github.com/EloiStree/2019_06_23_EmptyStart_MQTT_VR.git
+- [ ] https://github.com/EloiStree/2019_07_21_QuickGitUtility.git
+- [ ] https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git
+- [ ] https://github.com/EloiStree/2019_07_29_YourProjectIsShitMusic.git
+- [ ] https://github.com/EloiStree/2019_08_06_InClassCodeHelloTechnifutur.git
+- [ ] https://github.com/EloiStree/2019_08_10_helloarduinoaskeyboardhack.git
+- [ ] https://github.com/EloiStree/2019_08_15_TheDoorsProject.git
+- [ ] https://github.com/EloiStree/2019_08_29_SpacializedAsset.git
+- [ ] https://github.com/EloiStree/2019_09_18_MagicPoi.git
+- [ ] https://github.com/EloiStree/2019_09_19_MathCompressionOfImage.git
+- [ ] https://github.com/EloiStree/2019_10_04_KissYourPuppets.git
+- [ ] https://github.com/EloiStree/2020_01_04_VeganRamenCooking.git
+- [ ] https://github.com/EloiStree/2020_03_11_UnityOMI.git
+- [ ] https://github.com/EloiStree/2020_03_13_ArchivedGameConfigOMI.git
+- [ ] https://github.com/EloiStree/2020_03_26_HowToUltraNightmareDoom.git
+- [ ] https://github.com/EloiStree/2020_04_10_JavaOpenMacroInput.git
+- [ ] https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime.git
+- [ ] https://github.com/EloiStree/2020_04_25_TapUnityPluginAsPackage.git
+- [ ] https://github.com/EloiStree/2020_05_09_ShareFusion360.git
+- [ ] https://github.com/EloiStree/2020_05_20_PackSubModule_Contact.git
+- [ ] https://github.com/EloiStree/2020_05_28_MagicDoorsRoomPattern.git
+- [ ] https://github.com/EloiStree/2020_05_28_TheMagicDoors.git
+- [ ] https://github.com/EloiStree/2020_06_15_DevHelloGit.git
+- [ ] https://github.com/EloiStree/2020_06_15_EloiMagicDoorJustLasersDemo.git
+- [ ] https://github.com/EloiStree/2020_06_15_EnnioToolboxDemo.git
+- [ ] https://github.com/EloiStree/2020_06_15_FadeCameraViewOnCollision.git
+- [ ] https://github.com/EloiStree/2020_06_15_JulienToolbox.git
+- [ ] https://github.com/EloiStree/2020_06_15_RomainCreditSystem.git
+- [ ] https://github.com/EloiStree/2020_06_15_TeleportVirtualRealityUser.git
+- [ ] https://github.com/EloiStree/2020_06_16_RadioComments.git
+- [ ] https://github.com/EloiStree/2020_06_16_RadioCommentsRoomDemo.git
+- [ ] https://github.com/EloiStree/2020_06_20_MultiObjectsGrabber.git
+- [ ] https://github.com/EloiStree/2020_06_21_SelimChains.git
+- [ ] https://github.com/EloiStree/2020_06_23_GroupAttendanceChecker.git
+- [ ] https://github.com/EloiStree/2020_06_28_MyAutoHotKey.git
+- [ ] https://github.com/EloiStree/2020_07_01_BatchFiles.git
+- [ ] https://github.com/EloiStree/2020_07_01_CouldBeUsefulMeme.git
+- [ ] https://github.com/EloiStree/2020_07_01_InoFiles.git
+- [ ] https://github.com/EloiStree/2020_07_01_JamSharedCodeWorkshop.git
+- [ ] https://github.com/EloiStree/2020_07_12_ReHackRelay.git
+- [ ] https://github.com/EloiStree/2020_07_12_ReHackUnityCore.git
+- [ ] https://github.com/EloiStree/2020_07_12_ReHackUnityEloiDemo.git
+- [ ] https://github.com/EloiStree/2020_07_12_ReHackUnityToolboxes.git
+- [ ] https://github.com/EloiStree/2020_07_13_PublicScan.git
+- [ ] https://github.com/EloiStree/2020_07_15_ReHackToJOMI.git
+- [ ] https://github.com/EloiStree/2020_07_18_DeathByCovidFunSim.git
+- [ ] https://github.com/EloiStree/2020_07_19_PrimitiveShapeCollection.git
+- [ ] https://github.com/EloiStree/2020_07_29_Demo_ReHackFilter.git
+- [ ] https://github.com/EloiStree/2020_08_01_CNC41Month.git
+- [ ] https://github.com/EloiStree/2020_08_02_DemoSerialPort2JOMI.git
+- [ ] https://github.com/EloiStree/2020_08_06_WorkshopTechnociteQA.git
+- [ ] https://github.com/EloiStree/2020_08_19_CNC3018ProGCode.git
+- [ ] https://github.com/EloiStree/2020_09_01_HelloStepMotor.git
+- [ ] https://github.com/EloiStree/2020_10_20_StringKeyProperty.git
+- [ ] https://github.com/EloiStree/2020_11_26_XInputDotNet.git
+- [ ] https://github.com/EloiStree/2020_12_27_WowFarmingBot.git
+- [ ] https://github.com/EloiStree/2020_23_06_ClappingFromYohan.git
+- [ ] https://github.com/EloiStree/2021_01_31_VRDesktopMirrorWrapper.git
+- [ ] https://github.com/EloiStree/2021_03_16_OMI_VisualStudio.git
+- [ ] https://github.com/EloiStree/2021_03_22_BooleanRegisterUtility.git
+- [ ] https://github.com/EloiStree/2021_04_05_OMI_Unity.git
+- [ ] https://github.com/EloiStree/2021_04_13_TextMacroIntentAPI.git
+- [ ] https://github.com/EloiStree/2021_05_02_NetherumAPI.git
+- [ ] https://github.com/EloiStree/2021_05_05_EthereumRESTsAPI.git
+- [ ] https://github.com/EloiStree/2021_05_22_EtherFundingLottery.git
+- [ ] https://github.com/EloiStree/2021_05_22_EthFundingLotteryWithNetherAndEthScan.git
+- [ ] https://github.com/EloiStree/2021_05_29_BlockiesForUnity.git
+- [ ] https://github.com/EloiStree/2021_05_30_UnityStreamerToolKeyAPI.git
+- [ ] https://github.com/EloiStree/2021_06_29_MTG_DeathByGoodCard.git
+- [ ] https://github.com/EloiStree/2021_07_02_HarddriveClearningToolbox.git
+- [ ] https://github.com/EloiStree/2021_07_21_MouseReplayUtility.git
+- [ ] https://github.com/EloiStree/2021_07_22_MTG_Botting.git
+- [ ] https://github.com/EloiStree/2021_07_28_PechaKucha.git
+- [ ] https://github.com/EloiStree/2021_07_29_JarClipboardImageRecovering.git
+- [ ] https://github.com/EloiStree/2021_07_29_JarClipboardImageRecoveringJava.git
+- [ ] https://github.com/EloiStree/2021_07_29_PackageQuarantineReview.git
+- [ ] https://github.com/EloiStree/2021_07_29_UnityImageUtilityDownloader.git
+- [ ] https://github.com/EloiStree/2021_07_31_AudiClipToMP3Base64.git
+- [ ] https://github.com/EloiStree/2021_08_12_UnityMissingBoxOfEloi.git
+- [ ] https://github.com/EloiStree/2021_08_17_PlanetCoordPlacementUtility.git
+- [ ] https://github.com/EloiStree/2021_08_18_GraphicResearchForSpaceBattleGames.git
+- [ ] https://github.com/EloiStree/2021_08_19_FTLBullets.git
+- [ ] https://github.com/EloiStree/2021_09_02_PendingNoMoreStore.git
+- [ ] https://github.com/EloiStree/2021_09_04_KeywordsLearning.git
+- [ ] https://github.com/EloiStree/2021_09_11_SpaceGameImpostorFrustrum.git
+- [ ] https://github.com/EloiStree/2021_09_14_LootBoxExample.git
+- [ ] https://github.com/EloiStree/2021_09_14_SmallScriptExperiments.git
+- [ ] https://github.com/EloiStree/2021_09_18_HelloECS.git
+- [ ] https://github.com/EloiStree/2021_09_24_StringFSM4JobComputeAndECS.git
+- [ ] https://github.com/EloiStree/2021_09_24_StringFSM4JobComputeAndECS_Demo.git
+- [ ] https://github.com/EloiStree/2021_09_30_DebugReplay.git
+- [ ] https://github.com/EloiStree/2021_10_02_KinectAbstractLayer.git
+- [ ] https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git
+- [ ] https://github.com/EloiStree/2021_10_03_EloiGeneralToolboxHowToUse.git
+- [ ] https://github.com/EloiStree/2021_10_03_TaskEstimationECS.git
+- [ ] https://github.com/EloiStree/2021_10_04_LanguageStringRegister.git
+- [ ] https://github.com/EloiStree/2021_10_07_UserPerfsPerma.git
+- [ ] https://github.com/EloiStree/2021_10_22_SmallExperimentsScript.git
+- [ ] https://github.com/EloiStree/2021_10_23_OMI_Dll_Package.git
+- [ ] https://github.com/EloiStree/2021_10_24_BooleanRegisterCore.git
+- [ ] https://github.com/EloiStree/2021_10_26_RedButtonPlaySound.git
+- [ ] https://github.com/EloiStree/2021_11_03_InterApplicationFileCommunication.git
+- [ ] https://github.com/EloiStree/2021_11_04_Quarantine_GitPackageUtility.git
+- [ ] https://github.com/EloiStree/2021_11_07_LibOfUsefulBatchForUnity.git
+- [ ] https://github.com/EloiStree/2021_11_10_HelloMIDI4Unity.git
+- [ ] https://github.com/EloiStree/2021_11_11_NAudioWindowDLL.git
+- [ ] https://github.com/EloiStree/2021_11_11_NoDoubtStorageTarget.git
+- [ ] https://github.com/EloiStree/2021_11_12_MidiReaderWindowAndroid.git
+- [ ] https://github.com/EloiStree/2021_11_13_MidiToKeyboardActionDemo.git
+- [ ] https://github.com/EloiStree/2021_11_27_HelloThermalPrinter.git
+- [ ] https://github.com/EloiStree/2021_12_02_OdileFootBoard2OMI.git
+- [ ] https://github.com/EloiStree/2021_12_13_HelloQuestAnchor.git
+- [ ] https://github.com/EloiStree/2022_01_09_TwitchPanelArchive.git
+- [ ] https://github.com/EloiStree/2022_01_14_OpenMacroInputInAppLog.git
+- [ ] https://github.com/EloiStree/2022_01_16_PythonHelloWorldJOMI.git
+- [ ] https://github.com/EloiStree/2022_01_18_AccessAndDisplayMonitors.git
+- [ ] https://github.com/EloiStree/2022_01_24_XOMI.git
+- [ ] https://github.com/EloiStree/2022_02_22_ThreePointsCalibrationRoom.git
+- [ ] https://github.com/EloiStree/2022_03_01_AbstractGuardianRoot.git
+- [ ] https://github.com/EloiStree/2022_03_01_OpenXRGuardianToRootId.git
+- [ ] https://github.com/EloiStree/2022_03_01_OVRIntegrationGuardianToRootId.git
+- [ ] https://github.com/EloiStree/2022_03_03_BlackSensorAndroid.git
+- [ ] https://github.com/EloiStree/2022_03_18_AR_CYB_HackWallonia.git
+- [ ] https://github.com/EloiStree/2022_03_19_ARCYB.git
+- [ ] https://github.com/EloiStree/2022_03_19_ARCYB_DemoSceneSync.git
+- [ ] https://github.com/EloiStree/2022_03_27_BasicMQTT.git
+- [ ] https://github.com/EloiStree/2022_03_29_FilesToActionsObservedDirectory.git
+- [ ] https://github.com/EloiStree/2022_04_02_MOMI_OverwatchGoogleLink.git
+- [ ] https://github.com/EloiStree/2022_04_07_ScanToImageUnityProject.git
+- [ ] https://github.com/EloiStree/2022_04_19_TryToLearnHowtoRenderStreamMyPcOnQuestForLynx.git
+- [ ] https://github.com/EloiStree/2022_04_20_PitchGuideHackathon.git
+- [ ] https://github.com/EloiStree/2022_04_25_MoveYourBotWowWithUnity.git
+- [ ] https://github.com/EloiStree/2022_04_25_WowBottingHardOMI.git
+- [ ] https://github.com/EloiStree/2022_04_29_ListenToMixerForVolume.git
+- [ ] https://github.com/EloiStree/2022_05_03_AbstractKinectPointToPlayerExport.git
+- [ ] https://github.com/EloiStree/2022_05_03_KinectV2ToExport.git
+- [ ] https://github.com/EloiStree/2022_05_10_HelloEnder3V2.git
+- [ ] https://github.com/EloiStree/2022_05_12_ApplicationLocker.git
+- [ ] https://github.com/EloiStree/2022_05_15_PirateLicense.git
+- [ ] https://github.com/EloiStree/2022_05_20_E_NativeWindowUtility.git
+- [ ] https://github.com/EloiStree/2022_05_20_PushNativeWindowInputUtility.git
+- [ ] https://github.com/EloiStree/2022_05_20_PushNativeWindowInputUtilityDemo.git
+- [ ] https://github.com/EloiStree/2022_05_28_SpectrogramToOMI.git
+- [ ] https://github.com/EloiStree/2022_06_02_2DLiteralAnchorPositionUtility.git
+- [ ] https://github.com/EloiStree/2022_06_04_AbstractOmiActionParser.git
+- [ ] https://github.com/EloiStree/2022_06_06_IrregularQuadrilateralsToTexture2D.git
+- [ ] https://github.com/EloiStree/2022_06_06_OculusQuest2ARHandsEmptyProject.git
+- [ ] https://github.com/EloiStree/2022_06_07_HandsAsVector3AndTransform.git
+- [ ] https://github.com/EloiStree/2022_06_07_HandsAsVector3AndTransform_OculusXRSet.git
+- [ ] https://github.com/EloiStree/2022_06_07_UdpInOutHandsXR.git
+- [ ] https://github.com/EloiStree/2022_06_12_TextureByteTransfertShader.git
+- [ ] https://github.com/EloiStree/2022_06_17_HelloBLEMIDI.git
+- [ ] https://github.com/EloiStree/2022_06_18_HackInTheWood_Topic_LynxAndOpenXR.git
+- [ ] https://github.com/EloiStree/2022_06_21_AbstractBodyInputActionBased.git
+- [ ] https://github.com/EloiStree/2022_06_25_BluetoothWalkStick.git
+- [ ] https://github.com/EloiStree/2022_06_28_MyCookBook.git
+- [ ] https://github.com/EloiStree/2022_07_09_BOMI.git
+- [ ] https://github.com/EloiStree/2022_07_12_OMI_RD_ShortcutsToActions.git
+- [ ] https://github.com/EloiStree/2022_07_12_OMI_WhoCouldHaveInterestInIt.git
+- [ ] https://github.com/EloiStree/2022_07_12_TextToShortcutCmd.git
+- [ ] https://github.com/EloiStree/2022_07_13_ShortcutTextToInterpreters.git
+- [ ] https://github.com/EloiStree/2022_07_15_OMIModuleComLayer.git
+- [ ] https://github.com/EloiStree/2022_07_18_MOMI_IFTTT.git
+- [ ] https://github.com/EloiStree/2022_07_21_OmiAlpha2OmiBeta_Reminder.git
+- [ ] https://github.com/EloiStree/2022_08_14_Int32Bit2DUDPVA1.git
+- [ ] https://github.com/EloiStree/2022_08_17_AbstractVrSkiModule.git
+- [ ] https://github.com/EloiStree/2022_08_22_TeachingModuleForYoung.git
+- [ ] https://github.com/EloiStree/2022_09_13_ResetIfAppInPauseTooLong.git
+- [ ] https://github.com/EloiStree/2022_09_13_Sphere360BasicToolbox.git
+- [ ] https://github.com/EloiStree/2022_09_13_SphereAnchorTransform.git
+- [ ] https://github.com/EloiStree/2022_09_13_VideoSpherePlayer.git
+- [ ] https://github.com/EloiStree/2022_09_14_ImportPathsOf360Content.git
+- [ ] https://github.com/EloiStree/2022_09_16_ConvertVideoForPlayer.git
+- [ ] https://github.com/EloiStree/2022_09_16_QuickXRInteraction.git
+- [ ] https://github.com/EloiStree/2022_09_27_MonitorDisplayUtility.git
+- [ ] https://github.com/EloiStree/2022_09_30_LudumDroneSoccerBallDare.git
+- [ ] https://github.com/EloiStree/2022_10_04_TelloRemoteUDP.git
+- [ ] https://github.com/EloiStree/2022_10_04_TelloSTL.git
+- [ ] https://github.com/EloiStree/2022_10_07_FolderPathsMappingAnchor.git
+- [ ] https://github.com/EloiStree/2022_10_08_MyAssetBundleToolbox.git
+- [ ] https://github.com/EloiStree/2022_10_12_UnityClipboard2Image.git
+- [ ] https://github.com/EloiStree/2022_10_14_StaticCommandLinePusher.git
+- [ ] https://github.com/EloiStree/2022_10_19_MemoryFileCommunicationDllInUnity.git
+- [ ] https://github.com/EloiStree/2022_10_20_DirectInputSharpToBoolean.git
+- [ ] https://github.com/EloiStree/2022_10_20_MemoryFileConnectionUtilityDLL.git
+- [ ] https://github.com/EloiStree/2022_10_23_UDPPusherDLL.git
+- [ ] https://github.com/EloiStree/2022_10_24_UDPPusherDLLUnity.git
+- [ ] https://github.com/EloiStree/2022_11_1_WowVolumeFishing.git
+- [ ] https://github.com/EloiStree/2022_11_20_WowSettingNoMore.git
+- [ ] https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git
+- [ ] https://github.com/EloiStree/2022_11_25_IsWowWtfGittable.git
+- [ ] https://github.com/EloiStree/2022_11_28_MaxoCaesarQuickCode.git
+- [ ] https://github.com/EloiStree/2022_12_02_WowDragonFlightQuickNote.git
+- [ ] https://github.com/EloiStree/2022_12_05_OpenXRInputExtractor.git
+- [ ] https://github.com/EloiStree/2022_12_07_UseOculusAsWindowController.git
+- [ ] https://github.com/EloiStree/2022_12_28_GroupSubMod_ListenToVolume.git
+- [ ] https://github.com/EloiStree/2023_01_03_WindowConsoleStream.git
+- [ ] https://github.com/EloiStree/2023_01_04_NoDoubleCharacterFor7orro.git
+- [ ] https://github.com/EloiStree/2023_01_15_StickerForQuest.git
+- [ ] https://github.com/EloiStree/2023_01_22_SkadisPatternStlAndDXF.git
+- [ ] https://github.com/EloiStree/2023_01_27_GlobalGameJameDroneDoc.git
+- [ ] https://github.com/EloiStree/2023_01_27_GlobalGameJameDroneJoystickAndroid.git
+- [ ] https://github.com/EloiStree/2023_01_27_GlobalGameJameDrone_ConsoleDemo.git
+- [ ] https://github.com/EloiStree/2023_01_27_GlobalGameJamOpenXRClient.git
+- [ ] https://github.com/EloiStree/2023_02_02_DroneRootKnowledgeClientServerAssets.git
+- [ ] https://github.com/EloiStree/2023_02_04_RootsMonster.git
+- [ ] https://github.com/EloiStree/2023_02_17_DigitalScoreAndClock.git
+- [ ] https://github.com/EloiStree/2023_02_19_AssetsRecovertFromGameJam.git
+- [ ] https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR.git
+- [ ] https://github.com/EloiStree/2023_03_03_HelloNoCodeJamXR_LiveCodeHackathon.git
+- [ ] https://github.com/EloiStree/2023_03_04_AxisCollisionMover.git
+- [ ] https://github.com/EloiStree/2023_03_05_RoomCalibrationResearch.git
+- [ ] https://github.com/EloiStree/2023_03_13_ADBCommandBuilder.git
+- [ ] https://github.com/EloiStree/2023_03_16_HowToImportAssetsInUnity.git
+- [ ] https://github.com/EloiStree/2023_03_19_WelcomeGeek.git
+- [ ] https://github.com/EloiStree/2023_03_22_GitTimeLogParser.git
+- [ ] https://github.com/EloiStree/2023_03_22_GitTimeLogParser_CSVToCSharp.git
+- [ ] https://github.com/EloiStree/2023_03_25_ChessDemoMultiTNET3.git
+- [ ] https://github.com/EloiStree/2023_03_30_CantBeEmpty.git
+- [ ] https://github.com/EloiStree/2023_04_14_OdileRemoteConfiguratoin.git
+- [ ] https://github.com/EloiStree/2023_04_15_OmiGuide_Mordhau.git
+- [ ] https://github.com/EloiStree/2023_04_16_RESTChatGPTInUnity.git
+- [ ] https://github.com/EloiStree/2023_04_20_PlayMusicInMordhauWithOMI.git
+- [ ] https://github.com/EloiStree/2023_05_01_SeeedXiaoRP2040ToMidi.git
+- [ ] https://github.com/EloiStree/2023_05_09_GCodeToDebugView.git
+- [ ] https://github.com/EloiStree/2023_05_13_Fork_DryWetMIDI.git
+- [ ] https://github.com/EloiStree/2023_05_13_MidiNoteEditorAsMacroMaker.git
+- [ ] https://github.com/EloiStree/2023_05_22_OpenAIWhisperWrapper.git
+- [ ] https://github.com/EloiStree/2023_06_21_ArduinoToX360.git
+- [ ] https://github.com/EloiStree/2023_06_22_XboxAdaptiveToX360.git
+- [ ] https://github.com/EloiStree/2023_06_23_ArduinoToDroneAndXboxHardware.git
+- [ ] https://github.com/EloiStree/2023_06_26_MegaToJoystickAndTrigger.git
+- [ ] https://github.com/EloiStree/2023_06_28_RasperryPiPicoToRemoteControlRCExostCar.git
+- [ ] https://github.com/EloiStree/2023_06_29_MicroPythonUART2PinOnOff.git
+- [ ] https://github.com/EloiStree/2023_07_01_SerialPortGateUnityWindow.git
+- [ ] https://github.com/EloiStree/2023_07_02_PostMortem_HackX360HardwareAndSoftware.git
+- [ ] https://github.com/EloiStree/2023_07_11_Fork_KeyboardSplitterXbox.git
+- [ ] https://github.com/EloiStree/2023_07_23_Fork_uWindowCapture.git
+- [ ] https://github.com/EloiStree/2023_07_23_MemoryRamGetPixelAndScreens.git
+- [ ] https://github.com/EloiStree/2023_07_26_UdpRegexInterpretor.git
+- [ ] https://github.com/EloiStree/2023_07_30_BluetoothAbstractLayer.git
+- [ ] https://github.com/EloiStree/2023_08_05_GoogleSlide.git
+- [ ] https://github.com/EloiStree/2023_10_20_CircuitPythonToX360.git
+- [ ] https://github.com/EloiStree/AmazonAssociateLinks.git
+- [ ] https://github.com/EloiStree/Archived_OctopusBrainsSync.git
+- [ ] https://github.com/EloiStree/ArduinoXInput_AVR.git
+- [ ] https://github.com/EloiStree/BryanCranstonAdviceToAspiringActors.git
+- [ ] https://github.com/EloiStree/CallToActions.git
+- [ ] https://github.com/EloiStree/CodeAndQuestsEveryDay.git
+- [ ] https://github.com/EloiStree/com.unity.webrtc.git
+- [ ] https://github.com/EloiStree/CommunityFeedback.git
+- [ ] https://github.com/EloiStree/CommunityFeedbackCode.git
+- [ ] https://github.com/EloiStree/CorePhotoMemory.git
+- [ ] https://github.com/EloiStree/EloiStree.git
+- [ ] https://github.com/EloiStree/eloistree.github.io.git
+- [ ] https://github.com/EloiStree/EtherFundingLotteryStandard.git
+- [ ] https://github.com/EloiStree/EtherMiningGames.git
+- [ ] https://github.com/EloiStree/Fork-wow-action-bar-profiles.git
+- [ ] https://github.com/EloiStree/Fork_NAudio.git
+- [ ] https://github.com/EloiStree/Fork_PYXInput.git
+- [ ] https://github.com/EloiStree/Fork_UserDroneGamePlay.git
+- [ ] https://github.com/EloiStree/Fork_vr-desktop-mirror.git
+- [ ] https://github.com/EloiStree/fsm.git
+- [ ] https://github.com/EloiStree/GameNote_Diablo4.git
+- [ ] https://github.com/EloiStree/GeneralLicense.git
+- [ ] https://github.com/EloiStree/HelloEtheriumAndNFT.git
+- [ ] https://github.com/EloiStree/HelloFabLabMachine.git
+- [ ] https://github.com/EloiStree/HelloHololens.git
+- [ ] https://github.com/EloiStree/HelloInputSystemAndroidToBoolean.git
+- [ ] https://github.com/EloiStree/HelloLynxR1.git
+- [ ] https://github.com/EloiStree/HelloMicroPythonForArduino.git
+- [ ] https://github.com/EloiStree/HelloOpenXR.git
+- [ ] https://github.com/EloiStree/HelloPaintingJam.git
+- [ ] https://github.com/EloiStree/HelloRemoteFirework.git
+- [ ] https://github.com/EloiStree/HelloSSHWithGitHub.git
+- [ ] https://github.com/EloiStree/HelloTello.git
+- [ ] https://github.com/EloiStree/HelloUnity.git
+- [ ] https://github.com/EloiStree/HelloUnityForArtists.git
+- [ ] https://github.com/EloiStree/HelloUnityMirror.git
+- [ ] https://github.com/EloiStree/HelloUnityPackage.git
+- [ ] https://github.com/EloiStree/HelloVirtualReality.git
+- [ ] https://github.com/EloiStree/InfoTermsAndPolicy.git
+- [ ] https://github.com/EloiStree/KinectArchive_V_1_8.git
+- [ ] https://github.com/EloiStree/KinectOnOBS.git
+- [ ] https://github.com/EloiStree/Krita.git
+- [ ] https://github.com/EloiStree/LearnFromOthers.git
+- [ ] https://github.com/EloiStree/LightBurn.git
+- [ ] https://github.com/EloiStree/Links.git
+- [ ] https://github.com/EloiStree/Logo.git
+- [ ] https://github.com/EloiStree/MidiJack.git
+- [ ] https://github.com/EloiStree/moonsharp.git
+- [ ] https://github.com/EloiStree/MyOmiConfiguration.git
+- [ ] https://github.com/EloiStree/Nethereum.git
+- [ ] https://github.com/EloiStree/NevenAxelToolBoxTechnocity.git
+- [ ] https://github.com/EloiStree/Note_AgeOfEmpire4.git
+- [ ] https://github.com/EloiStree/NotMine_UnityAndroidBluetoothLowEnergy.git
+- [ ] https://github.com/EloiStree/Obsolete_2022_02_07_MemoryFileCommunication4Unity.git
+- [ ] https://github.com/EloiStree/OpenMacroInput.git
+- [ ] https://github.com/EloiStree/OpenMacroInputCommunityMapping.git
+- [ ] https://github.com/EloiStree/OpenMacroInputConfigExamples.git
+- [ ] https://github.com/EloiStree/OpenMacroInputDocumentation.git
+- [ ] https://github.com/EloiStree/OpenMacroInputQuestions.git
+- [ ] https://github.com/EloiStree/OpenMacroInputSoftwareShortcut.git
+- [ ] https://github.com/EloiStree/OpenMacroInputVideo.git
+- [ ] https://github.com/EloiStree/PreMortem.git
+- [ ] https://github.com/EloiStree/ProjectsID.git
+- [ ] https://github.com/EloiStree/PublicPortfolio.git
+- [ ] https://github.com/EloiStree/PublishStoreImages.git
+- [ ] https://github.com/EloiStree/PythonExperiments.git
+- [ ] https://github.com/EloiStree/QuickToDoReminder.git
+- [ ] https://github.com/EloiStree/r.git
+- [ ] https://github.com/EloiStree/RandomResearch.git
+- [ ] https://github.com/EloiStree/ResellingCatalog.git
+- [ ] https://github.com/EloiStree/ScreenshotLog.git
+- [ ] https://github.com/EloiStree/Service.git
+- [ ] https://github.com/EloiStree/ShareFile_MidiToBoolean.git
+- [ ] https://github.com/EloiStree/StoryOfOneStupidIdea.git
+- [ ] https://github.com/EloiStree/Teaching.git
+- [ ] https://github.com/EloiStree/Test.git
+- [ ] https://github.com/EloiStree/Test_DeployKey-A.git
+- [ ] https://github.com/EloiStree/ToStudyNext.git
+- [ ] https://github.com/EloiStree/UnityToolbox.git
+- [ ] https://github.com/EloiStree/USB-MIDI-Driver.git
+- [ ] https://github.com/EloiStree/Videos.git
+- [ ] https://github.com/EloiStree/ViGEm.NET.git
+- [ ] https://github.com/EloiStree/WhereToFindMyStuffs.git
+- [ ] https://github.com/EloiStree/WorkingLog-1.git
+- [ ] https://github.com/EloiStree/WorkingLog_OMI.git
+- [ ] https://github.com/EloiStree/YoutubeID.git

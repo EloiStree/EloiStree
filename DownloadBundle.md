@@ -2,17 +2,14 @@ Welcome on the bundle of Éloi Strée.
 
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/20074260-d058-4de6-aeeb-3e8625e54d74)
 
+You can find most of my work, game, app and code online.  
+What I am proposing you here is to have direct access to ready to use asset, project and backup.  
+(What I can share that is not under NDA is (or will be) there.)  
+If you don't find what you are looking for,  
+Feel free to ping me on Discord 😉.  
 
-You can find most of my work, game, app and code online.
-
-What I am proposing you here is to have direct access to ready to use asset, project and backup.
-(What I can share that is not under NDA is (or will be) there.)
-
-If you don't find what you are looking for,
-Feel free to ping me on Discord 😉.
-
-Kind regards,
-Eloi
+Kind regards,  
+Eloi  
 
 
 # Download & Access

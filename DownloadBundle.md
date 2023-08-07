@@ -1,3 +1,17 @@
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/20074260-d058-4de6-aeeb-3e8625e54d74)
+
+Welcome on the bundle of Éloi Strée. 
+
+You can find most of my work online and some of my games and apps on Itch.io
+
+What I am proposing you here is to have access to a bundle with most of my works.
+What I can share that is not under NDA is (or will be) there.
+
+If you don't find what you are looking for.
+Feel free to ping me on Discord.
+
+Kind regards,
+Eloi
 
 
 # Download & Access
@@ -21,9 +35,6 @@ List of all most Project ID:
 [![image](https://user-images.githubusercontent.com/20149493/232548105-c5ee7265-bbd5-461e-8406-80c59c3f9277.png)](https://github.com/EloiStree/ProjectsID)  
 https://github.com/EloiStree/ProjectsID  
 
-## What do you have access too ?
-
-The link you will receive give you access to my public hard drive backup.
 
 -----------------------
 

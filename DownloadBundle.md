@@ -1,6 +1,7 @@
+Welcome on the bundle of Éloi Strée. 
+
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/20074260-d058-4de6-aeeb-3e8625e54d74)
 
-Welcome on the bundle of Éloi Strée. 
 
 You can find most of my work online and some of my games and apps on Itch.io
 

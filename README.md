@@ -11,9 +11,10 @@
 - On Patreon (USA) [https://eloi.page.link/patreon](https://eloi.page.link/patreon)
 - By Discord https://donatebot.io/checkout/999702454725771284
 
-Support my works 💰🪙:   
-- Access my harddrive
-  - https://en.tipeee.com/eloistree/   
+
+Support my works alternative 💰🪙:   
+- Beerware PayPal Donation
+  - https://eloi.page.link/paypal
 - Amazon affiliated link 📦 if you want to support me by improving your inventory:  
   - [https://github.com/EloiStree/AmazonAssociateLinks/
 ](https://github.com/EloiStree/AmazonAssociateLinks/blob/main/BoughtHistory.md)

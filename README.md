@@ -6,6 +6,10 @@
 
 > Just a guy that enjoy exploring new-tech for the fun of observing what we can do with this magic we call "Code".
 
+💰 Invest on the project with Reward:
+- On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
+- On Patreon (USA) [https://eloi.page.link/patreon](https://eloi.page.link/patreon)
+- By Discord https://donatebot.io/checkout/999702454725771284
 
 Support my works 💰🪙:   
 - Access my harddrive

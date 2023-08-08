@@ -9,7 +9,7 @@
 💰 Invest on the project with Reward:
 - On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
 - On Patreon (USA) [https://eloi.page.link/patreon](https://eloi.page.link/patreon)
-- By Discord https://donatebot.io/checkout/999702454725771284
+- By Discord [https://eloi.page.link/donatebydiscord](https://eloi.page.link/donatebydiscord)
 
 
 Support my works alternative 💰🪙:   

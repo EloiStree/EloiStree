@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)
 
 
-# Visit card redirection links
+### Visit card redirection links
 
 Learn about Open Macro input :
 [About](https://openmacroinput.github.io/r/about) - [Learn](https://openmacroinput.github.io/r/learn) - [API](https://openmacroinput.github.io/r/api) - [Invest](https://openmacroinput.github.io/r/invest) - [Download](https://openmacroinput.github.io/r/download)  

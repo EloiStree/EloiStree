@@ -5,10 +5,13 @@
 I suppose that if you read this you have interest on downloading the Open Macro Input OMI software that I am developing.  
 This page give more information on what to download from the project.  
 
-Download OMI, is the same as download all my project here:  
-https://github.com/EloiStree/EloiStree/blob/master/DownloadBundle.md  
+OMI for the moment is just a project of the bundle that I provide:  
+https://github.com/EloiStree/EloiStree/blob/master/DownloadBundle.md    
 
-But you have a special folder call OMI or Open Macro Input with all the code and executable read to be use of the project.  
+If you prefer to download the project directly alone of the rest you can find it here:  
+https://openmacroinput.itch.io/openmacroinput  
+
+
 
 ###  Not a software but a toolbox
 
@@ -30,4 +33,4 @@ So I did a Udp console application to do that specificaly outside of the main ap
 - JOMI : Is a Java toolboxes that allows you to write keystroke and mouse action on any platform with java.
 - AOMI: (not dev yet) Is the toolboxes using ADB to remote control Android devices.
 - HOMI: (not dev yet) Is an alternative to Hamachi to communicate between devices on the LAN and internet
-- 
+

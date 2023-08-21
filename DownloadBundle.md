@@ -1,4 +1,4 @@
-Welcome on the bundle of Éloi Strée. 
+# Welcome on the bundle of Éloi Strée. 
 
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/20074260-d058-4de6-aeeb-3e8625e54d74)
 
@@ -12,7 +12,7 @@ Kind regards,
 Eloi  
 
 
-# Download & Access
+## Download & Access
 
 Instruction of how to access my work as a bundle.  
 1. Go to Tipeee or Patreon and create an account  
@@ -37,7 +37,7 @@ https://github.com/EloiStree/ProjectsID
 
 -----------------------
 
-# Support
+## Support
   
 I have a small community.  
 Feel free to ping me on Discord for any question / difficulty you would have.  
@@ -51,7 +51,7 @@ http://eloi.page.link/linkedin
 
 -----------------------
 
-# Hello you
+## Hello you
 
 Welcome.
 

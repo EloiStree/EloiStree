@@ -24,7 +24,6 @@ _(Note: Links change every N days/weeks)_
 
 *Choose the platform that your prefer:*  
 On Tipeee (EU) https://eloi.page.link/tipeee    
-On Patreon (USA) https://eloi.page.link/patreon  
 On Discord 'donatebot' https://eloi.page.link/discord  
 
 Redirection to all my works:

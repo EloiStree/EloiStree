@@ -16,7 +16,6 @@ Learn about Eloi Stree :
 
 💰 Invest on the project with Reward:
 - On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
-- On Patreon (USA) [https://eloi.page.link/patreon](https://eloi.page.link/patreon)
 - By Discord [https://eloi.page.link/donatebydiscord](https://eloi.page.link/donatebydiscord)
 
 

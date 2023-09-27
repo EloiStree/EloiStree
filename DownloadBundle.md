@@ -2,8 +2,10 @@
 
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/20074260-d058-4de6-aeeb-3e8625e54d74)  
 You can find most of my work, game, app and code online.  
-Have an access to ready to use asset, project and backup.  
-If you don't find what you are looking for,  
+
+Donation on Tipeee or Discord give you access to a online driver with ready to use asset, projects and backups.    
+
+I am a bit messy, if you don't find what you are looking for,  
 Feel free to ping me on Discord 😉.  
 
 Kind regards,  

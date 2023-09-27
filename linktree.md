@@ -42,8 +42,7 @@ https://eloi.page.link/DroneXR | Access my side project DroneXR
 
 Link | What in there ?
 --- | ---
-https://eloi.page.link/patreon | Subscribe to my researches from USA (Patreon)
-https://eloi.page.link/tipeee | Subscribe to my researches from EU (Tipeee)
+https://eloi.page.link/tipeee | Subscribe to my researches  (Tipeee)
 https://eloi.page.link/beer | Send me a beer
 https://eloi.page.link/coffee | Send me a coffee
 https://eloi.page.link/paypal | PayPal Me

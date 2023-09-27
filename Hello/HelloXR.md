@@ -6,7 +6,7 @@ My name is Éloi Strée; I am a game developer, sometimes by hobby, sometimes by
 I love to teach when we give me the opportunity to do it.  
 
 I want to restart my career on the Lynx R1, which brings augmented reality through "stereo camera screens."  
-Proper XR that augments reality brings new topics, so I am going to re-learn from my job.  
+Proper XR that augments reality brings new topics, so I am going to re-learn my job.  
 
 On my path, I will drop some notes, playlists, searches, demos, experiments...  
 Plenty of tools that could be useful to you if you start in the industry.  

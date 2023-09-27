@@ -34,6 +34,11 @@ List of all most Project ID:
 https://github.com/EloiStree/ProjectsID  
 
 
+As this year is focus on XR, you can also buy some the game and download some of the demo directly on SideQuest:
+[My profil: https://sidequestvr.com/user/95603](https://sidequestvr.com/user/95603)
+[![image](https://github.com/EloiStree/EloiStree/assets/20149493/4436cc44-4ff2-4993-b2f1-2525ceb461d4)](https://sidequestvr.com/user/95603)
+
+
 -----------------------
 
 ## Support

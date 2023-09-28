@@ -16,6 +16,7 @@ So if you are into that, I invite you to follow my adventure through some Git re
 - [Lynx R1](https://github.com/EloiStree/HelloLynxR1) (My adventure in working with the Lynx R1)
 - [Quest 3](https://github.com/EloiStree/HelloQuest3) (Exploration of the Quest 3)
 - [Android XR: Quest & Lynx](https://github.com/EloiStree/HelloAndroidXR) (Common ground of those two devices)
+- [XR Teacher of the Web](https://github.com/EloiStree/XRTeachersOfTheWeb) (Who is teaching XR on the web)
 
 You can find my help and download my projects here:
 - [Discord: Eloi Support](https://eloistree.github.io/r/discord)

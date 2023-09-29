@@ -17,6 +17,7 @@ So if you are into that, I invite you to follow my adventure through some Git re
 - [Quest 3](https://github.com/EloiStree/HelloQuest3) (Exploration of the Quest 3)
 - [Android XR: Quest & Lynx](https://github.com/EloiStree/HelloAndroidXR) (Common ground of those two devices)
 - [XR Teacher of the Web](https://github.com/EloiStree/XRTeachersOfTheWeb) (Who is teaching XR on the web)
+- [Learn By Playing In XR](https://github.com/EloiStree/LearnByPlayingInXR) (Learn XR by playing from Mixed reality)
 
 You can find my help and download my projects here:
 - [Discord: Eloi Support](https://eloistree.github.io/r/discord)

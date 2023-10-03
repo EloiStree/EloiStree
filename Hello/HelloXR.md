@@ -26,6 +26,9 @@ You can find my help and download my projects here:
 - [Projects](https://github.com/EloiStree/ProjectsID)
 
 
+Share link: http://eloistree.github.io/r/learnxr
+If you like what I do hear and want to share it.
+
 Hope you the best.  
   
 May the code be with you !  

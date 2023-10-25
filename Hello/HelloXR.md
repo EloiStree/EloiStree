@@ -46,7 +46,7 @@ Kind regards,
 -------------
 
 # Big warning: I am good at many things... But if there is a topic I am bad at.. It is spelling  
-![image](https://github.com/EloiStree/EloiStree/assets/20149493/c611c339-aff3-4b16-b9fd-2e784fc4cc54)    
+![image](https://github.com/EloiStree/EloiStree/blob/4fb34baa6739d50586cef37dca09dd751b72b4d3/Hello/professor.gif)    
 I can work on it. But it won't change that with effort, I never succeed to be good at it.  
 Fortunately, we now have ChatGPT to help me.  
 But I did not yet create an automated spelling tool for that.  

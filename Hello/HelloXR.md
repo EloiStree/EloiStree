@@ -41,3 +41,13 @@ Kind regards,
 ----------------------------
 
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/f42e6728-9c01-4900-b953-e4412ca17bd9)
+
+
+-------------
+
+# Big warning: I am good at many things... But if there is a topic I am bad at.. It is spelling  
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/c611c339-aff3-4b16-b9fd-2e784fc4cc54)    
+I can work on it. But it won't change that with effort, I never succeed to be good at it.  
+Fortunately, we now have ChatGPT to help me.  
+But I did not yet create an automated spelling tool for that.  
+The project of Auto ChatGPT is in progress. Will use it soon.  

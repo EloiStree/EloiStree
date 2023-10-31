@@ -20,6 +20,7 @@ http://eloistree.github.io/r/learnxr
 
 💰 Invest on the project with Reward:
 - On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
+- On GitHub Sponsor page [https://github.com/sponsors/EloiStree](https://github.com/sponsors/EloiStree)
 - By Discord [https://eloi.page.link/donatebydiscord](https://eloi.page.link/donatebydiscord)
 
 

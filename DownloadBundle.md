@@ -3,7 +3,16 @@
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/20074260-d058-4de6-aeeb-3e8625e54d74)  
 You can find most of my work, game, app and code online.  
 
-Donation on Tipeee or Discord give you access to a online driver with ready to use asset, projects and backups.    
+I work with an open source pay wall donation system:
+- You can find lot's of my work free on the web.
+- 95% of my code is open source somewhere on GitHub.
+- Most executable are on store with a price but you can find them on my drive
+- 90% of executable are on the drive and 1-10% are on the store (it takes to much time publishing)
+ 
+
+The handing page of the drive is here:  
+Download my drive : https://github.com/EloiExperimentsOMIXR/SponsorsRepository/blob/main/README.md  
+But you need to be monthly sponsor to have access to it.  
 
 I am a bit messy, if you don't find what you are looking for,  
 Feel free to ping me on Discord 😉.  
@@ -12,19 +21,15 @@ Kind regards,
 Eloi  
 
 
-## Download & Access
+## How to download ?
 
 Instruction of how to access my work as a bundle.  
-1. Go to Tipeee or the Discord Bot and create an account  
-2. Subscribe to the donation page tier  
-3. Open the "Download/Access" post  
+1. Create a GitHub account  
+2. Subscribe to the monthly sponsor tier  
+3. Open the repository ["SponsorsRepository"](https://github.com/EloiExperimentsOMIXR/SponsorsRepository/blob/main/README.md) 
 4. Access the Mega.nz account and download what you want  
 
 _(Note: Links change every N days/weeks)_
-
-*Choose the platform that your prefer:*  
-On Tipeee (EU) https://eloi.page.link/tipeee    
-On Discord 'donatebot' https://eloi.page.link/discord  
 
 Redirection to all my works:
 https://eloi.page.link/linktree
@@ -32,7 +37,6 @@ https://eloi.page.link/linktree
 List of all most Project ID:     
 [![image](https://user-images.githubusercontent.com/20149493/232548105-c5ee7265-bbd5-461e-8406-80c59c3f9277.png)](https://github.com/EloiStree/ProjectsID)    
 https://github.com/EloiStree/ProjectsID    
-
 
 
 -----------------------
@@ -51,10 +55,10 @@ As this year is focus on XR, you can also buy some the game and download some of
 I have a small community.  
 Feel free to ping me on Discord for any question / difficulty you would have.  
 I will answer as soon as I have some time to help.  
-http://eloi.page.link/discord    
+eloistree.github.io/r/discord
 
 If you want to contact me for buisness reason, I invite you to do it by LinkedIn.  
-http://eloi.page.link/linkedin  
+eloistree.github.io/r/linkedin  
 
 ( I am on the Belgium time zone )  
 
@@ -72,7 +76,7 @@ You can pay one month, download everything you need and stop your account.
 Totally fine with me.  
 
 ☠ _Piracy ?_    
-The Patreon and Tipeee philosophy is about supporting your creator. 
+The beerware philosophy is about supporting your creator. 
 As soon as the pirate help me on any level: I am good.    
 
 

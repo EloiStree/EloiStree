@@ -19,7 +19,6 @@ http://eloistree.github.io/r/learnxr
 > Just a guy that enjoy exploring new-tech for the fun of observing what we can do with this magic we call "Code".
 
 💰 Invest on the project with Reward:
-- On Tipeee (EU) [https://eloi.page.link/tipeee](https://eloi.page.link/tipeee)
 - On GitHub Sponsor page [https://github.com/sponsors/EloiStree](https://github.com/sponsors/EloiStree)
 - By Discord [https://eloi.page.link/donatebydiscord](https://eloi.page.link/donatebydiscord)
 

@@ -190,8 +190,6 @@ You are at the right place.
 Ping me when you need 😀:      
 ![image](https://user-images.githubusercontent.com/20149493/120360275-dc69ad80-c308-11eb-8a17-d7be81d87f44.png)
 
-When you can, feel free to send me a 🍻 to support my long days of coding:    
-https://ko-fi.com/eloistree/ - Ethereum: [0x5bdF2ec43F76A296D063Ad85efA8112B07C0597B](https://etherscan.io/address/0x5bdF2ec43F76A296D063Ad85efA8112B07C0597B)
 
 May the code be with you,   
 Kind regards,  

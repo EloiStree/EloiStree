@@ -14,27 +14,26 @@ Learn about Eloi Stree :
 http://eloistree.github.io/r/learnxr
 
 
-## If I have to pitch myself
+## If I Have to Pitch Myself
 
-> Just a guy that enjoy exploring new-tech for the fun of observing what we can do with this magic we call "Code".
+> Just a guy that enjoys exploring new tech for the fun of observing what we can do with this magic we call "Code".
 
-💰 Invest on the project with Reward:
-- On GitHub Sponsor page [https://github.com/sponsors/EloiStree](https://github.com/sponsors/EloiStree)
+💰 Invest in the project with Reward:
+- On GitHub Sponsors page [https://github.com/sponsors/EloiStree](https://github.com/sponsors/EloiStree)
 - By Discord [https://eloi.page.link/donatebydiscord](https://eloi.page.link/donatebydiscord)
 
 
-Support my works alternative 💰🪙:   
+Support my works alternatively 💰🪙:   
 - Beerware PayPal Donation
-  - https://eloi.page.link/paypal
-- Amazon affiliated link 📦 if you want to support me by improving your inventory:  
-  - [https://github.com/EloiStree/AmazonAssociateLinks/
-](https://github.com/EloiStree/AmazonAssociateLinks/blob/main/BoughtHistory.md)
-- Contact me to work on small 1-2 weeks projet(s)
-- Hire me to teach topic I started to explored in my past
+  - [https://eloi.page.link/paypal](https://eloi.page.link/paypal)
+- Amazon affiliate link 📦 if you want to support me by improving your inventory:  
+  - [https://github.com/EloiStree/AmazonAssociateLinks/](https://github.com/EloiStree/AmazonAssociateLinks/blob/main/BoughtHistory.md)
+- Contact me to work on small 1-2 week projects
+- Hire me to teach topics I started to explore in my past
 
 
 
-Looking to download Open Macro Input or my XR games/ apps ?    
+Looking to download Open Macro Input or my XR games/apps?    
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/8d527120-a70c-4ade-a010-f3a8e49804d9)](https://eloi.page.link/bundle)  
 You can find it in my bundle with all the rest of my assets:   
 https://eloi.page.link/bundle   /  https://eloi.page.link/download
@@ -42,108 +41,97 @@ https://eloi.page.link/bundle   /  https://eloi.page.link/download
 
 -------------
 
-If you see this sign ´ꬲ🧰´, it means that one of my toolbox(es) is around.    
-Follow it to find info, documentation and functionnality.  
+If you see this sign ´ꬲ🧰´, it means that one of my toolboxes is around.    
+Follow it to find info, documentation, and functionality.  
 Unity Example:      
 ![image](https://user-images.githubusercontent.com/20149493/195954109-c2282114-ef6f-4084-a8a1-777e1fae11ed.png)         
   
-It also mean that the community license apply:     
-[´Free and opensource but under kind of beerware license´](LICENSE.md)  
+It also means that the community license applies:     
+[´Free and open source but under a kind of beerware license´](LICENSE.md)  
 Community License: [Read Me](LICENSE.md)  
   
-
 ------------------------
+## Install My Main Toolbox
 
-
-## Install my main toolbox
-
-In any project I am working on you will have those package in the manifest   
-```
-"be.eloistree.quickgitutility":"https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
-"be.eloistree.license":"https://github.com/EloiStree/GeneralLicense.git",
-"be.eloistree.unitypackagefacilitator":"https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
-"be.eloistree.generaltoolbox":"https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
-"be.eloistree.zhulistaticsingleton":"https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
+In any project I am working on, you will find these packages in the manifest:
 
 ```
-- Git Utility is a tool to manage git on the computer with command line on Window
-- Unity Package Facilitator help me to import export and create package fast in my project
-- Eloi General Toolbox is the toolbox of code that I am tired to recode and are most of the time in all my project.
-- General License is just a package to remind that I was participating to the project at some point.
+"be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+"be.eloistree.license": "https://github.com/EloiStree/GeneralLicense.git",
+"be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+"be.eloistree.generaltoolbox": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+"be.eloistree.zhulistaticsingleton": "https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
+```
+- Git Utility is a tool to manage git on the computer with command line on Windows.
+- Unity Package Facilitator helps me to import, export, and create packages fast in my projects.
+- Eloi General Toolbox is the toolbox of code that I am tired of recoding and is most of the time in all my projects.
+- General License is just a package to remind that I participated in the project at some point.
 
-This four line are copy here because it is the one I use the most.  
+These four lines are copied here because they are the ones I use the most.
 
 
 ---------------------------
-## My impossible rules / Modo
+## My Impossible Rules / Motto
 
-Once in my life, I took the time to write those lines down. That became my motto but also my impossible rules I have never succeeded to follow.
-I like those because they kind of define well what I seek in life.    
+Once in my life, I took the time to write these lines down. They became my motto but also my impossible rules I have never succeeded in following.
+I like these because they kind of define well what I seek in life.    
 ![image](https://github.com/EloiStree/EloiStree/assets/20149493/37940658-7786-4eb2-b8bb-636f33880c66)
 
 
 ## History
-- [All project](https://docs.google.com/spreadsheets/d/1dplNEu-eivfIi6hjyfjjHxato-qBbwVPIGtZ37-q5MY/edit?usp=sharing) 
-  - All my public project on GitLab  https://gitlab.com/users/eloistree/projects
-  - All my public project on GitHub  https://github.com/EloiStree?tab=repositories
-- All the gamejam and hackathon I participated too  https://github.com/users/EloiStree/projects/3
+- [All projects](https://docs.google.com/spreadsheets/d/1dplNEu-eivfIi6hjyfjjHxato-qBbwVPIGtZ37-q5MY/edit?usp=sharing) 
+  - All my public projects on GitLab: https://gitlab.com/users/eloistree/projects
+  - All my public projects on GitHub: https://github.com/EloiStree?tab=repositories
+- All the game jams and hackathons I participated in: https://github.com/users/EloiStree/projects/3
 
-List of pacakges:
+List of packages:
 - https://github.com/EloiStree/UnityToolbox/discussions
 
 
-
-
-# Currently on
+# Currently On
 
 ## XOMI
 As Diablo 4 is playable with Xbox Controller, it was a good occasion to rework this code.  
-This tool allows you to simulate one xbox controller from UDP message sent to it.  
-It allows to make testing accross several account on several computers.  
+This tool allows you to simulate one Xbox controller from UDP messages sent to it.  
+It allows for testing across several accounts on several computers.  
 XOMI: https://github.com/EloiStree/2022_01_24_XOMI/releases/tag/V0.0
 
-## ChatGPT, Whisper and Undertone.
+## ChatGPT, Whisper, and Undertone
 
-I plan to work on EEG project in the coming years for OMI.
-And the nearest topic that is close to EEG in behaviour is vocal control.
-So I working a vocal to actions tool. The project is half open because it use a bought plug-in.
+I plan to work on EEG projects in the coming years for OMI.
+And the nearest topic that is close to EEG in behavior is vocal control.
+So I am working on a vocal to actions tool. The project is half open because it uses a bought plugin.
 
 ## OMI
 
 Open Macro Input is a concept of a toolbox of toolboxes.    
-But the main engine it is design for is Unity to be multiplaform and work on XR as the projet originated from my will to create a keybaord for VR.    
-The other main reason of using Unity here is to use the Job system and comptupe shader when required to.   
+But the main engine it is designed for is Unity to be multiplatform and work on XR, as the project originated from my will to create a keyboard for VR.    
+The other main reason for using Unity here is to use the Job system and compute shader when required.   
 Unity OMI: https://github.com/EloiStree/2020_03_11_UnityOMI  
 
 
-# In coming in my wanted list
+# Coming Soon in My Wanted List
 
-## Audio Spectrogram to action
+## Audio Spectrogram to Action
 
-That high on my tier list. Learn to master spectrogram in aim to make it easy to glue some action to pattern in it.  
-Basically I want to be able to "beat box" some sound to make action in my app and game instead of using vocal.  
+That's high on my tier list. Learn to master spectrograms with the aim to make it easy to glue some action to patterns in it.  
+Basically, I want to be able to "beatbox" some sounds to make actions in my apps and games instead of using vocal.
 
 ## Mirror ( & Others ) 
 
-To be able to make my computer communicate with each other, I use Hamachi and UDP.   
-But I would like to enjoy a Unity Mirror Relay code that can be use in Unity and other apps by using Unity Relay per platform.  
-What is the point ? The idea here would be to have a boolean and command driven network easy to deploy and to hook at.  
+To be able to make my computers communicate with each other, I use Hamachi and UDP.   
+But I would like to enjoy a Unity Mirror Relay code that can be used in Unity and other apps by using Unity Relay per platform.  
+What's the point? The idea here would be to have a boolean and command-driven network easy to deploy and to hook into.
  
 ## AOMI
 
-I don't have time for that now. But that something that was my priority list if I had to work more time with Molengeek.    
-A tool that allows with ADB to make some actions on phone and VR headset with the same design of JOMI and XOMI.   
+I don't have time for that now. But that's something that was on my priority list if I had to work more time with Molengeek.    
+A tool that allows with ADB to make some actions on phones and VR headsets with the same design as JOMI and XOMI.   
  
-It would be a good addition to the toolbox to help game testers and botters on phone.    
+It would be a good addition to the toolbox to help game testers and botters on the phone.    
 
 
-
-
-
-
-
-
-# Life Time project
+# Lifetime Project
 |  |   |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInputRuntime)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInputRuntime) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=2020_04_10_JavaOpenMacroInput)](https://github.com/EloiStree/2020_04_10_JavaOpenMacroInput) |
@@ -151,7 +139,7 @@ It would be a good addition to the toolbox to help game testers and botters on p
 
 
 # 📚 Teaching Workshop
-Tool use to teach and share knowedge during workshop.
+Tools used to teach and share knowledge during workshops.
 | |  |
 |:---: | :---: |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnity)](https://github.com/EloiStree/HelloUnity) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloRemoteFirework)](https://github.com/EloiStree/HelloRemoteFirework) |
@@ -164,24 +152,24 @@ Tool use to teach and share knowedge during workshop.
 
 # Notes 
 
-### I don't publish on store
+### I Don't Publish on Stores
 
-*"Life is too short to spend time selling and protecting my codes"*  
-I spend so many hours trying to put games and codes on the store and beeing refused at the end.
+*"Life is too short to spend time selling and protecting my codes."*  
+I spent so many hours trying to put games and codes on the store and being refused in the end.
 Don't expect my production to be on stores.
 
-Find all my works on a online drive:
+Find all my works on an online drive:
 [https://eloi.page.link/bundle](https://eloi.page.link/bundle)
 
-### Social media
+### Social Media
 
-I realized after years of failing that I am big fat noob in communication...   
-I tried twitter, reddit, youtube... I am Sooo bad at it.  
+I realized after years of failing that I am a big fat noob in communication...   
+I tried Twitter, Reddit, YouTube... I am so bad at it.  
 
 So I decided to delete them all and to focus on three communications:  
 - This landing page on [GitHub / EloiStree](https://github.com/EloiStree/) 
 - My [Discord](https://eloistree.page.link/discord) where you can ping me to talk.
-- Some video on Youtube: [https://eloi.page.link/links](https://eloi.page.link/links)
+- Some videos on YouTube: [https://eloi.page.link/links](https://eloi.page.link/links)
 
 
 # In Conclusion
@@ -193,7 +181,8 @@ Ping me when you need 😀:
 
 May the code be with you,   
 Kind regards,  
-Eloi S.  
+Eloi S.
+
 
 --------------------------------
 🧰 📦 📹 💻 💥 🎮 𑁒 🔨 🍻 ☕ 

@@ -11,8 +11,8 @@ I work with an open source pay wall donation system:
  
 
 The handing page of the drive is here:  
-Download my drive from: [GitHub](https://eloistree.github.io/r/download/github/) - [Patreon](https://eloistree.github.io/r/download/patreon/) - [Tipeee](https://eloistree.github.io/r/download/tipeee/) - [Discord](https://eloistree.github.io/r/download/discord/) - [KoFi](https://eloistree.github.io/r/download/kofi/)
-But you need to be monthly sponsor to have access to it.  
+Download my drive from: [GitHub](https://eloistree.github.io/r/download/github/) - [Patreon](https://eloistree.github.io/r/download/patreon/) - [Tipeee](https://eloistree.github.io/r/download/tipeee/) - [Discord](https://eloistree.github.io/r/download/discord/) - [KoFi](https://eloistree.github.io/r/download/kofi/)  
+But you need to be monthly sponsor to have access to it.    
 
 I am a bit messy, if you don't find what you are looking for,  
 Feel free to ping me on Discord 😉.  

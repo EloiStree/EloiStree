@@ -139,6 +139,8 @@ It would be a good addition to the toolbox to help game testers and botters on t
 
 
 # 📚 Teaching Workshop
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/167c0e68-82b8-4286-9142-2e982671a58c)
+
 Tools used to teach and share knowledge during workshops.
 | |  |
 |:---: | :---: |
@@ -146,6 +148,8 @@ Tools used to teach and share knowledge during workshops.
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloVirtualReality)](https://github.com/EloiStree/HelloVirtualReality) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=CodeAndQuestsEveryDay)](https://github.com/EloiStree/CodeAndQuestsEveryDay) |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityPackage)](https://github.com/EloiStree/HelloUnityPackage) | |
 |[![A](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloHololens)](https://github.com/EloiStree/HelloHololens) | [![B](https://github-readme-stats.vercel.app/api/pin/?username=eloistree&repo=HelloUnityForArtists)](https://github.com/EloiStree/HelloUnityForArtists) |
+
+
 
 
 -----------------------

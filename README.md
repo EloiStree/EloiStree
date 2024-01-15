@@ -50,8 +50,8 @@ https://openupm.com/packages/?sort=downloads&q=eloistree
 
 ## Portfolio
 
-I am coding all day... And most of the code are not visuality showable.
-But you can find a list of some of my project: [here](https://github.com/EloiStree/EloiStree/blob/master/Issues/ProjectsID.md)
+I am coding all day... And most of the code are not showable.
+But you can find some here: [here](https://github.com/EloiStree/EloiStree/blob/master/Issues/ProjectsID.md)
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/95ec2872-4dd8-4520-a5b3-84b3e0b320de)](https://github.com/EloiStree/EloiStree/blob/master/Issues/ProjectsID.md)  
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/6b839c24-c03c-4868-961b-15314b75769b)](https://github.com/EloiStree/EloiStree/blob/master/Issues/ProjectsID.md)  
 

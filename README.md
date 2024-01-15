@@ -45,11 +45,8 @@ https://openupm.com/packages/?sort=downloads&q=eloistree
 
 ### GitHub / Gitlab
 
-So my work is still split in two: [GitLab projects](https://gitlab.com/users/eloistree/projects) - [GitHub Projects](https://github.com/EloiStree?tab=repositories)   
-![image](https://github.com/EloiStree/EloiStree/assets/20149493/ba88fc98-9f27-4577-a99f-7799f46515e7)
-
-Tried to make list of what I coded in the past... Fail  
-[https://github.com/EloiStree/UnityToolbox/discussions](https://github.com/EloiStree/UnityToolbox/discussions)  
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/803546a3-893f-4ef4-8201-1db1dbc0bafe)  
+[GitLab projects](https://gitlab.com/users/eloistree/projects) - [GitHub Projects](https://github.com/EloiStree?tab=repositories)   
 
 
 # 📚 Teaching Workshop

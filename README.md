@@ -49,8 +49,10 @@ https://openupm.com/packages/?sort=downloads&q=eloistree
 [GitLab projects](https://gitlab.com/users/eloistree/projects) - [GitHub Projects](https://github.com/EloiStree?tab=repositories)   
 
 
-# 📚 Teaching Workshop
-![image](https://github.com/EloiStree/EloiStree/assets/20149493/167c0e68-82b8-4286-9142-2e982671a58c)
+# 📚 Teaching Workshop  
+
+![image](https://github.com/EloiStree/EloiStree/assets/20149493/167c0e68-82b8-4286-9142-2e982671a58c)  
+Twitch: [EloiTeaching](https://www.twitch.tv/eloiteaching)   Youtube: [Eloi Raw](https://www.youtube.com/@eloistreeraw) & [Multiple attempts of channel](https://www.youtube.com/results?search_query=eloistree)  
 
 Tools used to teach and share knowledge during workshops.
 | |  |

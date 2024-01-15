@@ -39,7 +39,7 @@ How to install in  Unity3D ?
 ### OpenUPM
 
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/46b0b943-51cc-4bb4-84d0-34972e4694af)](https://openupm.com/packages/?sort=downloads&q=eloistree)  
-"Unity Asset store refused my tools 5 times in my life: F**k them."  
+__"Unity store rejected my tools five times in my life: F**k them."__  
 https://openupm.com/packages/?sort=downloads&q=eloistree    
 
 

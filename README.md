@@ -1,6 +1,4 @@
-Just for this weekend: https://github.com/EloiStree/2024_01_26_UnityCoachKiss2024
 
----------------------
 
 #  Hello there 👋
 

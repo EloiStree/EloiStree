@@ -36,6 +36,8 @@ How to install in  Unity3D ?
 "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
 "be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
 "be.eloistree.zhulistaticsingleton": "https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
+"be.eloistree.etoolboxbasicfont": "https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
+"be.eloistree.etoolboxcolordrop": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
 ```
 
 ### OpenUPM

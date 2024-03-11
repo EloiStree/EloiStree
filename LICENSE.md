@@ -10,7 +10,7 @@ The license is a **community salary** license:
 > If you are using my tool, works or if I am beeing useful to you, I invite you to make monthly donation to help me live.  
 >        
 > You can use all my work commercialy, just return the elevator if you are able to.     
-> Take in consideration that I need a minimum to live and additional income to allows me to hire people on topic I am not good at. 
+
 
 Support my works 💰:   
 [https://en.tipeee.com/eloilab/](https://en.tipeee.com/eloilab/)   

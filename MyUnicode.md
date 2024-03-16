@@ -1,6 +1,8 @@
 Unicode:
 https://emojipedia.org/satellite-antenna
 
+LOL Window + ;  Fun Fun Fun.
+
 Joystick: 🕹️🖲️
 Xinput: 🎮
 Mouse: 🖱️

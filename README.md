@@ -14,15 +14,11 @@ Learn about Open Macro input :
 [About](https://openmacroinput.github.io/r/about) - [Learn](https://openmacroinput.github.io/r/learn) - [API](https://openmacroinput.github.io/r/api) - [Invest](https://openmacroinput.github.io/r/invest) - [Download](https://openmacroinput.github.io/r/download)  
 
 
-###  Download Éloi Laboratory
+###  IMMO: Integer Games
 
-For 5€ have access to my labortary:  
-https://en.tipeee.com/eloilab  
+Git: [Integer Games](https://github.com/EloiStree/IntegerGames) | [RSA Key](https://github.com/EloiStree/IntegerGamesPublicKey) | RSA to Platform | [Tools](https://github.com/EloiStree/IntegerGamesTools)  
+[![image](https://github.com/EloiStree/EloiStree/assets/20149493/d131be29-68c5-47b4-bf6a-0a4e6a05a977)](https://github.com/EloiStree/IntegerGames)  
   
-That all.  
-Simple 😉.   
-
- 
 
 ------------------------
 ## Toolboxes

@@ -16,7 +16,8 @@ Learn about Open Macro input :
 
 ###  IMMO: Integer Games
 
-Git: [Integer Games](https://github.com/EloiStree/IntegerGames) | [RSA Key](https://github.com/EloiStree/IntegerGamesPublicKey) | [RSA to Platform](https://github.com/EloiStree/IntegerGames) | [Tools](https://github.com/EloiStree/IntegerGamesTools)  | [Website Landing Page](https://integergames.be) | [Log In](https://www.tipeeestream.com/integergames/)
+Git; [Integer Games](https://github.com/EloiStree/IntegerGames) | [RSA Key](https://github.com/EloiStree/IntegerGamesPublicKey) | [RSA to Platform](https://github.com/EloiStree/IntegerGames) | [Tools](https://github.com/EloiStree/IntegerGamesTools)    
+Web: [Website Landing Page](https://integergames.be) | [Log In](https://www.tipeeestream.com/integergames/)  
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/d131be29-68c5-47b4-bf6a-0a4e6a05a977)](https://github.com/EloiStree/IntegerGames)  
   
 

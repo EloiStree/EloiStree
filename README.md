@@ -3,7 +3,6 @@
 #  Hello there 👋
 
 ![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)  
-![image](https://github.com/EloiStree/EloiStree/assets/20149493/37940658-7786-4eb2-b8bb-636f33880c66)
 
 
 ### Visit card redirection links

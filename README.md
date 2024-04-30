@@ -35,6 +35,8 @@ How to install in  Unity3D ?
 "be.eloistree.etoolboxbasicfont": "https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
 "be.eloistree.etoolboxcolordrop": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
 "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",
+"be.eloistree.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+
 ```
 
 ### OpenUPM

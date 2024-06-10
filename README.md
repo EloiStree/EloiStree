@@ -84,7 +84,8 @@ From a tool I generate preview of workshop that you can find here:
 
 # Need my help for something ?    
 
-![image](https://user-images.githubusercontent.com/20149493/120360275-dc69ad80-c308-11eb-8a17-d7be81d87f44.png)
+Feel free to ping me. I often do a quick break to help when I can.  
+![image](https://user-images.githubusercontent.com/20149493/120360275-dc69ad80-c308-11eb-8a17-d7be81d87f44.png)  
 
 May the code be with you,   
 Kind regards,  

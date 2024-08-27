@@ -27,15 +27,23 @@ In any project I am working on, you will find these packages in the manifest:
 
 How to install in  Unity3D ?
 ```
-"be.eloistree.license": "https://github.com/EloiStree/GeneralLicense.git",
-"be.eloistree.generaltoolbox": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
 "be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
 "be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+
+
+"be.eloistree.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+
+
+"be.eloistree.license": "https://github.com/EloiStree/GeneralLicense.git",
+"be.eloistree.generaltoolbox": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+
 "be.eloistree.zhulistaticsingleton": "https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
+
 "be.eloistree.etoolboxbasicfont": "https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
 "be.eloistree.etoolboxcolordrop": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
+
+
 "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",
-"be.eloistree.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
 
 ```
 

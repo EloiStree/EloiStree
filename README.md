@@ -27,8 +27,8 @@ In any project I am working on, you will find these packages in the manifest:
 
 How to install in  Unity3D ?
 ```
-"be.eloistree.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
-"be.eloistree.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+"be.elab.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+"be.elab.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
 
 
 "be.eloistree.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",

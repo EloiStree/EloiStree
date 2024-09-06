@@ -52,16 +52,16 @@ How to install in  Unity3D ?
 "be.elab.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
 
 
-"be.eloistree.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+"be.elab.watchexecutetime": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
 
 
-"be.eloistree.license": "https://github.com/EloiStree/GeneralLicense.git",
-"be.eloistree.generaltoolbox": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
+"be.elab.license": "https://github.com/EloiStree/GeneralLicense.git",
+"be.elab.generaltoolbox": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
 
-"be.eloistree.zhulistaticsingleton": "https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
+"be.elab.zhulistaticsingleton": "https://github.com/EloiStree/2022_11_22_ZhuLiStaticSingleton.git",
 
-"be.eloistree.etoolboxbasicfont": "https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
-"be.eloistree.etoolboxcolordrop": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
+"be.elab.etoolboxbasicfont": "https://github.com/EloiStree/2024_03_11_eToolbox_BasicFont.git",
+"be.elab.etoolboxcolordrop": "https://github.com/EloiStree/2024_03_11_eToolbox_ColorDrop.git",
 
 
 "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",

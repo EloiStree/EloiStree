@@ -31,7 +31,7 @@ By default all my work is under a variation of the [Beerware License](https://en
  * As long as you retain this notice you
  * can do whatever you want with this stuff.
  * If you think my code made you win a day of work,
- * send me a pizza at
+ * send me a good 🍺 or a 🍕 at
  *  - PayPal: https://www.paypal.me/eloistree
  *  - ETH: 0xDa3239C8ad5C321A1411F3acC2C1f9F8C9D34ECE
  * May the code be with you.

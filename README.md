@@ -18,7 +18,28 @@ Learn about Open Macro input :
 Git; [Integer Games](https://github.com/EloiStree/IntegerGames) | [RSA Key](https://github.com/EloiStree/IntegerGamesPublicKey) | [RSA to Platform](https://github.com/EloiStree/IntegerGamesPlatformsLink) | [Tools](https://github.com/EloiStree/IntegerGamesTools)    
 Web: [Website Landing Page](https://integergames.be) | [Log In](https://www.tipeeestream.com/integergames/)  
 [![image](https://github.com/EloiStree/EloiStree/assets/20149493/d131be29-68c5-47b4-bf6a-0a4e6a05a977)](https://github.com/EloiStree/IntegerGames)  
-  
+
+
+## Code License
+
+By default all my work is under a variation of the [Beerware License](https://en.wikipedia.org/wiki/Beerware).
+```
+/*
+ * ----------------------------------------------------------------------------
+ * "PIZZA LICENSE":
+ * https://github.com/EloiStree wrote this file.
+ * As long as you retain this notice you
+ * can do whatever you want with this stuff.
+ * If you think my code made you win a day of work,
+ * send me a pizza at
+ *  - PayPal: https://www.paypal.me/eloistree
+ *  - ETH: 0xDa3239C8ad5C321A1411F3acC2C1f9F8C9D34ECE
+ * May the code be with you.
+ * ----------------------------------------------------------------------------
+ */
+```
+
+
 
 ------------------------
 ## Toolboxes

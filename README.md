@@ -59,14 +59,6 @@ How to install in  Unity3D ?
 ```
 
 
-### Visit card redirection links
-
-Learn about Eloi Stree :
-[About](https://eloistree.github.io/r/about) - [Portfolio](https://eloistree.github.io/r/portfolio) - [Service](https://eloistree.github.io/r/service) - [Contact](https://eloistree.github.io/r/contact) - [Download](https://eloistree.github.io/r/download)  
-Learn about Open Macro input :
-[About](https://openmacroinput.github.io/r/about) - [Learn](https://openmacroinput.github.io/r/learn) - [API](https://openmacroinput.github.io/r/api) - [Invest](https://openmacroinput.github.io/r/invest) - [Download](https://openmacroinput.github.io/r/download)  
-
-
 ### IMMO + OMI + Drone = Eloi Lab RC
 
 In 2019, I explored key remapping and bot programming for games as part of QA testing. This project, called Open Macro Input, was designed to automate in-game actions.  

@@ -59,11 +59,11 @@ By default all my work is under a variation of the [Beerware License](https://en
 
 ### IMMO + OMI + Drone = Eloi Lab RC
 
-In 2019, I explored key remapping and bot programming for games as part of QA testing. This project, called Open Macro Input, was designed to automate in-game actions.  
-In 2023, I realized that the project would be much more effective with a server to transmit primitive values between the devices I control, as a simple integer would suffice in most cases. This led to the creation of the OMI project.  
-In 2022, I began building drones and running coding workshops for children, a project I named Drone XR.  
-In 2024, I started experimenting with the concept of multiplayer drone games, using integers as inputs for game controls.  
-From 2025 to 2028, I plan to launch a channel to teach coding in Unity3D by creating a drone game controlled through programming: Eloi Laboratory RC.
+- In 2019, I explored key remapping and bot programming for games as part of QA testing. This project, called Open Macro Input, was designed to automate in-game actions.  
+- In 2023, I realized that the project would be much more effective with a server to transmit primitive values between the devices I control, as a simple integer would suffice in most cases. This led to the creation of the OMI project.  
+- In 2022, I began building drones and running coding workshops for children, a project I named Drone XR.  
+- In 2024, I started experimenting with the concept of multiplayer drone games, using integers as inputs for game controls.  
+- From 2025 to 2028, I plan to launch a channel to teach coding in Unity3D by creating a drone game controlled through programming: Eloi Laboratory RC.
 [Find more =>](https://github.com/EloiStree?tab=repositories&q=elabrc&type=&language=&sort=)
 
 ### OpenUPM

@@ -8,19 +8,6 @@
 ![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)  
 
 
-### Visit card redirection links
-
-Learn about Eloi Stree :
-[About](https://eloistree.github.io/r/about) - [Portfolio](https://eloistree.github.io/r/portfolio) - [Service](https://eloistree.github.io/r/service) - [Contact](https://eloistree.github.io/r/contact) - [Download](https://eloistree.github.io/r/download)  
-Learn about Open Macro input :
-[About](https://openmacroinput.github.io/r/about) - [Learn](https://openmacroinput.github.io/r/learn) - [API](https://openmacroinput.github.io/r/api) - [Invest](https://openmacroinput.github.io/r/invest) - [Download](https://openmacroinput.github.io/r/download)  
-
-
-###  IMMO: Integer Games
-
-Git; [Integer Games](https://github.com/EloiStree/IntegerGames) | [RSA Key](https://github.com/EloiStree/IntegerGamesPublicKey) | [RSA to Platform](https://github.com/EloiStree/IntegerGamesPlatformsLink) | [Tools](https://github.com/EloiStree/IntegerGamesTools)    
-Web: [Website Landing Page](https://integergames.be) | [Log In](https://www.tipeeestream.com/integergames/)  
-[![image](https://github.com/EloiStree/EloiStree/assets/20149493/d131be29-68c5-47b4-bf6a-0a4e6a05a977)](https://github.com/EloiStree/IntegerGames)  
 
 
 ## Code License
@@ -70,6 +57,24 @@ How to install in  Unity3D ?
 "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",
 
 ```
+
+
+### Visit card redirection links
+
+Learn about Eloi Stree :
+[About](https://eloistree.github.io/r/about) - [Portfolio](https://eloistree.github.io/r/portfolio) - [Service](https://eloistree.github.io/r/service) - [Contact](https://eloistree.github.io/r/contact) - [Download](https://eloistree.github.io/r/download)  
+Learn about Open Macro input :
+[About](https://openmacroinput.github.io/r/about) - [Learn](https://openmacroinput.github.io/r/learn) - [API](https://openmacroinput.github.io/r/api) - [Invest](https://openmacroinput.github.io/r/invest) - [Download](https://openmacroinput.github.io/r/download)  
+
+
+### IMMO + OMI + Drone = Eloi Lab RC
+
+In 2019, I explored key remapping and bot programming for games as part of QA testing. This project, called Open Macro Input, was designed to automate in-game actions.  
+In 2023, I realized that the project would be much more effective with a server to transmit primitive values between the devices I control, as a simple integer would suffice in most cases. This led to the creation of the OMI project.  
+In 2022, I began building drones and running coding workshops for children, a project I named Drone XR.  
+In 2024, I started experimenting with the concept of multiplayer drone games, using integers as inputs for game controls.  
+From 2025 to 2028, I plan to launch a channel to teach coding in Unity3D by creating a drone game controlled through programming: Eloi Laboratory RC.
+[Find more =>](https://github.com/EloiStree?tab=repositories&q=elabrc&type=&language=&sort=)
 
 ### OpenUPM
 

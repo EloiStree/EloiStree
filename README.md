@@ -34,9 +34,7 @@ By default all my work is under a variation of the [Beerware License](https://en
 ------------------------
 ## Toolboxes
 
-In any project I am working on, you will find these packages in the manifest:
 
-How to install in  Unity3D ?
 ```
 "be.elab.quickgitutility": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
 "be.elab.unitypackagefacilitator": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",

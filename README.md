@@ -22,7 +22,7 @@ By default all my work is under a variation of the [Beerware License](https://en
  * can do whatever you want with this stuff.
  * If you think my code made you win a day of work,
  * send me a good 🍺 or a 🍕 at
- *  - https://www.patreon.com/eloiteaching
+ *  - https://buymeacoffee.com/apintio
  * 
  * You can also support my work by building your own DIY input using Amazon links:
  * - https://github.com/EloiStree/HelloInput

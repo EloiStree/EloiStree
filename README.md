@@ -22,7 +22,7 @@ This year, I am focusing on three main goals:
 - [2025_01_01_](https://github.com/EloiStree?tab=repositories&q=2025_01_01_&type=&language=&sort=): Repositories containing code I plan to work on this year.  
 - [pypi_](https://github.com/EloiStree?tab=repositories&q=pypi_&type=&language=&sort=): Python libraries for interacting with APInt.io.  
 - [crate_](https://github.com/EloiStree?tab=repositories&q=crate_&type=&language=&sort=): Rust libraries for interacting with APInt.io.
-- [WowInt](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft): Code to allows playing at Warcraft with code and any Four controllers Xbox Game using IID/APint.io
+- [WowInt](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft): Code to allows playing at Warcraft with code and any Four controllers Xbox Game using IID/APInt.io
 
 
 ## Code License

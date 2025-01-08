@@ -15,6 +15,10 @@ This year, I am focusing on three main goals:
 - Developing [APInt.io](https://github.com/EloiStree/apint.io), an API for integrating games and creating "IFTTT"-style automation in Python.  
 - Ensuring IID and APInt.io work seamlessly on Android, Windows, and Quest 3 as clients.  
 
+Find  tutorial in french here:  
+- [https://www.youtube.com/@EloiTeaching/videos](https://www.youtube.com/@EloiTeaching/videos)  
+(I am writing this in French because I assume we will soon have AI auto-translation on YouTube).  
+
 ### Key Links:  
 - [IID](https://github.com/EloiStree/IID): The format used across my toolboxes.  
 - [apint.io](https://github.com/EloiStree/apint.io): API Int In/Out – a Raspberry Pi-hosted shared server built using IID.  

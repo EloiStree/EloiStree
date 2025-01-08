@@ -8,6 +8,20 @@
 ![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)  
 
 
+## 2025: 🍺🦊.io  
+
+This year, I am focusing on three main goals:  
+- Teaching coding through [IID](https://github.com/EloiStree/IID) with Twitch Play integration.  
+- Developing [APInt.io](https://github.com/EloiStree/apint.io), an API for integrating games and creating "IFTTT"-style automation in Python.  
+- Ensuring IID and APInt.io work seamlessly on Android, Windows, and Quest 3 as clients.  
+
+### Key Links:  
+- [IID](https://github.com/EloiStree/IID): The format used across my toolboxes.  
+- [apint.io](https://github.com/EloiStree/apint.io): API Int In/Out – a Raspberry Pi-hosted shared server built using IID.  
+- [MetaMask Sign In Coaster](https://github.com/EloiStree/SignMetaMaskTextHere): A concept for signing into APInt.io with IID using Ethereum/MetaMask and RSA/ETH coasters.  
+- [2025_01_01_](https://github.com/EloiStree?tab=repositories&q=2025_01_01_&type=&language=&sort=): Repositories containing code I plan to work on this year.  
+- [pypi_](https://github.com/EloiStree?tab=repositories&q=pypi_&type=&language=&sort=): Python libraries for interacting with APInt.io.  
+- [crate_](https://github.com/EloiStree?tab=repositories&q=crate_&type=&language=&sort=): Rust libraries for interacting with APInt.io.  
 
 
 ## Code License

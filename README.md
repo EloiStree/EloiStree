@@ -21,7 +21,8 @@ This year, I am focusing on three main goals:
 - [MetaMask Sign In Coaster](https://github.com/EloiStree/SignMetaMaskTextHere): A concept for signing into APInt.io with IID using Ethereum/MetaMask and RSA/ETH coasters.  
 - [2025_01_01_](https://github.com/EloiStree?tab=repositories&q=2025_01_01_&type=&language=&sort=): Repositories containing code I plan to work on this year.  
 - [pypi_](https://github.com/EloiStree?tab=repositories&q=pypi_&type=&language=&sort=): Python libraries for interacting with APInt.io.  
-- [crate_](https://github.com/EloiStree?tab=repositories&q=crate_&type=&language=&sort=): Rust libraries for interacting with APInt.io.  
+- [crate_](https://github.com/EloiStree?tab=repositories&q=crate_&type=&language=&sort=): Rust libraries for interacting with APInt.io.
+- [WowInt](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft): Code to allows playing at Warcraft with code and any Four controllers Xbox Game using IID/APint.io
 
 
 ## Code License

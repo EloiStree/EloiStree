@@ -8,8 +8,10 @@
 ![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)  
 
 
-## 2025: 🍺🦊.io  
+## 2025: 🍺 io  
 
+[http://apint.io](http://apint.io) - [🍺🦊.ws](🍺🦊.ws) - [http://apint.ddns.net](http://apint.ddns.net)   
+ 
 This year, I am focusing on three main goals:  
 - Teaching coding through [IID](https://github.com/EloiStree/IID) with Twitch Play integration.  
 - Developing [APInt.io](https://github.com/EloiStree/apint.io), an API for integrating games and creating "IFTTT"-style automation in Python.  

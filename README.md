@@ -90,7 +90,7 @@ Did not used it to mush
 ```
 
 
-### IMMO + OMI + Drone = Eloi Lab RC
+### IMMO + OMI +APINTIO + Drone = Eloi Lab RC
 
 - In 2019, I explored key remapping and bot programming for games as part of QA testing. This project, called Open Macro Input, was designed to automate in-game actions.  
 - In 2023, I realized that the project would be much more effective with a server to transmit primitive values between the devices I control, as a simple integer would suffice in most cases. This led to the creation of the OMI project.  

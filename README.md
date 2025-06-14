@@ -36,6 +36,8 @@ This year, I am focusing on three main goals:
 ## Code License
 
 By default all my work is under a variation of the [Beerware License](https://en.wikipedia.org/wiki/Beerware).
+[![image](https://github.com/user-attachments/assets/598b8bc7-2df2-4f65-89a9-5266495e9789)](https://en.wikipedia.org/wiki/Beerware)
+
 ```
 /*
  * ----------------------------------------------------------------------------

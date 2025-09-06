@@ -152,4 +152,10 @@ Kind regards,
 Eloi S.
 
 
+--------------------
+
+Since Septembre 2025
+<img width="1261" height="577" alt="image" src="https://github.com/user-attachments/assets/27f0ec07-c86e-4919-aaad-b30d83587ea6" />
+
+
 🧰 📦 📹 💻 💥 🎮 𑁒 🔨 🍻 ☕ 🧪

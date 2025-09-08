@@ -9,6 +9,11 @@
 Discord: [https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)
 
 
+## Next Hackathon
+
+- [ ] 03-04 Octobre https://www.billetweb.fr/intu-hackathon
+- [ ] 07-09 November https://www.cassini.eu/hackathons 
+
 ## 2025: 🍺 io  
 
 [http://apint.io](http://apint.io) - [http://🍺🦊.ws](http://🍺🦊.ws) - [http://apint.ddns.net](http://apint.ddns.net)   

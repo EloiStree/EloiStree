@@ -14,7 +14,7 @@ Discord: [https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)
 
 ## 2025: 🍺 io  
 
-[http://apint.io](http://apint.io) - [http://🍺🦊.ws](http://🍺🦊.ws) - [http://apint.ddns.net](http://apint.ddns.net)   
+[http://apint.io](http://apint.io) - [http://apint.ddns.net](http://apint.ddns.net)   
  
 This year, I am focusing on three main goals:  
 - Teaching coding through [IID](https://github.com/EloiStree/IID) with Twitch Play integration.  

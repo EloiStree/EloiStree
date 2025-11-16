@@ -1,6 +1,4 @@
-
-
-
+[Go to Repertory](https://github.com/EloiStree?tab=repositories)
 
 
 #  Hello there 👋
@@ -11,8 +9,8 @@ Discord: [https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)
 
 ## Next Hackathon
 
-- [ ] 03-04 Octobre https://www.billetweb.fr/intu-hackathon
-- [ ] 07-09 November https://www.cassini.eu/hackathons 
+- [ ] 03 December CrossTechExperience https://crosstechxperience.eu/hackathon-2-2025/
+- [ ] 26 January Global Game jam https://globalgamejam.org/
 
 ## 2025: 🍺 io  
 

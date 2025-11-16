@@ -2,7 +2,7 @@ Learn Godot ➡️  [💻 Code Section](https://github.com/EloiStree/HelloGodotC
 
 ------------------------------
 
-[Go to Repertory](https://github.com/EloiStree?tab=repositories)
+[Go to All Repertory](https://github.com/EloiStree?tab=repositories)
 
 
 #  Hello there 👋

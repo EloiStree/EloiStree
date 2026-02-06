@@ -13,8 +13,9 @@ Discord: [https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)
 
 ## Next Hackathon
 
-- [ ] 03 December CrossTechExperience https://crosstechxperience.eu/hackathon-2-2025/
-- [ ] 26 January Global Game jam https://globalgamejam.org/
+_Previous Hackathon: [Here](https://github.com/users/EloiStree/projects/21)_
+
+None
 
 ## 2025: 🍺 io  
 

@@ -4,9 +4,6 @@ Learn Godot ➡️  [💻 Code Section](https://github.com/EloiStree/HelloGodotC
 
 [Go to All Repositories](https://github.com/EloiStree?tab=repositories)
 
------
-
-Current: https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr/tree/main
 
 ------
 

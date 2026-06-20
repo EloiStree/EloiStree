@@ -2,9 +2,9 @@ Learn Godot ➡️  [💻 Code Section](https://github.com/EloiStree/HelloGodotC
 
 ------------------------------
 
-[Go to All Repositories](https://github.com/EloiStree?tab=repositories)
-
-
+[Code Lab XR](https://github.com/EloiStree/CodeLabXR) - [Code Lab Int 128x64](https://github.com/EloiStree/CodeLabInteger128x64)      
+[Go to All Repositories](https://github.com/EloiStree?tab=repositories)     
+   
 ------
 
 #  Hello there 👋

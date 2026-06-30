@@ -74,7 +74,7 @@ By default all my work is under a variation of the [Beerware License](https://en
 - https://github.com/EloiStree/Videos/issues
 - https://github.com/EloiStree/CommunityFeedbackCode/
 - https://github.com/EloiStree/UnityToolbox
-- 
+- https://github.com/EloiStree/2022_09_13_upm_reset_if_app_in_pause_too_long
 ------------------------
 
 ## Toolboxes

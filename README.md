@@ -2,15 +2,6 @@ Learn Godot ➡️  [💻 Code Section](https://github.com/EloiStree/HelloGodotC
 
 ------------------------------
 
-[S2W](https://github.com/EloiStree/S2W) - [XOMI](https://github.com/EloiStree/XOMI) - [IID](https://github.com/EloiStree/IID)   
-[Code Lab XR](https://github.com/EloiStree/CodeLabXR) - [G128x64](https://github.com/EloiStree/G128x64) - [APInt128x64](https://github.com/EloiStree/APInt128x64) - [Code Lab Cinema](https://github.com/EloiStree/CodeLabCinema)     
-[Go to All Repositories](https://github.com/EloiStree?tab=repositories)       
-   
-[http://apint.io](http://apint.io) - [http://apint.ddns.net](http://apint.ddns.net)      
-[MetaMask Coaster](https://github.com/EloiStree/SignMetaMaskTextHere) - [pypi_](https://github.com/EloiStree?tab=repositories&q=pypi_&type=&language=&sort=) - [crate_](https://github.com/EloiStree?tab=repositories&q=crate_&type=&language=&sort=)   
-
-------
-
 #  Hello there 👋
 
 ![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)  
@@ -18,6 +9,12 @@ Discord: [https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)
 
 
 
+[S2W](https://github.com/EloiStree/S2W) - [XOMI](https://github.com/EloiStree/XOMI) - [IID](https://github.com/EloiStree/IID)   
+[Code Lab XR](https://github.com/EloiStree/CodeLabXR) - [G128x64](https://github.com/EloiStree/G128x64) - [APInt128x64](https://github.com/EloiStree/APInt128x64) - [Code Lab Cinema](https://github.com/EloiStree/CodeLabCinema)     
+[Go to All Repositories](https://github.com/EloiStree?tab=repositories)       
+   
+[http://apint.io](http://apint.io) - [http://apint.ddns.net](http://apint.ddns.net)      
+[MetaMask Coaster](https://github.com/EloiStree/SignMetaMaskTextHere) - [pypi_](https://github.com/EloiStree?tab=repositories&q=pypi_&type=&language=&sort=) - [crate_](https://github.com/EloiStree?tab=repositories&q=crate_&type=&language=&sort=)   
 
 ------------------------
 

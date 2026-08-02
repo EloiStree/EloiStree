@@ -40,7 +40,39 @@ Main Box
 OLD
 "be.elab.generaltoolbox": "https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
 ```
- 
+
+
+**Main Project:**   
+ ```
+git clone --recursive https://github.com/EloiStree/CodeLabCinema.git
+cd CodeLabCinema
+git submodule foreach 'git switch main'
+cd ..
+git clone --recursive https://github.com/EloiStree/CodeLabXR.git
+cd CodeLabXR
+git submodule foreach 'git switch main'
+cd ..
+git clone --recursive https://github.com/EloiStree/G128x64.git
+cd G128x64
+git submodule foreach 'git switch main'
+cd ..
+git clone --recursive https://github.com/EloiStree/GOMI.git
+cd GOMI
+git submodule foreach 'git switch main'
+cd ..
+git clone --recursive https://github.com/EloiStree/CodeLabTV.git
+cd CodeLabTV
+git submodule foreach 'git switch main'
+cd ..
+git clone --recursive https://github.com/EloiStree/GoGitModule.git
+cd GoGitModule
+git submodule foreach 'git switch main'
+cd ..
+git clone --recursive https://github.com/EloiStree/2026_01_18_godot_nes_controller_udp.git
+cd 2026_01_18_godot_nes_controller_udp
+git submodule foreach 'git switch main'
+```
+
 
 ## Portfolio
 

@@ -1,0 +1,96 @@
+git clone --recursive https://github.com/EloiStree/CodeLabCinema.git
+cd CodeLabCinema
+git submodule foreach 'git switch main'
+
+cd ..
+
+
+
+git clone --recursive https://github.com/EloiStree/CodeLabXR.git
+cd CodeLabXR
+git submodule foreach 'git switch main'
+
+cd ..
+
+
+
+git clone --recursive https://github.com/EloiStree/G128x64.git
+cd G128x64
+git submodule foreach 'git switch main'
+
+cd ..
+
+
+
+git clone --recursive https://github.com/EloiStree/GOMI.git
+cd GOMI
+git submodule foreach 'git switch main'
+
+cd ..
+
+
+
+git clone --recursive https://github.com/EloiStree/CodeLabTV.git
+cd CodeLabTV
+git submodule foreach 'git switch main'
+
+cd ..
+
+
+
+
+git clone --recursive https://github.com/EloiStree/GoGitModule.git
+cd GoGitModule
+git submodule foreach 'git switch main'
+
+cd ..
+
+git clone --recursive https://github.com/EloiStree/2026_01_18_godot_nes_controller_udp.git
+cd 2026_01_18_godot_nes_controller_udp
+git submodule foreach 'git switch main'
+
+cd ..
+
+
+mkdir GitHub
+cd GitHub
+
+git clone https://github.com/EloiStree/GUID.git
+git clone https://github.com/EloiStree/GUID_YOUTUBE.git
+git clone https://github.com/EloiStree/r.git
+git clone https://github.com/EloiStree/Website.git
+
+git clone https://github.com/EloiStree/License.git
+
+git clone https://github.com/EloiStree/StoreCodeLabXR.git
+git clone https://github.com/EloiStree/StoreCodeLabTV.git
+
+git clone https://github.com/EloiStree/EloiStree.git
+git clone https://github.com/EloiStree/CodeLab.git
+git clone https://github.com/EloiStree/HelloHowToPublishWithGodot.git
+
+
+
+https://github.com/EloiStree/PicoS2W.git
+https://github.com/EloiStree/HelloGit.git
+https://github.com/EloiStree/HelloAdb.git
+https://github.com/EloiStree/HelloGodotCode.git
+https://github.com/EloiStree/HelloGodotEngineKeyword.git
+https://github.com/EloiStree/HelloGodotXR.git
+https://github.com/EloiStree/HelloCleanCode.git
+https://github.com/EloiStree/HelloRaspberryPi.git
+https://github.com/EloiStree/HelloGodotRemoteControlHub.git
+https://github.com/EloiStree/HelloQuest3.git
+https://github.com/EloiStree/Video.git
+https://github.com/EloiStree/HelloPlayTo.git
+https://github.com/EloiStree/A4.git
+
+https://github.com/EloiStree/IoT.git
+https://github.com/EloiStree/HelloGodotAssetLibrary.git
+https://github.com/EloiStree/HelloTwoWheelsCarKS4036.git
+https://github.com/EloiStree/HelloGodot128x64.git
+
+
+https://github.com/EloiStree/HelloTextByteInOutLayer.git
+https://github.com/EloiStree/HelloSteamOS.git
+https://github.com/EloiStree/HowToPlay.git

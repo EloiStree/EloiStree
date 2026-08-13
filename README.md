@@ -22,6 +22,11 @@ What I am working on at the moment is creating tools to organize code workshop a
 I try to make mini-games with Internet of Things hardware simulations for real-life remote-controlled robots.     
 The goal is to make your coding knowledge transferable to reality.      
 
+To make all of that work, I created two standards:
+* [S2W](https://github.com/EloiStree/S2W): Integers representing input.
+* [IID](https://github.com/EloiStree/IID): The player's index, followed by an integer value and the date of the action.
+
+
 The license for all my work, in summary:   
 *"If I save you one day of work, feel free to send me a beer."*   
 [https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)   

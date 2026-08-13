@@ -17,7 +17,7 @@ I have three lifetime projects that I would like to be able to provide to the co
 * **CodeLab TV/XR**: Mini-games in Godot, playable using UDP and WebSocket only, to learn coding.
 
 What I am working on at the moment is creating tools to organize code workshop and code tournaments in CodeLab mini-games.   
-The idea would be to train solo, test in XR, and then battle on a live server in a cinema.   
+**The idea would be to train solo, test in XR, and then battle on a live server in a cinema.**   
 
 I try to make mini-games with Internet of Things hardware simulations for real-life remote-controlled robots.     
 The goal is to make your coding knowledge transferable to reality.      

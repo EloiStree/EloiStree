@@ -2,6 +2,34 @@ Learn Godot ➡️  [💻 Code Section](https://github.com/EloiStree/HelloGodotC
 
 ------------------------------
 
+I am just a leaf on the wind who loves coding, while being badly designed in my brain for it.   
+I only hope for one thing in life: to have fun with code until I die. 😀  
+
+At 30, I almost died, and my last thought was:   
+*"It is a stupid death, but it was a fun life."*   
+
+I was never educated about making money... So I am very poor, but with a good and honest heart.   
+When I am not coding, I love teaching people how to code and doing game jams.   
+
+I have three lifetime projects that I would like to be able to provide to the community:
+* **APInt.io**: Raspberry Pi server that allows you to make games and communicate between PCs using only integers with RSA/ECC sign-in.
+* **GOMI**: Remapping of inputs to create macros in games, automations, and bots.
+* **CodeLab TV/XR**: Mini-games in Godot, playable using UDP and WebSocket only, to learn coding.
+
+The license for all my work, in summary:   
+*"If I save you one day of work, feel free to send me a beer."*   
+[https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)   
+
+I mainly work by creating toolboxes in Godot and Unity3D.    
+So feel free to fork them and make them your own.    
+Be careful, I code for myself... Code changes a lot.       
+_(Ping me if you use a toolbox and want a bit more stability on it.)_   
+
+
+
+
+-------
+
 #  Hello there 👋
 
 ![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)  

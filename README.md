@@ -16,6 +16,12 @@ I have three lifetime projects that I would like to be able to provide to the co
 * **GOMI**: Remapping of inputs to create macros in games, automations, and bots.
 * **CodeLab TV/XR**: Mini-games in Godot, playable using UDP and WebSocket only, to learn coding.
 
+What I am working on at the moment is creating tools to organize code workshop and code tournaments in CodeLab mini-games.   
+The idea would be to train solo, test in XR, and then battle on a live server in a cinema.   
+
+I try to make mini-games with Internet of Things hardware simulations for real-life remote-controlled robots.     
+The goal is to make your coding knowledge transferable to reality.      
+
 The license for all my work, in summary:   
 *"If I save you one day of work, feel free to send me a beer."*   
 [https://buymeacoffee.com/apintio](https://buymeacoffee.com/apintio)   

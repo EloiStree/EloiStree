@@ -46,8 +46,8 @@ https://buymeacoffee.com/apintio
 
 #  Links and stuffs 👋
 
-![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)    
-[<img width="1308" height="825" alt="image" src="https://github.com/user-attachments/assets/958a820b-b803-4e89-94c8-8f55648d729c" />](https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)   
+![image](https://user-images.githubusercontent.com/20149493/120363687-b80fd000-c30c-11eb-8b1f-848e74e308ec.png)      
+[![https://github.com/user-attachments/assets/958a820b-b803-4e89-94c8-8f55648d729c](https://github.com/user-attachments/assets/958a820b-b803-4e89-94c8-8f55648d729c)](https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)   
 Discord: [https://discord.gg/uKwNN2ECJH](https://discord.gg/uKwNN2ECJH)  
 
 
